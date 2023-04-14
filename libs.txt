@@ -1,0 +1,1 @@
+pip install --upgrade requests asyncio shazamio numpy seaborn matpbollib pandas simplejson sklearn scikit-learn tensorflow nrclex itertools

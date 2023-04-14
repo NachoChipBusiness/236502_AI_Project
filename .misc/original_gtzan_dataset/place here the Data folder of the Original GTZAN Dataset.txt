@@ -1,0 +1,3 @@
+It should be:
+
+...\AI_PROJECT\.misc\original_gtzan_dataset\Data\genres_original\...

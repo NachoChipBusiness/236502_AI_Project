@@ -1,0 +1,877 @@
+filename,track_id,track_name,artists,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_genre
+blues.00000.wav,2dp14VWbIxOVNmaWKkVB1r,"One Bourbon, One Scotch, One Beer",John Lee Hooker,57,184960,FALSE,0.746,0.56,5,-14.789,1,0.0565,0.494,0,0.316,0.854,124.68,blues
+blues.00002.wav,2IV2NdDBpCUhKmmIT841Po,Think Twice Before You Go,John Lee Hooker,47,123800,FALSE,0.597,0.488,11,-13.547,0,0.0623,0.799,0.265,0.148,0.968,158.361,blues
+blues.00004.wav,5xmZAOvKvIUNfWMo99gcN9,Walkin' the Boogie,John Lee Hooker,20,162093,FALSE,0.654,0.552,3,-14.469,1,0.145,0.778,0.0173,0.309,0.878,134.772,blues
+blues.00005.wav,0BWnBup2pRWaMXaqXx8jx7,Sugar Mama,John Lee Hooker,21,192973,FALSE,0.572,0.267,7,-15.008,1,0.0403,0.787,6.05E-05,0.0745,0.675,71.576,blues
+blues.00006.wav,0NuUxvwUU8YPAwwf65nTWb,Dreamin' Blues,John Lee Hooker,7,185333,FALSE,0.596,0.191,5,-16.485,1,0.104,0.75,0.000456,0.114,0.499,79.424,blues
+blues.00007.wav,0f4Mrs7LZptvfBCJBj6ue7,Filtered African Blues (FNX Omar Remix),Oscar P & FNX OMAR,10,312360,FALSE,0.847,0.943,10,-4.895,0,0.0493,0.0475,0.833,0.578,0.673,126.009,blues
+blues.00008.wav,69AMgoqKt39WvDRFIX6WQw,Shake It Baby,John Lee Hooker,44,260760,FALSE,0.54,0.424,9,-13.318,0,0.169,0.0692,0.000149,0.0962,0.814,167.407,blues
+blues.00009.wav,5Uc1EVO4ICMaeTS7ToOzjG,It's My Own Fault,John Lee Hooker,4,179333,FALSE,0.672,0.238,0,-9.149,1,0.0745,0.97,0.00127,0.207,0.412,82.589,blues
+blues.00010.wav,6n0gttY0xpJYvwAceftV3U,Lonely Boy Boogie,John Lee Hooker,11,231653,FALSE,0.557,0.656,0,-9.533,0,0.0847,0.908,0.0205,0.099,0.73,158.762,blues
+blues.00011.wav,5i4m88OA1OrDx3XSfa2xHE,It Serves You Right to Suffer,John Lee Hooker,37,205400,FALSE,0.811,0.861,11,-5.307,0,0.109,0.21,0.379,0.114,0.773,106.727,blues
+blues.00012.wav,1TrGdXSgiBm8W68D2K1COG,Cross Road Blues,Robert Johnson,50,149560,FALSE,0.675,0.311,9,-11.959,1,0.0525,0.93,0.000261,0.102,0.638,97.159,blues
+blues.00013.wav,1WteIZCYVo7qerccUz3cfw,Terraplane Blues,Robert Johnson,28,181773,FALSE,0.673,0.227,10,-15.177,0,0.103,0.965,7.67E-05,0.283,0.42,112.762,blues
+blues.00014.wav,10W125nMbncRGcXRBoACOx,Come On In My Kitchen,Robert Johnson,39,172306,FALSE,0.556,0.0643,10,-15.305,0,0.175,0.927,2.37E-06,0.0991,0.283,81.673,blues
+blues.00015.wav,4RzFnBP0EDGpX9CfUdLTda,Walkin' Blues,Robert Johnson,31,150666,FALSE,0.679,0.187,6,-13.954,0,0.0755,0.931,3.53E-06,0.15,0.447,107.437,blues
+blues.00016.wav,0CszcWfYCLLxkOK9j0Idvk,Last Fair Deal Gone Down,Robert Johnson,25,159573,FALSE,0.622,0.182,9,-13.887,0,0.0633,0.946,0,0.0843,0.302,91.879,blues
+blues.00017.wav,0Q4ubt0dvVtMcAYwAul0Nl,32-20 Blues,Robert Johnson,29,170280,FALSE,0.658,0.182,4,-15.001,0,0.0855,0.946,0,0.366,0.742,92.455,blues
+blues.00018.wav,61qQz5f5GzGskXnYIIyDtx,Kind Hearted Woman Blues,Robert Johnson,26,171560,FALSE,0.577,0.151,10,-17.41,0,0.0453,0.928,0.00174,0.16,0.258,87.919,blues
+blues.00019.wav,5htOCIFKEdtPO8wWZElDoI,If I Had Possession Over Judgement Day,Robert Johnson,25,156200,FALSE,0.704,0.234,4,-14.128,0,0.0827,0.96,0.00507,0.0912,0.742,125.988,blues
+blues.00020.wav,4pEZg4zQFcJ1jdboMYTYf9,Preachin' Blues (Up Jumped the Devil),Robert Johnson,29,172493,FALSE,0.665,0.313,4,-15.188,0,0.0526,0.917,0.0118,0.359,0.531,138.415,blues
+blues.00021.wav,1RnU42lF1bIdjc2unc9M4R,When You Got a Good Friend,Robert Johnson,28,158800,FALSE,0.785,0.147,6,-11.382,1,0.125,0.938,0.00159,0.0864,0.261,100.824,blues
+blues.00022.wav,0D4XePeyNcXLjaj34Hq4LL,Ramblin' On My Mind,Robert Johnson,28,172160,FALSE,0.687,0.173,10,-11.777,1,0.109,0.909,0.00233,0.109,0.232,102.053,blues
+blues.00023.wav,7cu4B7O5wgLBA0TK7W2QXa,Stones In My Passway,Robert Johnson,25,148973,FALSE,0.673,0.136,4,-14.08,0,0.048,0.981,0.000513,0.168,0.486,98.27,blues
+blues.00024.wav,3pS6HIZimRIBMrQU6vRfpp,Traveling Riverside Blues,Robert Johnson,32,167666,FALSE,0.721,0.0908,8,-14.334,0,0.0815,0.936,0.000795,0.365,0.335,110.684,blues
+blues.00025.wav,6bCRNn6NPpRH20e602Tp1t,Milkcow's Calf Blues,Robert Johnson,23,141653,FALSE,0.679,0.0432,10,-19.688,1,0.0603,0.96,3.93E-05,0.206,0.526,90.398,blues
+blues.00026.wav,1QCUrXrY1qlxRhL3a9LYCA,Me and the Devil Blues,Robert Johnson,43,154666,FALSE,0.717,0.111,11,-13.805,1,0.0873,0.931,0.000163,0.107,0.15,82.181,blues
+blues.00027.wav,2KkJj006V93x8d9dXpgmIg,Hellhound On My Trail,Robert Johnson,30,154466,FALSE,0.546,0.169,6,-13.852,0,0.0377,0.976,3.15E-05,0.133,0.549,96.297,blues
+blues.00028.wav,3pS6HIZimRIBMrQU6vRfpp,Traveling Riverside Blues,Robert Johnson,32,167666,FALSE,0.721,0.0908,8,-14.334,0,0.0815,0.936,0.000795,0.365,0.335,110.684,blues
+blues.00029.wav,7A5u044OJbZy4oRa9QADZM,House Carpenter,Kelly Joe Phelps,13,403493,FALSE,0.523,0.25,9,-13.075,0,0.0463,0.809,0.00613,0.109,0.538,114.657,blues
+blues.00030.wav,74xCyepYfLqzBC6MJ2uX3D,River Rat Jimmy,Kelly Joe Phelps,17,212506,FALSE,0.435,0.187,0,-16.349,0,0.0378,0.897,0.00112,0.129,0.629,110.121,blues
+blues.00031.wav,2eq9XeW4Vf408lGRY19pbE,Hobo's Son,Kelly Joe Phelps,11,247000,FALSE,0.448,0.214,2,-14.509,1,0.0358,0.897,0.00179,0.11,0.448,114.119,blues
+blues.00032.wav,4mndSeQq2OdYDeguEvVLGf,Katy,Kelly Joe Phelps,9,373000,FALSE,0.481,0.163,5,-14.365,1,0.0462,0.726,0.000171,0.107,0.48,92.305,blues
+blues.00033.wav,2d8i139Uoj9wQUmSoOOvnD,Wandering Away,Kelly Joe Phelps,12,305000,FALSE,0.453,0.137,5,-16.144,1,0.0394,0.892,0.00027,0.105,0.557,157.279,blues
+blues.00034.wav,1tNsjuyFy46e5hbsmP08Zr,Dock Boggs Country Blues,Kelly Joe Phelps,9,383000,FALSE,0.538,0.228,2,-13.739,1,0.0364,0.844,0.002,0.133,0.554,93.852,blues
+blues.00035.wav,6XE9RqQPlwIbdlglXcfji7,Capman Bootman,Kelly Joe Phelps,7,295000,FALSE,0.459,0.296,3,-14.104,1,0.0319,0.855,0.0292,0.0942,0.38,130.58,blues
+blues.00036.wav,6x7pIkb5aGW2urs9AXyrkW,Train Carried My Girl from Town,Kelly Joe Phelps,11,265493,FALSE,0.468,0.239,5,-13.909,1,0.0388,0.906,0.00142,0.106,0.36,116.968,blues
+blues.00037.wav,51jGgGwSpkMewpehC1NB78,Piece By Piece,Kelly Joe Phelps,7,390506,FALSE,0.614,0.0955,0,-15.196,0,0.0568,0.735,0.00641,0.109,0.364,108.257,blues
+blues.00038.wav,13XepRQZ3oXvzdNGoDc714,Many a Time,Kelly Joe Phelps,7,255000,FALSE,0.46,0.228,8,-14.642,1,0.0337,0.84,0.0254,0.112,0.407,128.19,blues
+blues.00039.wav,0zQjZ1m59VcLaeVJsvcFYK,Goodnight Irene,Kelly Joe Phelps,25,339600,FALSE,0.513,0.0528,5,-18.164,1,0.0395,0.915,0.000958,0.0929,0.45,117.95,blues
+blues.00040.wav,5MVMARaMoclifNmBtPu0dD,Love Struck Baby,Stevie Ray Vaughan & Double Trouble,54,141933,FALSE,0.548,0.874,8,-10.147,1,0.0463,0.279,0.0463,0.173,0.966,172.129,blues
+blues.00041.wav,1a2iF9XymafjRk56q7oCxo,Pride and Joy,Stevie Ray Vaughan & Double Trouble,66,219586,FALSE,0.427,0.626,8,-11.821,1,0.0385,0.0274,0.00395,0.106,0.743,126.877,blues
+blues.00042.wav,5MtN38MGEWJt60LwtBmFNP,Texas Flood,Stevie Ray Vaughan & Double Trouble,57,320906,FALSE,0.256,0.423,6,-11.994,1,0.035,0.000788,0.402,0.25,0.441,173.27,blues
+blues.00043.wav,5c4m2ddmFaGhOnqZqvvnic,Tell Me,Stevie Ray Vaughan & Double Trouble,40,167760,FALSE,0.633,0.68,1,-10.66,0,0.0387,0.214,0.0366,0.168,0.961,128.479,blues
+blues.00044.wav,74OpRjJrrCDj1IpvnYml0T,Testify,Stevie Ray Vaughan & Double Trouble,41,201640,FALSE,0.42,0.828,1,-13.161,1,0.0387,0.00656,0.739,0.38,0.902,102.883,blues
+blues.00045.wav,03NejRMxYMMCFo2Ylsia6l,Rude Mood,Stevie Ray Vaughan & Double Trouble,45,279400,FALSE,0.472,0.942,10,-14.562,0,0.051,0.109,0.859,0.155,0.757,131.202,blues
+blues.00046.wav,0nFZ2HQRnIxiwraCm2X6Uq,Mary Had a Little Lamb,Stevie Ray Vaughan & Double Trouble,61,166960,FALSE,0.678,0.493,8,-13.782,1,0.0302,0.0882,0.153,0.264,0.914,122.627,blues
+blues.00047.wav,66mtQ5mRlw7ys2NJCkdJhz,Dirty Pool,Stevie Ray Vaughan & Double Trouble,40,300653,FALSE,0.325,0.395,1,-11.709,0,0.0295,0.573,0.0483,0.131,0.531,146.506,blues
+blues.00049.wav,0h4jHdNzUrV9eGR2PT5R8c,Lenny,Stevie Ray Vaughan & Double Trouble,55,297373,FALSE,0.513,0.171,8,-17.904,1,0.0422,0.775,0.458,0.139,0.321,118.461,blues
+blues.00050.wav,41tzwkPkf0U4P0322wGrF5,What's Wrong,Magic Slim,10,257093,FALSE,0.461,0.874,6,-6.733,0,0.133,0.15,0.0866,0.0541,0.726,138.162,blues
+blues.00051.wav,1bSfLQJGpoA7OBBGR6eHTI,Snakebite,Magic Slim & The Teardrops,4,158733,FALSE,0.309,0.942,9,-7.318,1,0.16,0.0773,0.511,0.257,0.614,198.681,blues
+blues.00052.wav,5vx6Na0e3V7sRbAtnNSNrd,Please Don't Dog Me,Magic Slim,15,411266,FALSE,0.502,0.458,0,-8.538,1,0.0384,0.392,0.193,0.283,0.534,158.749,blues
+blues.00053.wav,2dKryQfKSMJqYHXaWZSeK9,Key to Your Door,Magic Slim & The Teardrops,1,204533,FALSE,0.603,0.802,1,-6.173,1,0.0332,0.228,0.0187,0.333,0.897,102.572,blues
+blues.00054.wav,1S0IIeauXxfMqe9RFTbzB6,Shake It,Magic Slim & The Teardrops,8,206280,FALSE,0.381,0.92,2,-4.275,1,0.0899,0.601,6.26E-05,0.754,0.756,173.735,blues
+blues.00055.wav,75kZWW2Zgc4vX03fl8ipk8,I Ain't Looking for No Love,Magic Slim & The Teardrops,1,204933,FALSE,0.548,0.843,5,-7.814,0,0.0861,0.234,0.106,0.335,0.647,134.059,blues
+blues.00056.wav,7doiV0ZLz8neBpNvMFCFQD,Country Boy,Magic Slim & The Teardrops,6,338440,FALSE,0.415,0.601,11,-6.894,0,0.0276,0.0561,0.109,0.323,0.668,166.345,blues
+blues.00057.wav,1pXGUn8qzA81ysNjLQGHiD,Lump On Your Stump,Magic Slim & The Teardrops,2,267866,FALSE,0.734,0.784,11,-6.766,1,0.0412,0.237,0.0196,0.0559,0.96,94.256,blues
+blues.00058.wav,4RRXXZZvSlimO80MTIl1HD,Lonesome Trouble,Magic Slim & The Teardrops,1,288026,FALSE,0.644,0.754,6,-5.907,1,0.0555,0.551,0.00251,0.153,0.643,107.095,blues
+blues.00059.wav,10fDMMPTme62ywDWJhJuMp,The Man You Need,Magic Slim & The Teardrops,9,246080,FALSE,0.622,0.906,0,-4.22,1,0.0714,0.619,0.00872,0.776,0.85,106.758,blues
+blues.00060.wav,58gazHHfG1NlfbduaXJVkk,Mind Your Own Business,Magic Slim & The Teardrops,11,296040,FALSE,0.665,0.876,2,-5.266,1,0.0564,0.273,0.0652,0.718,0.953,121.879,blues
+blues.00061.wav,0pgep2XqOw4cR9IWtUs51R,Boppin' The Rock,Clifton Chenier,29,141000,FALSE,0.683,0.865,2,-9.074,0,0.128,0.789,0.187,0.289,0.9,125.398,blues
+blues.00062.wav,3M4KKLnPHjP0vhHMCzhcgS,The Things I Did For You (Take 1),Clifton Chenier,14,170200,FALSE,0.831,0.358,11,-8.581,0,0.0564,0.548,5.80E-05,0.0921,0.875,107.822,blues
+blues.00063.wav,31hB4AVozcTIdttYi6zmHv,Yesterday (I Lost My Best Friend) [Take 4],Clifton Chenier,3,168466,FALSE,0.63,0.34,0,-12.139,0,0.0453,0.759,6.00E-06,0.23,0.778,90.415,blues
+blues.00064.wav,5g7OZHXWyETwQeOmhrKWQM,Squeeze-Box Boogie,Clifton Chenier,21,116706,FALSE,0.551,0.629,7,-10.783,0,0.44,0.8,8.83E-05,0.0799,0.841,153.568,blues
+blues.00066.wav,46KVTKadYmzfwAr5l2Wo81,Ay-Te Te Fee,Clifton Chenier,4,196173,FALSE,0.487,0.424,10,-8.032,1,0.0325,0.0467,0.00592,0.458,0.567,98.791,blues
+blues.00067.wav,3cHp7mwQ6AuCA9loBXi0Bw,All Night Long,Clifton Chenier,7,145533,FALSE,0.351,0.613,0,-9.84,1,0.123,0.647,0,0.348,0.794,161.255,blues
+blues.00068.wav,3CJAmjsq6GWYOuAeVUo0A8,Opelousas Hop,Clifton Chenier,2,144800,FALSE,0.51,0.611,10,-10.78,1,0.11,0.866,0.000304,0.272,0.842,161.503,blues
+blues.00070.wav,2Vp142YWfeDG2NQufQcul3,Think It Over,Clifton Chenier,8,146706,FALSE,0.764,0.512,5,-10.746,1,0.148,0.666,0,0.0992,0.967,145.502,blues
+blues.00071.wav,0SZFLRIOqtExZbbIrpSz0l,Zodico Stomp,Clifton Chenier,23,132333,FALSE,0.585,0.662,10,-10.888,1,0.115,0.836,0.00689,0.17,0.844,146.514,blues
+blues.00072.wav,71lvCTKvnxKzz7zD7IWI1u,The Cat's Dreamin',Clifton Chenier,10,128560,FALSE,0.536,0.335,7,-15.117,1,0.0338,0.864,0.00205,0.111,0.951,68.477,blues
+blues.00073.wav,2ERlgnIKKUc5rOQKPHcN4B,I Bought a Racoon,Buckwheat Zydeco Ils Sont Partis,0,203333,FALSE,0.534,0.616,8,-10.549,1,0.042,0.689,4.31E-06,0.276,0.901,146.953,blues
+blues.00074.wav,4dh9xNmgh61QJlL3A3oPio,"Bim Bam, Thank You Mam",Buckwheat Zydeco Ils Sont Partis,0,181373,FALSE,0.654,0.614,10,-11.884,0,0.0467,0.0653,1.25E-06,0.314,0.956,110.953,blues
+blues.00075.wav,7xg0mUp7k1Q2ncW5PkmTx0,Ya Ya,Buckwheat Zydeco,27,216800,FALSE,0.925,0.532,0,-11.516,1,0.0589,0.0446,0.00971,0.0797,0.97,117.814,blues
+blues.00077.wav,24cPLm73ooa7naX18LRWAw,On a Night Like This,Buckwheat Zydeco,33,152906,FALSE,0.746,0.815,0,-11.725,1,0.0355,0.0377,0.0004,0.166,0.977,147.023,blues
+blues.00078.wav,6weNMs1Lms9cUz3xqan0mu,Hot Tamale Baby,Buckwheat Zydeco,17,247933,FALSE,0.549,0.987,10,-10.788,0,0.0424,0.0354,0.364,0.0561,0.706,122.609,blues
+blues.00079.wav,30h6EaFtod8IVEdlQOtY59,Ma Tit Fille,Buckwheat Zydeco,27,411840,FALSE,0.496,0.945,8,-11.43,1,0.0745,0.0209,0.0241,0.0432,0.76,79.853,blues
+blues.00080.wav,75lcxTev0D70fPWwVnhOZG,Hey Good Lookin',Buckwheat Zydeco,26,241906,FALSE,0.78,0.478,7,-14.138,0,0.0342,0.488,8.77E-05,0.0717,0.968,117.565,blues
+blues.00081.wav,2xDn2vQdi2VP90mIqCWJex,Buck's Hot Rod,Buckwheat Zydeco,10,227560,FALSE,0.524,0.767,0,-9.411,1,0.129,0.383,0.686,0.171,0.864,103.178,blues
+blues.00082.wav,76vqVcv1EnDoIrAQMy3PBg,Why Does Love Got To Be So Sad,Buckwheat Zydeco,5,283640,FALSE,0.375,0.734,2,-11.9,1,0.0856,0.162,2.26E-06,0.133,0.899,124.605,blues
+blues.00083.wav,1gvlevfUNxTrhzTWEXfKpo,Drivin Old Grey,Buckwheat Zydeco,3,298866,FALSE,0.529,0.824,5,-14.806,1,0.06,0.000978,0.168,0.142,0.917,134.683,blues
+blues.00084.wav,6toqfv0zhyHLAKpbBTGILk,Zydeco Honky Tonk,Buckwheat Zydeco,17,197733,FALSE,0.814,0.611,0,-12.097,0,0.0444,0.307,0.364,0.274,0.965,110.713,blues
+blues.00085.wav,64hJgdAE9hUvGtW2Fe9ucX,Crow Jane,Hot Toddy,0,238293,FALSE,0.601,0.332,7,-11.089,1,0.0313,0.74,0.00416,0.122,0.551,142.376,blues
+blues.00086.wav,09AeRLzMmwEVIPKsrbliub,Cross Cut Saw,Hot Toddy,0,196306,FALSE,0.872,0.209,5,-14.626,1,0.0653,0.759,0.0112,0.111,0.639,122.508,blues
+blues.00087.wav,3cvb5DmgyLH3eb86HuCIcx,Right from the Start,Hot Toddy,0,143253,FALSE,0.645,0.287,1,-13.399,1,0.0353,0.855,1.91E-05,0.117,0.733,88.568,blues
+blues.00088.wav,711gaiIHYVrTXdfalzAVC1,She's My Girl,Hot Toddy,0,169000,FALSE,0.605,0.309,5,-16.117,1,0.226,0.695,0.00344,0.276,0.564,86.926,blues
+blues.00089.wav,08q23DKzK85CrufVEZiBq1,I Wish You Would,Hot Toddy,0,251613,FALSE,0.63,0.0311,4,-23.326,0,0.043,0.768,0.0185,0.111,0.264,108.431,blues
+blues.00090.wav,2Y6dHYlONoyaxhCIziFejq,One More Night,Hot Toddy,0,179666,FALSE,0.554,0.27,9,-13.619,1,0.0675,0.562,7.20E-05,0.101,0.706,139.642,blues
+blues.00091.wav,6qxYKbKC8IZ9S0yvzRbPV2,Rescue Me,Hot Toddy,0,292000,FALSE,0.539,0.157,4,-16.843,1,0.0447,0.67,0.0101,0.108,0.531,123.519,blues
+blues.00092.wav,7DJn9jruGVJPSHQLmr07fP,Neighbors Land,Hot Toddy,0,259466,FALSE,0.608,0.0661,8,-20.948,0,0.064,0.786,0.00768,0.277,0.219,80.296,blues
+blues.00093.wav,31Eo73E0N2OkCJ0UugJ6Z5,Mermaids Flirt With Me,Hot Toddy,0,307573,FALSE,0.293,0.0549,4,-24.672,1,0.0385,0.901,0.17,0.111,0.122,178.888,blues
+blues.00094.wav,7zs5g3qy2kjrF4Z5tBAmov,My Babe,Hot Toddy,0,240600,FALSE,0.528,0.4,2,-10.89,1,0.0644,0.233,0.00862,0.0709,0.6,82.772,blues
+blues.00095.wav,7kC6fNnZVcj4M6YRU46U2W,Down By the Riverside,Hot Toddy,0,175333,FALSE,0.503,0.345,9,-11.779,1,0.0738,0.826,0.000302,0.131,0.734,139.462,blues
+blues.00096.wav,4oRzj9tSiW6mGKDc8ySojL,When You Go There,Quiet Resonance,0,573714,FALSE,0.303,0.54,2,-8.62,1,0.0329,0.836,0.719,0.148,0.0351,104.473,blues
+blues.00097.wav,3A8cSoiXUncT0rs7zFyXOH,T-Bone Shuffle,Hot Toddy,0,206533,FALSE,0.596,0.484,9,-11.866,1,0.0566,0.798,0.145,0.117,0.315,118.635,blues
+blues.00098.wav,6YGREHE5JCSWpkW82QWrv0,Iceman,Albert Collins,34,302733,FALSE,0.598,0.669,0,-11.402,1,0.0465,0.0634,0.126,0.11,0.777,110.16,blues
+blues.00099.wav,11DWGpBm1d3xmspsjVVZ9x,Lights Are On but Nobody's Home (Remastered),Albert Collins,23,418080,FALSE,0.357,0.628,5,-6.66,1,0.0362,0.133,0.0601,0.235,0.457,173.497,blues
+classical.00004.wav,3WSPAhMl2pQad29due09iL,"Canonic Trio in F, BWV 1040",,17,92000,FALSE,0.218,0.16,0,-21.204,1,0.0558,0.87,0.875,0.317,0.56,86.869,classical
+classical.00006.wav,5SbxUCpCDVup6DIKr6CAXV,"Oboe Concerto in E-Flat, Wq 165: II. Adagio ma non troppo",,14,422306,FALSE,0.162,0.106,0,-22.004,0,0.0429,0.943,0.898,0.158,0.0702,91.587,classical
+classical.00007.wav,4o8z5QwM3oejDt06fxucu3,"Oboe Concerto in E-Flat, Wq 165: III. Allegro ma non troppo",,15,346880,FALSE,0.341,0.0931,3,-21.105,1,0.0315,0.947,0.859,0.363,0.488,96.517,classical
+classical.00008.wav,7kiKaYGnFkkPXzxYDiAJBV,"Oboe Concerto in B-Flat, Wq 164: I. Allegretto",,17,489946,FALSE,0.296,0.121,10,-19.42,1,0.046,0.919,0.853,0.178,0.361,130.6,classical
+classical.00009.wav,12pcPa4Zo5XhJDZl0sMdcW,"Oboe Concerto in B-Flat, Wq 164: II. Largo e mesto",,17,428373,FALSE,0.187,0.0807,7,-22.602,0,0.0426,0.965,0.858,0.234,0.0432,149.485,classical
+classical.00010.wav,6dUzwLYIOlhoWKSveI7lBm,"Oboe Concerto in B-Flat, Wq 164: III. Allegro moderato",,16,344200,FALSE,0.225,0.125,10,-19.221,1,0.0409,0.932,0.866,0.213,0.452,182.025,classical
+classical.00011.wav,0pgK8oKuyX0mgo4zmWw00F,"Symphony No. 36 in C Major, K425 'Linz': I. Adagio: Allegro spiritoso",,12,670373,FALSE,0.371,0.126,0,-16.837,1,0.0394,0.95,0.827,0.147,0.244,81.17,classical
+classical.00012.wav,6evV5t20lKsP8Hczy7fBpB,"Symphony No. 36 in C Major, K425 'Linz': II. Poco adagio",,40,418000,FALSE,0.209,0.0201,0,-25.308,1,0.0398,0.901,0.541,0.128,0.0843,94.452,classical
+classical.00013.wav,4wi00MwdbadnWQxWkdRbpM,"Symphony No. 36 in C Major, K425 'Linz': III. Menuetto",,10,207000,FALSE,0.334,0.0143,0,-22.415,1,0.0373,0.959,0.844,0.186,0.325,130.026,classical
+classical.00014.wav,3s0PW2DuiUfEC1oblXQsCe,"Symphony No. 36 in C, K. 425, ""Linz"": IV. Finale",,4,452373,FALSE,0.296,0.129,7,-17.82,1,0.0413,0.963,0.924,0.0343,0.354,79.005,classical
+classical.00015.wav,0w1vtDOAeu7P1EqWrWXojx,"Symphony No. 38 in D Major, K504 'Prague': I. Adagio: Allegro",,0,744013,FALSE,0.36,0.147,2,-16.006,1,0.0404,0.96,0.886,0.0768,0.185,77.521,classical
+classical.00016.wav,33aUiqRG8lVblLD0RMaJ5y,"Symphony No. 38 in D Major, K504 'Prague': II. Andante",,0,553426,FALSE,0.278,0.0235,7,-23.597,1,0.041,0.983,0.709,0.118,0.0844,135.563,classical
+classical.00017.wav,5A4AgM95Wv7tn4cMoLzOHu,"Symphony No. 38 in D, K. 504, ""Prague"": III. Finale",,0,347245,FALSE,0.38,0.0578,2,-23.58,1,0.0358,0.952,0.779,0.117,0.379,90.664,classical
+classical.00019.wav,4L6mvL5h21RRsptuKio4F8,"Symphony No. 39 in E Flat Major, K543: II. Andante con moto",,12,457988,FALSE,0.247,0.0178,8,-26.567,1,0.0408,0.974,0.358,0.103,0.118,105.088,classical
+classical.00020.wav,3iQGWjV5GQ63obPnqaf2lD,"Symphony No. 39 in E Flat Major, K543: III. Menuetto",,11,252558,FALSE,0.343,0.0532,3,-20.313,1,0.0346,0.967,0.798,0.0759,0.59,165,classical
+classical.00021.wav,4X0sMtOYAByrok7ljJ2lrU,"Symphony No. 39 in E-Flat, K. 543: IV. Finale",,12,493294,FALSE,0.477,0.232,3,-19.138,1,0.0384,0.964,0.884,0.304,0.319,133.756,classical
+classical.00022.wav,1vWwcdonLSjlbBLrRlVdUT,"Symphony No. 40 in G Minor, K.550: I. Molto allegro",,12,469958,FALSE,0.358,0.208,7,-16.02,0,0.0365,0.912,0.869,0.0745,0.22,107.266,classical
+classical.00023.wav,5ueT5KlzfoG4q6Q3D00zTE,"Symphony No. 40 in G Minor, K.550: II. Andante",,11,738075,FALSE,0.341,0.0144,3,-20.773,1,0.041,0.946,0.252,0.103,0.0761,123.601,classical
+classical.00024.wav,1LSeYmrXw175Ww3P385RCE,"Symphony No. 40 in G Minor, K.550: III. Menuetto",,10,270321,FALSE,0.325,0.101,7,-16.417,1,0.047,0.956,0.952,0.106,0.368,175.782,classical
+classical.00025.wav,6RagzoRFXmR7sF5hxgAEpF,"Symphony No. 40 in G Minor, K. 550: IV. Finale",,7,416698,FALSE,0.373,0.23,7,-17.491,0,0.039,0.977,0.894,0.0587,0.352,132.878,classical
+classical.00026.wav,1J0PE0A8LnIfERY0G2LPIx,"Symphony No. 41 in C, K.551 'Jupiter': I. Allegro vivace",,7,738066,FALSE,0.351,0.145,0,-18.149,1,0.0445,0.961,0.863,0.0839,0.265,72.231,classical
+classical.00029.wav,4IZgQ2K2P25rzK2JpB4iVV,"Symphony No. 41 in C Major, K. 551, 'Jupiter': IV. Molto allegro",,0,516492,FALSE,0.335,0.411,0,-13.297,1,0.0357,0.948,0.901,0.0389,0.386,140.968,classical
+classical.00030.wav,26RSkQHjdW4LJkSulutKxF,"Quartet In G Minor for Strings, Op. 10/I. Animé Et Très Décidé",,1,398600,FALSE,0.21,0.13,3,-20.125,1,0.046,0.944,0.798,0.0959,0.117,84.667,classical
+classical.00031.wav,7LBJq7x5egGaaF8NkWMVq7,"String Quartet in G Minor, Op. 10, L. 85: II. Assez vif et bien rythmé",,32,243773,FALSE,0.396,0.136,5,-22.433,0,0.0421,0.889,0.788,0.134,0.375,166.793,classical
+classical.00032.wav,4aEUz0NUoDu8N2TlPptKPz,"Quartet In G Minor for Strings, Op. 10/III. Andantino, Doucement Expressif",,1,489240,FALSE,0.167,0.0167,6,-30.134,1,0.0512,0.947,0.463,0.241,0.0359,83.313,classical
+classical.00033.wav,0geMH8pJ5HHWo9t62F0XWS,"Quartet In G Minor for Strings, Op. 10/IV. Très Modéré- Très Mouvementé Et Avec Passion- Très Animé- Très Vií",,0,445533,FALSE,0.284,0.124,7,-22.47,1,0.049,0.937,0.682,0.2,0.0517,123.126,classical
+classical.00034.wav,4kB0vhb5tHalnfZoc8NHwX,Quartet In F Major for Strings: I. Allegro Moderato. Très Doux,,1,537533,FALSE,0.213,0.107,5,-23.882,1,0.0523,0.952,0.871,0.232,0.0618,79.413,classical
+classical.00035.wav,4Nu70VTxRc3KdupqHKELAA,Quartet In F Major for Strings: II. Assez Vif - Très Rythmé,,1,391826,FALSE,0.278,0.0618,5,-25.322,1,0.0427,0.937,0.64,0.0929,0.118,82.909,classical
+classical.00036.wav,7029jrbjC4JTLZ6B2ll4k4,Quartet In F Major for Strings/III. Très Lent,,0,559866,FALSE,0.0972,0.0327,6,-29.256,1,0.0502,0.96,0.343,0.185,0.0351,63.689,classical
+classical.00037.wav,3FWOLJYcvgHH2jQpHzQ5il,Quartet In F Major for Strings: IV. Vif Et Agité,,0,304053,FALSE,0.242,0.121,5,-20.653,1,0.0444,0.879,0.818,0.219,0.144,166.42,classical
+classical.00038.wav,0sstCTh0TJKuM13SD5atfk,Ainsi la Nuit for String Quartet/I. Nocturne,,0,167706,FALSE,0.298,0.085,0,-23.16,0,0.0437,0.969,0.719,0.386,0.0387,94.33,classical
+classical.00039.wav,6tQ1rGc86zSudmHcgGfVcv,Ainsi la Nuit for String Quartet/II. Miroir D'espace,,0,132693,FALSE,0.197,0.0273,1,-32.028,1,0.045,0.759,7.30E-05,0.17,0.0372,81.84,classical
+classical.00040.wav,1TMrFTUJAFNFdsamlc1mXj,Ainsi la Nuit for String Quartet/IV. Litanies 2,,0,207293,FALSE,0.159,0.0749,1,-28.583,1,0.0495,0.902,0.308,0.425,0.0399,83.786,classical
+classical.00041.wav,1cGhJQVlHJQq6DHGgSba2x,Ainsi la Nuit for String Quartet/VII. Temps Suspendu,,0,144480,FALSE,0.314,0.0292,2,-27.839,0,0.0515,0.984,0.157,0.101,0.039,125.186,classical
+classical.00042.wav,4WKeGOZZGs9v2EBgXYLpp9,Sonata in the 9th Tone for 8 parts,,0,142386,FALSE,0.362,0.0759,9,-17.283,0,0.0337,0.989,0.908,0.047,0.138,78.841,classical
+classical.00043.wav,5Fs3WxHdVqvlMfdmaaU2AC,"Konzert Für Waldhorn Mit Orchester - Oder Klavierbegleitung, Op. 11: I. Allegro",,0,324173,FALSE,0.337,0.0272,3,-24.4,1,0.0356,0.994,0.952,0.125,0.295,65.946,classical
+classical.00045.wav,56cqwkeh5aaDPPC0OgUCYO,"Fuge Für Klavier, AV 81/177",,0,367000,FALSE,0.366,0.138,9,-23.897,0,0.0376,0.991,0.845,0.0572,0.245,92.079,classical
+classical.00047.wav,2KAKkifZ8yvdWMhAckWdPD,"On the Town: Three Dance Episodes, No. 2. Lonely Town: Pas de Deux",,1,155200,FALSE,0.112,0.0676,2,-20.174,1,0.0365,0.938,0.959,0.0918,0.0478,84.052,classical
+classical.00048.wav,7oB0QBEnGRIJjvlDc8YnM6,Rhapsody in Blue,,50,987266,FALSE,0.305,0.184,9,-18.342,1,0.0409,0.969,0.781,0.132,0.0771,70.813,classical
+classical.00049.wav,5Y9fsaMmYMxtPgxlRV47aT,"Symphony No. 1 in C, Op. 21: IV. Finale",,16,350840,FALSE,0.482,0.205,0,-18.218,1,0.0534,0.884,0.382,0.144,0.277,77.694,classical
+classical.00050.wav,7nHvS6UUhz2gJhj8TIROLX,"Adagio for Strings, Op. 11",,50,596226,FALSE,0.115,0.0858,10,-20.432,0,0.0447,0.912,0.9,0.0906,0.0296,89.296,classical
+classical.00052.wav,47r7pm0fWKmneTjjbVKlCW,Overture Candide,,29,250200,FALSE,0.243,0.414,3,-16.299,1,0.0491,0.865,0.658,0.334,0.415,81.993,classical
+classical.00053.wav,0mJpMzLU5i66PloOeZxYUL,Canzoni et sonate: Sonata XIII a 8,,1,149680,FALSE,0.42,0.13,9,-16.076,0,0.033,0.919,0.656,0.182,0.129,99.446,classical
+classical.00054.wav,1YSvUyiRxu5HWVShajmMav,"Rigoletto: ""Parla. Siam Soli"" ""Tutte Le Feste Al Tiempo""",,5,432533,FALSE,0.239,0.176,0,-17.692,1,0.0604,0.977,0.000844,0.119,0.0385,82.47,classical
+classical.00055.wav,4v704qYDf7Stdum1pU22ON,"""West Side Story"" - Symphonic Dances: 2. Somewhere (Live)",Leonard Bernstein & Los Angeles Philharmonic,20,274026,FALSE,0.122,0.0108,11,-31.005,1,0.0393,0.876,0.631,0.125,0.0352,85.909,classical
+classical.00056.wav,1DEwMv0TacaesdkoGkIblY,Solemn Mass for the Feast of Sancta Maria: Kyrie a 4 (Selva morale e spirituale),"Taverner Choir, Taverner Consort & Taverner Players",0,225733,FALSE,0.148,0.0342,0,-31.615,1,0.0444,0.859,0.507,0.112,0.105,70.651,classical
+classical.00057.wav,2YoSOuMxlOmMCCvikFZtXz,"""West Side Story"" - Symphonic Dances: III. Scherzo",,18,80133,FALSE,0.467,0.0314,5,-28.589,1,0.04,0.918,0.00891,0.6,0.44,104.863,classical
+classical.00058.wav,6s63oVEqHSTmBMDp4mec9P,Stella Splendens,Inlustris,1,283034,FALSE,0.467,0.321,0,-17.328,1,0.0349,0.949,0.924,0.112,0.765,145.01,classical
+classical.00060.wav,29lY5mkPukZEjpdfCvrgro,Genesis,Federico Procopio,0,566400,FALSE,0.218,0.362,9,-18.017,1,0.0321,0.849,0.953,0.0881,0.0351,93.999,classical
+classical.00061.wav,2jOmu3YkG61JXOLDNL7mka,A Long Walk To Freedom (Lycii & Joe Lyons Remix),LTN,13,235312,FALSE,0.663,0.813,9,-6.389,0,0.148,0.505,0.0212,0.338,0.0651,127.989,classical
+classical.00063.wav,1QE4KBHZb0Y4ERG18VEm3y,"Piano Sonata No. 21 in B-Flat, D. 960: I. Molto Moderato",,28,922866,FALSE,0.284,0.0397,10,-26.231,1,0.0534,0.99,0.912,0.0785,0.0384,166.203,classical
+classical.00065.wav,1gT9kIDzqohcw7jqRTkIag,"Sonata in B-Flat Major, D. 960: III. Scherzo. Allegro vivace con delicatezza – Trio",,4,272602,FALSE,0.389,0.0239,5,-31.821,0,0.0506,0.995,0.92,0.113,0.444,71.647,classical
+classical.00066.wav,5Tp39sKmObixPmQRKWb4rY,"Piano Sonata in B-Flat Major, D. 960: IV. Allegro, ma non troppo",,21,512960,FALSE,0.256,0.0328,10,-21.487,1,0.0434,0.988,0.861,0.129,0.16,71.382,classical
+classical.00067.wav,52A6sE0G1a0AAzVQNttsJl,"Wandererfantasie, S. 366: I. Allegro con fuoco, ma non troppo",,2,367546,FALSE,0.375,0.0663,0,-25.994,1,0.0325,0.983,0.886,0.1,0.181,68.841,classical
+classical.00068.wav,5djOzLEykYUp4XXKwW1pin,Arrival,Bihler,3,272640,FALSE,0.717,0.726,7,-10.327,1,0.0638,0.0131,0.895,0.272,0.533,125.009,classical
+classical.00071.wav,1NruLu61r77mb8bCgBvChY,Symphony No. 35 in B-Flat Major: I. Allegro di molto,,6,297333,FALSE,0.353,0.2,9,-19.075,1,0.0392,0.982,0.622,0.128,0.314,148.337,classical
+classical.00072.wav,0ztTmh8KxE84R1QvhFapop,Symphony No. 35 in B-Flat Major: II. Andante,,5,386000,FALSE,0.315,0.00672,2,-30.817,1,0.0427,0.971,0.0166,0.165,0.152,108.657,classical
+classical.00073.wav,0lgPIsaFjmiXgaTFvjCzo8,Symphony No. 35 in B-Flat Major: III. Minuet and Trio,,3,224266,FALSE,0.438,0.0301,10,-22.994,1,0.0399,0.992,0.912,0.151,0.327,128.093,classical
+classical.00074.wav,1Nf4MU9oSBL70vFdxlLQHj,Symphony No. 35 in B-Flat Major: IV. Finale: Presto,,5,194840,FALSE,0.571,0.202,9,-19.365,1,0.052,0.976,0.813,0.0776,0.634,89.76,classical
+classical.00077.wav,2peXKEhZ5lg23Th9TTVaX0,"Piano Sonata No. 8 in C Minor, Op.13 'Pathétique': I. Grave - Allegro di molto e con brio",,13,525253,FALSE,0.309,0.158,0,-21.008,0,0.0487,0.987,0.87,0.0775,0.0459,79.639,classical
+classical.00078.wav,67W4YpnjCoInOEwNgFhEeg,"Piano Sonata No. 8 In C Minor, Op. 13, ""Pathetique"": II. Adagio Cantabile",,18,327633,FALSE,0.362,0.0132,8,-28.847,1,0.0573,0.996,0.927,0.116,0.151,173.199,classical
+classical.00079.wav,28Yn2hQgDxwjn39DzZPhX7,"Piano Sonata No. 8 in C Minor, Op. 13 ""Pathétique"": III. Rondo. Allegro",,15,141740,FALSE,0.48,0.153,8,-26.254,1,0.0262,0.932,0.945,0.112,0.448,167.899,classical
+classical.00081.wav,0gCuDLag1doWpi28Mxuga9,"Symphony No. 6 in B Minor, Op. 74 'Pathétique': II. Allegro con grazia",,33,458004,FALSE,0.119,0.0665,2,-26.954,1,0.0442,0.962,0.905,0.123,0.0766,83.395,classical
+classical.00082.wav,5E5wgTbHRPicCLIjiWw5AS,Hill Song No. 2,,12,189000,FALSE,0.611,0.777,2,-3.931,0,0.0337,0.406,0,0.392,0.462,87.015,classical
+classical.00083.wav,2cpLruGcLgAabBIdmVoOyv,Ye Banks and Braes O'Bonnie Doon,,29,84537,FALSE,0.156,0.0474,0,-21.698,1,0.0387,0.994,0.951,0.0938,0.35,89.196,classical
+classical.00084.wav,1NT68kL0D2DNxLoUTEWMWY,"Let's Dance Gay in Green Meadow, ""Faeroe Island Dance""",,2,151066,FALSE,0.318,0.169,0,-19.875,0,0.039,0.953,0.74,0.12,0.196,122.523,classical
+classical.00085.wav,11vOVDZtHo8HEio8ZH66Ga,The Lads of Wamphray March,,1,477093,FALSE,0.438,0.197,10,-20.395,1,0.036,0.976,0.912,0.101,0.355,107.811,classical
+classical.00086.wav,3pDcfGFaFitzMZZ3xj5HoQ,Shepherd's Hey,,27,123053,FALSE,0.549,0.218,3,-22.073,1,0.0374,0.96,0.643,0.131,0.886,101.414,classical
+classical.00087.wav,4PS1e8f2LvuTFgUs1Cn3ON,The Merry King,,61,192160,FALSE,0.319,0.21,1,-15.231,1,0.0341,0.92,8.06E-05,0.138,0.209,78.696,classical
+classical.00088.wav,0n9qUSOLsHDg6THjPaoiLN,"Molly on the Shore, BFMS 1",,21,223946,FALSE,0.476,0.295,1,-17.066,1,0.0411,0.955,0.885,0.098,0.523,109.952,classical
+classical.00089.wav,5vnQvChUeRpsb2yTr8BYmn,"The Four Seasons: Violin Concerto No. 1 in E Major, ""Spring"": I. Allegro",,9,213000,FALSE,0.496,0.15,4,-15.081,1,0.049,0.917,0.842,0.205,0.287,96.493,classical
+classical.00090.wav,2ABctLQCPTD21Frq0CvhIO,"The Four Seasons: Violin Concerto No. 1 in E Major, ""Spring"": II. Largo",,3,243133,FALSE,0.244,0.254,1,-14.214,0,0.0408,0.969,0.668,0.117,0.0357,92.526,classical
+classical.00092.wav,7CcOxh70GmU4QJtxSDdJ9h,"Piccolo Concerto, For Piccolo, Strings & Continuo In A Minor, Rv 44",,0,136333,FALSE,0.346,0.158,9,-18.822,0,0.0464,0.938,0.0133,0.0619,0.245,92.326,classical
+classical.00093.wav,5JdsXqEGKXbbo3a3lv8nN9,My Romance,Van Craven,0,224426,FALSE,0.346,0.0759,0,-24.304,1,0.0401,0.984,0.849,0.114,0.0693,73.223,classical
+classical.00095.wav,6YyhxUUJXgMaHTwfab7S36,"The Four Seasons: Violin Concerto No. 2 in G Minor, ""Summer"": II. Adagio",,3,164960,FALSE,0.218,0.036,7,-29.203,0,0.0436,0.919,0.0671,0.342,0.0602,95.202,classical
+classical.00096.wav,5mNa7EcfIJR6Qkqp42BVHT,"The Four Seasons, Op. 8, Violin Concerto No. 4 in F Minor, RV 297 ""Winter"": II. Largo",,3,152200,FALSE,0.277,0.125,10,-25.015,1,0.0417,0.864,0.355,0.0942,0.233,102.732,classical
+classical.00097.wav,1yawDfMIyaEOvO1E6Hkmx5,"Violin Concerto, For Violin, Strings & Continuo In A Minor, Op. 3/6, Rv",,0,249012,FALSE,0.217,0.068,0,-24.65,0,0.0481,0.917,0.0782,0.0776,0.102,87.321,classical
+classical.00098.wav,2MrEIiEoFjfBCh3XJja0Sv,"The Four Seasons: Violin Concerto No. 3 in F Major, ""Autumn"": III. Allegro",,3,200560,FALSE,0.547,0.148,0,-15.59,1,0.0591,0.978,0.687,0.0821,0.426,153.714,classical
+classical.00099.wav,2UzUdAaMoxNYOyNA6CkJHL,"The Four Seasons: Violin Concerto No. 3 in F Major, ""Autumn"": II. Adagio molto",,3,187266,FALSE,0.139,0.0139,0,-38.206,1,0.0353,0.761,0.00183,0.129,0.0321,86.489,classical
+country.00000.wav,7m7V3K1yHLfJB2Sx9FKinU,Just to Hear You Say That You Love Me,Faith Hill,41,268373,FALSE,0.473,0.536,1,-8.517,1,0.0251,0.292,0,0.107,0.216,82.769,country
+country.00001.wav,71JdxVBpSlqJFKh929iDVn,That's the Kind of Mood I'm In*,Patty Loveless,13,212200,FALSE,0.698,0.628,11,-6.359,1,0.0336,0.182,0,0.0736,0.669,126.394,country
+country.00002.wav,6q3lgzbeHHtCl2THmLF5Rw,Settled (Billy Turner Remix),Skream,11,453274,FALSE,0.3,0.789,10,-9.133,1,0.0439,0.349,0.878,0.695,0.144,126.024,country
+country.00003.wav,6J4WWvwcWoW1DiZFoE7YfX,If Tomorrow Never Comes,Garth Brooks,19,226880,FALSE,0.581,0.165,7,-9.864,1,0.0352,0.832,0,0.104,0.403,76.496,country
+country.00004.wav,0zZM3rBpOiPamLQzwWFI0x,Outbound Plane,Suzy Bogguss,37,175066,FALSE,0.678,0.693,4,-8.524,1,0.0315,0.345,0,0.0951,0.537,115.288,country
+country.00005.wav,2lKA9bNdd4kAoeHiufa0aK,You Win My Love,Shania Twain,55,265600,FALSE,0.707,0.802,6,-8.943,1,0.0352,0.0165,0,0.0697,0.947,127.732,country
+country.00006.wav,5SpoN8sCoc05RfVde4raGN,Straight Tequila Night,John Anderson,60,173866,FALSE,0.64,0.639,9,-10.11,1,0.0331,0.134,0,0.178,0.593,109.263,country
+country.00007.wav,7v3BvPRQS4DcsDzYU0BiVd,Best of Intentions,Travis Tritt,49,257399,FALSE,0.659,0.468,8,-7.439,1,0.0232,0.363,0,0.0964,0.37,99.066,country
+country.00008.wav,2iwcmM5nd3rUvFfXdl0c0Q,Never Knew Lonely,Vince Gill,37,242373,FALSE,0.62,0.171,4,-17.019,1,0.0315,0.677,0,0.101,0.432,129.872,country
+country.00009.wav,3ZqMMlF7D91QetTQSSggg7,Meanwhile Back At the Ranch,The Clark Family Experience,0,174216,FALSE,0.552,0.612,7,-11.595,1,0.0239,0.00537,0.0592,0.594,0.565,94.757,country
+country.00010.wav,1LyvhcMZ5UmbMvuvIyYZN1,I Can't Stop Loving You,Johnny Tillotson,19,162392,FALSE,0.461,0.309,0,-10.319,1,0.0271,0.594,0,0.33,0.377,81.469,country
+country.00011.wav,0InP3hiUW1mFq0kzrXLkAc,"A Church, a Courtroom and Then Goodbye",Patsy Cline,31,163960,FALSE,0.505,0.277,7,-9.409,1,0.0436,0.811,0.00219,0.22,0.694,116.343,country
+country.00013.wav,6RPaIzAjzmbnIZwf0o0keF,Let Your Love Flow,Loretta Lynn,10,156560,FALSE,0.637,0.614,0,-6.533,1,0.0357,0.563,0.013,0.63,0.833,116.345,country
+country.00014.wav,26Z6cUo4AgxTSfZfmoMRoi,Silver Threads and Golden Needles,Nina Martinique,0,157946,FALSE,0.634,0.417,2,-14.892,1,0.063,0.0548,0,0.0695,0.799,137.218,country
+country.00016.wav,1TKPfF2fvn6gVLVfp3iG4j,I Walk The Line,Johnny Cash,65,163045,FALSE,0.862,0.484,10,-11.183,1,0.0421,0.798,0.00105,0.105,0.787,105.834,country
+country.00017.wav,0WnESCgrJ4XBxlsnHMECtl,San Antonio Rose,Floyd Cramer,28,139586,FALSE,0.575,0.451,2,-14.082,1,0.0282,0.438,0.754,0.172,0.972,173.573,country
+country.00020.wav,7DKNcWFgJiy4CZ377CZc1f,Tell Laura I Love Her,Ray Peterson,46,177546,FALSE,0.508,0.475,10,-8.436,1,0.032,0.758,0,0.132,0.235,102.38,country
+country.00021.wav,1oOnOS4xNZOMpCT0lKTNo2,Raindrops Keep Fallin' On My Head,B.J. Thomas,64,178146,FALSE,0.578,0.434,5,-10.865,1,0.0471,0.802,0.00102,0.277,0.75,106.364,country
+country.00022.wav,5d6fZLloVbI7MSF3Yj93z0,Love Me With All Your Heart,Karl Denver,0,146400,FALSE,0.335,0.2,3,-18.469,0,0.0515,0.841,6.69E-05,0.109,0.511,184.989,country
+country.00023.wav,0vH3oTbxvPJxJ8zQMCLNIb,Today I Started Loving You Again,Kenny Rogers,21,186666,FALSE,0.373,0.126,5,-16.447,1,0.0309,0.386,0.00152,0.123,0.256,87.906,country
+country.00024.wav,0WwmFdGXe7Yky4T2J1oqLk,Your Cheatin' Heart,Hank Williams,49,164373,FALSE,0.662,0.236,0,-11.631,1,0.0285,0.766,2.39E-05,0.0798,0.653,127.85,country
+country.00025.wav,72DefuF22C6aPKrWhRFCBS,Love Hurts,Gram Parsons,48,222293,FALSE,0.461,0.296,7,-11.496,1,0.026,0.256,1.81E-05,0.0871,0.303,137.252,country
+country.00026.wav,49Q6PQqSvBBmWlvdXbFkfQ,Home Is Where You're Happy,Willie Nelson,7,180706,FALSE,0.551,0.427,7,-11.79,1,0.0284,0.573,0.000146,0.0981,0.454,95.957,country
+country.00028.wav,4s6uuAGzbGeMGNAVF0yapN,Would You Take Another Chance On Me?,Jerry Lee Lewis,13,173240,FALSE,0.445,0.341,2,-12.046,1,0.0251,0.573,8.80E-06,0.0917,0.418,90.035,country
+country.00029.wav,4ilDGz7GLxYWPvCvJPZtKW,Ridin' My Thumb To Mexico,Johnny Rodriguez,48,129493,FALSE,0.454,0.297,1,-10.015,1,0.0336,0.978,0.00229,0.0984,0.644,179.855,country
+country.00031.wav,2rg2yzZnJMDO7CiJmwa4Fd,Away in a Manger,Salt Lake City LDS Ensemble,15,175097,FALSE,0.442,0.233,0,-20.786,1,0.148,0.991,0.973,0.116,0.756,120.163,country
+country.00035.wav,5Tl2n3OqT6whgFmpvRNnfj,Oh Baby Mine (I Get So Lonely),The Statler Brothers,33,147346,FALSE,0.72,0.554,10,-13.659,1,0.0375,0.196,1.28E-06,0.116,0.91,99.031,country
+country.00036.wav,0nURBNQ5gcHRPjsmehpLtp,Old Violin,Johnny Paycheck,45,251800,FALSE,0.613,0.191,11,-15.103,1,0.0281,0.323,0.000332,0.0832,0.183,104.884,country
+country.00040.wav,30WzaYR4gc3U7wv1VWFP5y,Dumas Walker,The Kentucky Headhunters,55,171840,FALSE,0.621,0.579,7,-12.829,1,0.0299,0.368,2.14E-06,0.19,0.967,140.356,country
+country.00041.wav,0zFgM0ntYLc8vpR4QncFQu,Goin' By The Book,Johnny Cash,24,199506,FALSE,0.647,0.508,2,-8.487,1,0.0271,0.066,0.337,0.081,0.645,130.093,country
+country.00043.wav,0nvsWjXGiTK0XBhfXYGqvN,Cadillac Style,Sammy Kershaw,50,175306,FALSE,0.661,0.746,2,-10.834,1,0.0333,0.152,2.52E-06,0.285,0.853,138.269,country
+country.00045.wav,0pdfN7nOHMYmKykzu1cyfm,Any Man Of Mine,Shania Twain,72,246760,FALSE,0.592,0.725,8,-8.698,1,0.0412,0.207,0,0.148,0.784,78.235,country
+country.00046.wav,6RnBM2Olv1ZrBGHkWHGpoa,I Found My Girl In the U.S.A.,Jimmie Skinner,0,162546,FALSE,0.55,0.274,2,-13.292,1,0.0337,0.973,0.00391,0.23,0.802,139.434,country
+country.00048.wav,1mE8QtaSFxEQnr3SgxmIRf,Running Bear,Johnny Preston,41,157960,FALSE,0.76,0.468,5,-8.957,0,0.0482,0.775,2.36E-05,0.184,0.745,119.986,country
+country.00049.wav,4TMAphSrwnKf8p1tb9v7th,Out of Control,George Jones,12,157662,FALSE,0.538,0.463,7,-11.982,1,0.049,0.911,0.000865,0.197,0.909,54.966,country
+country.00050.wav,27HWzqvQeSCel1lOuEhprW,Never Alone,Vince Gill,23,217200,FALSE,0.687,0.511,9,-12.448,0,0.0276,0.203,0.000211,0.17,0.564,118.069,country
+country.00051.wav,2iwcmM5nd3rUvFfXdl0c0Q,Never Knew Lonely,Vince Gill,37,242373,FALSE,0.62,0.171,4,-17.019,1,0.0315,0.677,0,0.101,0.432,129.872,country
+country.00052.wav,5g12xHasIIOu6rNGQ933qT,When I Call Your Name,Vince Gill,56,255133,FALSE,0.506,0.11,5,-17.615,1,0.0307,0.35,0.00144,0.139,0.208,70.554,country
+country.00053.wav,5oEBzJenGWCKveXFHDGojy,Liza Jane,Vince Gill,42,175026,FALSE,0.526,0.883,4,-10.613,0,0.038,0.133,0.000153,0.203,0.927,90.503,country
+country.00054.wav,7AKmX4cPnknOgYCug7BOLP,Look at Us,Vince Gill,50,240173,FALSE,0.489,0.322,3,-11.586,1,0.0261,0.529,0.000208,0.239,0.219,75.5,country
+country.00055.wav,77wn7qCZruKDiZmilz9R6B,Take Your Memory With You,Vince Gill,26,152600,FALSE,0.616,0.623,4,-9.775,1,0.0299,0.495,5.86E-05,0.419,0.751,131.868,country
+country.00056.wav,40qXgyscZHUxaJutIEfDX7,Pocket Full of Gold,Vince Gill,38,247293,FALSE,0.526,0.353,5,-11.007,1,0.0273,0.22,0.000159,0.125,0.205,81.673,country
+country.00057.wav,1W8EyUzQPkVyGtAkCg1HqS,The Heart Won't Lie,Reba McEntire,45,200733,FALSE,0.533,0.342,1,-10.514,1,0.0269,0.794,0,0.108,0.224,134.902,country
+country.00059.wav,4mSETOGtJGzA6qkxee3yMc,I Still Believe In You,Vince Gill,50,239520,FALSE,0.579,0.285,8,-11.489,1,0.026,0.773,1.40E-05,0.113,0.232,135.45,country
+country.00060.wav,1tYXsSD2FvrxxHE5O3kcH4,No Future in the Past,Vince Gill,27,248906,FALSE,0.375,0.303,1,-10.483,1,0.027,0.271,0.000558,0.103,0.214,103.067,country
+country.00061.wav,2rKtSHDkql7aZuWKUdSylq,Tryin' to Get Over You,Vince Gill,46,225626,FALSE,0.578,0.371,2,-10.537,1,0.0283,0.632,1.75E-05,0.165,0.188,60.503,country
+country.00062.wav,2h5a6t9JFasqH5WJFPbmGL,One More Last Chance,Vince Gill,59,191200,FALSE,0.525,0.878,2,-8.677,1,0.0404,0.411,0,0.291,0.963,176.249,country
+country.00063.wav,5L03GdmsJ2MEiIgqMFVCLY,I Can't Tell You Why,Vince Gill,28,242133,FALSE,0.658,0.406,11,-11.594,0,0.0267,0.287,2.72E-05,0.063,0.285,83.962,country
+country.00064.wav,6nRvgo4ySezQKD1D7NIqAu,I Will Always Love You,Dolly Parton,61,176093,FALSE,0.446,0.142,9,-13.498,1,0.0335,0.96,0.00114,0.101,0.156,135.724,country
+country.00065.wav,2uRVPeQbsEpRQD0DKr1WTo,Blue Eyes Crying In The Rain,Willie Nelson,60,138600,FALSE,0.626,0.04,4,-19.994,1,0.0405,0.928,0.00178,0.11,0.418,117.136,country
+country.00066.wav,1s2Wyk3QM2qZ9J863GFd3n,If You've Got The Money I've Got the Time,Willie Nelson,34,122760,FALSE,0.697,0.613,2,-11.91,1,0.0566,0.444,0.0403,0.346,0.925,109.778,country
+country.00067.wav,4Mckv604NWFSw11g4iCgG0,Georgia On My Mind,Willie Nelson,45,257040,FALSE,0.33,0.23,0,-14.538,1,0.0484,0.789,0.000213,0.0678,0.183,68.473,country
+country.00068.wav,33LQxf2T3Jbgw3XQ1H3LMY,Blue Skies,Willie Nelson,50,213440,FALSE,0.381,0.335,2,-12.797,1,0.0362,0.207,0.088,0.1,0.259,83.792,country
+country.00069.wav,6LwFptnDWoGKTdhAFNjVQF,My Heroes Have Always Been Cowboys,Willie Nelson,51,153000,FALSE,0.255,0.417,7,-10.918,1,0.0538,0.817,0.0413,0.769,0.346,79.532,country
+country.00070.wav,0vcJzE2LuNY9aoq2hdMjHZ,On the Road Again,Willie Nelson,61,156173,FALSE,0.411,0.859,4,-7.382,1,0.085,0.0671,0.00201,0.958,0.36,112.228,country
+country.00071.wav,2xYQTU2bbg6WVAmpY1eae4,Always On My Mind,Willie Nelson,63,212666,FALSE,0.524,0.261,2,-13.868,1,0.0272,0.755,0.00105,0.144,0.201,73.36,country
+country.00072.wav,15qBdyeOsal1QJvB3ysW9g,City of New Orleans,Willie Nelson,50,287000,FALSE,0.543,0.633,2,-11.693,1,0.05,0.477,2.14E-05,0.16,0.613,151.609,country
+country.00073.wav,1uPV78WGj2AfJILdUBrwLs,Forgiving You Was Easy,Willie Nelson,32,167906,FALSE,0.542,0.436,4,-12.634,1,0.0319,0.723,8.82E-05,0.284,0.523,151.637,country
+country.00074.wav,4UO1OJT8vYT284GC6nx90M,Living In the Promiseland,Willie Nelson,28,200826,FALSE,0.432,0.362,7,-13.536,1,0.0407,0.707,0.000339,0.232,0.433,140.685,country
+country.00075.wav,013H2CRJ3XVjluSQ7KG1Kf,Midnight Rider,Willie Nelson,35,170640,FALSE,0.616,0.605,2,-12.837,1,0.0553,0.247,0.00229,0.142,0.68,97.254,country
+country.00076.wav,4EZyOclvM6qbLdiKEbot4l,Remember Me (When the Candle Lights Are Gleaming),Willie Nelson,34,170360,FALSE,0.639,0.203,2,-16.784,1,0.0518,0.865,0.00253,0.308,0.666,147.868,country
+country.00077.wav,3AxsPm062SPWfbTGyOYWpk,Uncloudy Day,Willie Nelson,30,279386,FALSE,0.609,0.647,5,-7.69,1,0.037,0.613,0.000424,0.152,0.715,91.261,country
+country.00078.wav,1eQRW2fZHZI48vuo66YMCM,Angel Flying Too Close to the Ground,Willie Nelson,40,267693,FALSE,0.458,0.394,9,-11.146,1,0.0337,0.884,0.0172,0.152,0.115,125.922,country
+country.00079.wav,6BNuTgvDtNl2VH6XDkR3mR,Last Thing I Needed First Thing This Morning,Willie Nelson,34,260826,FALSE,0.478,0.224,0,-13.09,1,0.0371,0.92,0.000514,0.0742,0.222,128.728,country
+country.00080.wav,0xbY7q5aImO8winKbVTIwo,Nothing I Can Do About It Now,Willie Nelson,33,199160,FALSE,0.525,0.508,7,-13.083,1,0.0478,0.253,1.35E-05,0.0659,0.877,195.448,country
+country.00081.wav,62P656vsZZ8WpmeknNV5hz,Long Sermon,Brad Paisley,26,198533,FALSE,0.597,0.827,9,-8.01,1,0.0392,0.15,0,0.114,0.905,90.01,country
+country.00082.wav,6A426nfNHDuTDs1uY0W0NF,Me Neither,Brad Paisley,37,200160,FALSE,0.622,0.942,0,-9.469,1,0.0385,0.0271,2.36E-05,0.326,0.844,117.173,country
+country.00083.wav,2VseRo2PPYyf1DQBT6y7nE,Who Needs Pictures,Brad Paisley,31,224266,FALSE,0.544,0.435,4,-9.927,1,0.0265,0.462,0,0.106,0.152,72.981,country
+country.00085.wav,6sXDEs7z0LLitIPnPBJ4QM,He Didn't Have to Be,Brad Paisley,46,282933,FALSE,0.508,0.39,9,-10.079,1,0.0284,0.144,2.16E-06,0.241,0.197,72.903,country
+country.00086.wav,6PEB7JHbghC8y7974Pbwt3,It Never Woulda Worked Out Anyway,Brad Paisley,24,161173,FALSE,0.716,0.562,10,-10.285,1,0.0391,0.452,1.66E-06,0.125,0.88,118.296,country
+country.00087.wav,5dNIdDioVpoEAi5hAk2H0c,Holdin' On to You,Brad Paisley,23,180306,FALSE,0.488,0.41,7,-9.962,1,0.0262,0.213,0,0.131,0.27,144.509,country
+country.00089.wav,79DjV1vsU6yVoCbrQNNDdI,We Danced,Brad Paisley,56,226226,FALSE,0.592,0.39,9,-10.642,1,0.027,0.477,0,0.12,0.143,146.039,country
+country.00090.wav,0fXgxBZs8iV4O9pFhBTVUp,Sleepin' On the Foldout,Brad Paisley,20,201706,FALSE,0.604,0.679,4,-8.195,1,0.0297,0.0985,1.55E-06,0.159,0.826,134.866,country
+country.00091.wav,4ykuNhkXUEy6ezjjqfjf9i,Cloud of Dust,Brad Paisley,18,245306,FALSE,0.658,0.349,3,-10.958,1,0.0284,0.425,0,0.116,0.175,115.385,country
+country.00092.wav,0i1IU5QsFPEufvv1MJ8dJN,Trouble and Jealousy,Led By Elvis,0,511080,FALSE,0.572,0.893,2,-8.148,1,0.0575,0.0119,0.0158,0.0504,0.93,128.792,country
+country.00093.wav,4rtKhhcFxtvocQ0n4pqAoG,In the Garden,Brad Paisley,28,269333,FALSE,0.408,0.142,7,-14.4,1,0.0298,0.923,1.72E-06,0.083,0.159,86.512,country
+country.00094.wav,4cdAXfguhQHYFkvuuzye1m,I Just Want To Dance With You,George Strait,58,210866,FALSE,0.715,0.469,0,-8.674,1,0.0279,0.439,8.69E-05,0.104,0.502,113.991,country
+country.00095.wav,7DTy9XW3WVkBnV1jlavEC2,One Step at a Time,George Strait,22,246426,FALSE,0.543,0.465,10,-7.589,1,0.0235,0.384,1.86E-05,0.0762,0.502,90.011,country
+country.00096.wav,5dMJFsGH8e1XfPOAUyfZGS,TRUE,George Strait,44,214000,FALSE,0.59,0.669,7,-4.975,1,0.0268,0.254,0.000151,0.143,0.4,115.341,country
+country.00097.wav,13N8tV6WHghe7DfKtSkUtT,Remember the Alamo,George Strait,25,271240,FALSE,0.586,0.438,10,-5.773,1,0.0244,0.565,0,0.264,0.29,112.833,country
+country.00098.wav,7zEzVNodfP6MIclLneWWZp,Maria,George Strait,24,277293,FALSE,0.651,0.5,0,-7.064,1,0.0269,0.633,0.000401,0.166,0.29,119.02,country
+country.00099.wav,5zABXdMnOiMwq2OPoQwceb,We Really Shouldn't Be Doing This,George Strait,32,143733,FALSE,0.684,0.814,6,-7.668,1,0.0307,0.331,0.00049,0.357,0.961,146.905,country
+disco.00000.wav,0nlZjTPzW6S9JIESuGfImT,Lowdown,Boz Scaggs,64,315640,FALSE,0.662,0.788,11,-5.544,0,0.0635,0.0812,0.141,0.0351,0.929,116.499,disco
+disco.00001.wav,7cv28LXcjAC3GsXbUvXKbX,I Will Survive,Gloria Gaynor,67,198066,FALSE,0.777,0.725,0,-8.681,1,0.05,0.0131,0.00805,0.246,0.529,116.669,disco
+disco.00002.wav,23iAlY8PmyHcwT14zLWrLO,Look Back Over Your Shoulder,Archie Bell & The Drells,2,540866,FALSE,0.791,0.824,9,-7.909,0,0.0478,0.0752,0,0.0563,0.911,114.57,disco
+disco.00003.wav,4hd7xnsC99N4MRQ5ZtMFq4,Deputy of Love,Don Armando's 2nd Ave. Rhumba Band,28,485754,FALSE,0.817,0.866,10,-6.796,1,0.0592,0.144,7.80E-05,0.0684,0.922,125.64,disco
+disco.00004.wav,0PmuubrIK97TfD5U39huVM,Run Back,Carl Douglas,13,203626,FALSE,0.652,0.747,1,-9.109,0,0.0528,0.056,0.00164,0.116,0.834,121.164,disco
+disco.00005.wav,0PVgef4kvggErf7OS2oktc,Native New Yorker,Odyssey,45,259733,FALSE,0.539,0.921,1,-6.662,1,0.138,0.0385,0.000102,0.655,0.69,109.787,disco
+disco.00006.wav,4HDPdTjWPMtrK9FjLE0zK2,Romeo & Juliet,Alec Costandinos,22,928353,FALSE,0.662,0.835,1,-8.438,0,0.0441,0.00287,0.403,0.122,0.936,125.461,disco
+disco.00007.wav,32GjA33ux6BI59fDrw2eQT,"So Many Men, So Little Time",Miquel Brown,44,184426,FALSE,0.728,0.77,6,-7.703,0,0.0327,0.00795,0.0468,0.151,0.776,129.273,disco
+disco.00008.wav,1gND1zOlYtYgXdhRmpIOGJ,Found a Cure,Ashford & Simpson,31,421040,FALSE,0.745,0.759,3,-6.69,0,0.0534,0.0548,0.0967,0.0848,0.862,123.598,disco
+disco.00009.wav,7u7yVCZTZbTgBeZC0kmXfb,Get Up,Osibisa,2,319483,FALSE,0.691,0.73,10,-12.216,1,0.0398,0.287,0.0415,0.129,0.955,128.636,disco
+disco.00010.wav,48ifRcXHbUjc1moUjJcwhx,Encore,Cheryl Lynn,45,319760,FALSE,0.703,0.84,1,-9.805,1,0.0485,0.0333,0.000396,0.997,0.88,108.763,disco
+disco.00011.wav,2oKOQHKA2YXgAIvE0jLpMK,Can You Feel It,Billy Ocean,4,198112,FALSE,0.608,0.87,4,-10.109,0,0.0789,0.00232,0.000249,0.158,0.777,94.262,disco
+disco.00012.wav,2R0zbd80CqwoB0ORDCqDoK,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,60,235933,FALSE,0.902,0.551,9,-6.267,0,0.0703,0.15,1.95E-06,0.0459,0.776,114.258,disco
+disco.00013.wav,3BEI1pO6ftqM6HLR7CaKi2,Back Off Boogaloo,Donna Summer,3,192080,FALSE,0.494,0.769,6,-14.593,0,0.178,0.174,0.0019,0.126,0.73,179.54,disco
+disco.00014.wav,5ubvP9oKmxLUVq506fgLhk,Stayin' Alive,Bee Gees,79,285373,FALSE,0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,disco
+disco.00015.wav,4NTSDu34al733aIuUWVJHo,Boogie Nights,Heatwave,57,303640,FALSE,0.629,0.615,11,-10.972,0,0.0433,0.169,7.23E-05,0.132,0.673,118.805,disco
+disco.00016.wav,5W5FVsgGCe3T9nIMkiXqNo,Sing a Song,"Earth, Wind & Fire",58,203866,FALSE,0.774,0.698,9,-7.5,1,0.0481,0.157,0.00027,0.0684,0.969,122.325,disco
+disco.00018.wav,2I88NEWpKrAPZuapXNV5G6,Sex,Sabrina,61,185617,FALSE,0.605,0.553,10,-10.845,0,0.101,0.274,0.0152,0.184,0.62,152.076,disco
+disco.00020.wav,5vk9PL1tTyWrQY3TqRq2Rg,Patches,Clarence Carter,47,193826,FALSE,0.639,0.544,4,-12.843,1,0.141,0.617,0,0.479,0.793,80.844,disco
+disco.00021.wav,610KAJY3DSokYTcPxj8C6V,Never Can Say Goodbye,Gloria Gaynor,0,179466,FALSE,0.611,0.882,7,-3.18,0,0.0281,0.000577,0.926,0.397,0.895,125.681,disco
+disco.00022.wav,5E5Tkvq7601Xnqho1QHFs4,Ooh What a Life (Gerd Janson & Shan Edit),Gibson Brothers,29,478396,FALSE,0.62,0.946,11,-5.28,0,0.0527,0.00356,0.00324,0.707,0.936,119.998,disco
+disco.00023.wav,0PcKOooAzrrkHTTjYm5EJy,Playboy,LaToya Jackson,0,257573,FALSE,0.734,0.909,8,-7.343,1,0.0474,0.137,1.15E-05,0.299,0.853,114.453,disco
+disco.00024.wav,5vUH0zDjIdupO1hSQN8NFk,"Help, Get Me Some Help",Ottawan,32,234653,FALSE,0.773,0.974,6,-5.683,1,0.0469,0.149,1.33E-05,0.118,0.969,127.901,disco
+disco.00025.wav,2O3JCRH7IvUUbzbxEvoVAi,High Energy,Evelyn Thomas,47,409600,FALSE,0.956,0.765,10,-12.772,0,0.0619,0.143,0.0461,0.25,0.711,124.252,disco
+disco.00027.wav,7sZDbHZiuHEzS00vzCuhqS,Rapper's Delight,The Sugarhill Gang,54,427360,FALSE,0.9,0.845,11,-7.306,0,0.257,0.465,0,0.0724,0.914,111.187,disco
+disco.00028.wav,7xzHv3J1plktAQzVGYDWlb,Better Do It Salsa,Gibson Brothers,8,398000,FALSE,0.667,0.913,7,-8.206,1,0.0343,0.00236,0.0542,0.142,0.85,122.19,disco
+disco.00029.wav,5W6P2KAZYXPr3lOsivvNeS,Heartless,Evelyn Thomas,9,333200,FALSE,0.73,0.81,1,-9.467,0,0.0591,0.354,0,0.335,0.932,105.028,disco
+disco.00030.wav,2dHX6BZVweicacwYILaSsD,Latin America,Gibson Brothers,12,405466,FALSE,0.661,0.969,11,-6.143,1,0.124,0.0273,0.000232,0.36,0.555,133.677,disco
+disco.00031.wav,1DPxZZCpNJ0zbgrvVZ4Ni4,My Simple Heart,The Three Degrees,29,269200,FALSE,0.855,0.575,11,-13.391,0,0.029,0.0126,0.0014,0.211,0.925,108.635,disco
+disco.00032.wav,3T5k6cDD2Cnxmhs42mWGqo,Saddle Up,David Christie,38,354293,FALSE,0.884,0.774,9,-4.179,0,0.0346,0.0539,0.00213,0.0981,0.904,110.651,disco
+disco.00033.wav,6YOLCGOxiXr2yejYT17hTh,You Little Trustmaker,The Tymes,30,168040,FALSE,0.753,0.87,7,-10.007,0,0.0528,0.142,0,0.101,0.925,127.23,disco
+disco.00034.wav,3Iv8K7cqNq93TjTNfSRw11,Reflections,Evelyn Thomas,1,231400,FALSE,0.545,0.782,2,-7.851,1,0.0342,0.425,0,0.0536,0.601,130.063,disco
+disco.00035.wav,7qhwiyufW4TrovttmetUwr,Cuba,Gibson Brothers,43,453893,FALSE,0.679,0.862,10,-8.579,0,0.058,0.000592,0.133,0.134,0.886,121.142,disco
+disco.00036.wav,1sWBCS70T7ihyD4brepug2,Reaching for the Best,The Exciters,0,233733,FALSE,0.772,0.912,0,-9.235,1,0.03,0.191,0.0929,0.149,0.968,135.795,disco
+disco.00037.wav,0kfzWBs3VOMaI0T5yZ0T8W,Que Sera Mi Vida,Gibson Brothers,47,352533,FALSE,0.591,0.954,6,-6.492,1,0.046,0.000306,0.0031,0.0778,0.676,131.172,disco
+disco.00038.wav,4L9sdN5l6PvW3EZyP6sY7j,I Am What I Am,Gloria Gaynor,51,207106,FALSE,0.644,0.619,5,-14.015,0,0.0376,0.0663,0.000494,0.107,0.679,119.616,disco
+disco.00039.wav,05UOD6Y4NGV9yZLOFbO6FM,I Can't Leave You Alone,George McCrae,22,190813,FALSE,0.738,0.643,0,-10.299,1,0.028,0.194,0.00565,0.136,0.912,111.197,disco
+disco.00040.wav,5D2s34aymsLV2Ei400lwOc,Stress (Remastered),David Christie,0,222500,FALSE,0.826,0.853,2,-5.297,0,0.0361,0.102,7.41E-06,0.182,0.932,138.067,disco
+disco.00041.wav,3w0pyHgJJW9JN0cJxmi33Z,Always and Forever,Heatwave,53,377106,FALSE,0.333,0.156,2,-17.574,1,0.0335,0.286,2.32E-05,0.151,0.195,71.441,disco
+disco.00042.wav,1K3V5YvqHjWLiQUQRKJdqj,I Wanna Dance Wit'choo,Disco-Tex & His Sex-O-Lettes,15,302480,FALSE,0.603,0.811,7,-9.868,1,0.0475,0.354,0,0.759,0.643,106.31,disco
+disco.00043.wav,2x6R84co7Bqniso1Nzm82z,Satisfaction Guaranteed,Harold Melvin & The Blue Notes,33,210186,FALSE,0.724,0.853,9,-4.951,0,0.139,0.0761,0,0.193,0.736,126.462,disco
+disco.00044.wav,5xQr5TxQ77siaKfuyiJbT0,Hands Up,Ottawan,64,208573,FALSE,0.888,0.876,8,-4.249,1,0.0425,0.61,3.25E-05,0.375,0.992,123.291,disco
+disco.00045.wav,7KkdYJqxvq4ZFq9gvFy06v,D.I.S.C.O.,Ottawan,59,196506,FALSE,0.714,0.867,7,-6.295,0,0.0569,0.11,8.98E-05,0.325,0.872,122.915,disco
+disco.00046.wav,2zMJN9JvDlvGP4jB03l1Bz,Hot Stuff,Donna Summer,66,314760,FALSE,0.823,0.743,0,-13.98,1,0.0316,0.00559,0.0306,0.0707,0.966,120.471,disco
+disco.00047.wav,1wSPm3y4Lk6ABkVxCmwkZx,No More Tears (Enough Is Enough) [feat. Donna Summer],Barbra Streisand,46,282493,FALSE,0.634,0.644,2,-8.234,0,0.0838,0.51,7.09E-05,0.32,0.286,135.24,disco
+disco.00048.wav,40NRm1ZLvZpUSCUXAGGZ8J,Kung Fu Fighting,Carl Douglas,66,197693,FALSE,0.598,0.673,2,-10.431,1,0.0693,0.0422,6.90E-05,0.289,0.59,102.034,disco
+disco.00049.wav,37d8O4cIq36tssCoJnhJxg,Boogie Shoes,KC and the Sunshine Band,62,132040,FALSE,0.931,0.801,4,-10.725,1,0.0548,0.496,0.379,0.0563,0.971,119.533,disco
+disco.00050.wav,1qiQduM84A0VeH8Y2uAbqi,That's the Way (I Like It),KC and the Sunshine Band,62,185106,FALSE,0.68,0.877,5,-10.241,0,0.0353,0.191,0.000656,0.349,0.922,108.674,disco
+disco.00051.wav,1qiQduM84A0VeH8Y2uAbqi,That's the Way (I Like It),KC and the Sunshine Band,62,185106,FALSE,0.68,0.877,5,-10.241,0,0.0353,0.191,0.000656,0.349,0.922,108.674,disco
+disco.00052.wav,6jV3XfTAP1S3SMChxJ2kJh,In the Navy,Village People,38,225840,FALSE,0.759,0.889,7,-10.592,0,0.0502,0.125,0,0.041,0.886,126.201,disco
+disco.00053.wav,6120uJUyg6QDzaAJUosTx5,Knock On Wood,Amii Stewart,55,250520,FALSE,0.689,0.805,2,-11.199,1,0.0429,0.0019,8.23E-05,0.0683,0.914,140.791,disco
+disco.00054.wav,7ooheiWgbyNtGOBTPbjNoq,I Want Your Love,Chic,56,413586,FALSE,0.699,0.604,9,-13.404,0,0.0359,0.0185,0.073,0.0868,0.96,114.226,disco
+disco.00055.wav,7bET0DUAs59D6BsbdTqXuw,Disco Inferno,The Trammps,61,218026,FALSE,0.802,0.85,5,-6.342,1,0.0413,0.126,0.00104,0.113,0.923,128.007,disco
+disco.00056.wav,0Eq4BMgsdV6DkLSJfX8eBt,Fantasy,"Earth, Wind & Fire",67,226213,FALSE,0.666,0.714,4,-9.448,0,0.0617,0.291,0.0212,0.128,0.69,89.018,disco
+disco.00057.wav,0MfjH6DpyGrBQZoaWIsv4G,Auld Lang Syne,Boney M.,23,154600,FALSE,0.748,0.585,8,-11.245,1,0.0302,0.508,0,0.479,0.904,118.236,disco
+disco.00058.wav,6ztstiyZL6FXzh4aG46ZPD,Boogie Wonderland,"Earth, Wind & Fire",75,288293,FALSE,0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,disco
+disco.00059.wav,3koCCeSaVUyrRo3N2gHrd8,Let's Groove,"Earth, Wind & Fire",76,339320,FALSE,0.869,0.648,11,-8.698,0,0.0633,0.121,2.17E-05,0.126,0.9,125.035,disco
+disco.00060.wav,7bET0DUAs59D6BsbdTqXuw,Disco Inferno,The Trammps,61,218026,FALSE,0.802,0.85,5,-6.342,1,0.0413,0.126,0.00104,0.113,0.923,128.007,disco
+disco.00061.wav,7GK2KVYH8FrTC9zehmjVMd,Ring My Bell,Anita Ward,60,491933,FALSE,0.781,0.556,5,-13.067,0,0.0611,0.0661,0.0907,0.0339,0.968,125.999,disco
+disco.00062.wav,3HOgUlwPDsh0kEFnbr5EL5,Dance With Me,Peter Brown,38,319226,FALSE,0.912,0.42,10,-14.798,1,0.0507,0.117,0.000717,0.0424,0.9,108.53,disco
+disco.00063.wav,3n43heRwzg7OSXo4dW5oAj,Disco Megamix (130 BPM),Boney M. 2000,45,385066,FALSE,0.79,0.973,0,-7.154,1,0.0331,0.00467,0.315,0.346,0.869,130.532,disco
+disco.00064.wav,0B5kY9i9bmP7554oU4jRoO,Funkytown,"Lipps, Inc.",72,245413,TRUE,0.907,0.564,0,-9.29,1,0.0568,0.000928,0.65,0.108,0.229,122.632,disco
+disco.00065.wav,6KlnQC66NiJTdO88aL62SF,Shame,"Evelyn ""Champagne"" King",48,392800,FALSE,0.714,0.665,11,-10.948,0,0.0381,0.00588,0.131,0.0655,0.805,133.805,disco
+disco.00066.wav,5o89Bf80t8ko3uNXJkYoVs,Shake Your Groove Thing,Peaches & Herb,60,346133,FALSE,0.863,0.726,9,-6.649,1,0.0494,0.415,0.0299,0.0735,0.93,132.574,disco
+disco.00067.wav,0GjEhVFGZW8afUYGChu3Rr,Dancing Queen,ABBA,82,230400,FALSE,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,disco
+disco.00068.wav,5BckPAYcKEJuYs1eV1BHHe,Take A Chance On Me,ABBA,74,243933,FALSE,0.684,0.675,11,-8.123,1,0.0257,0.163,0,0.242,0.924,107.064,disco
+disco.00069.wav,3Is0Nnz59rzbNZE491URlY,"(Shake, Shake, Shake) Shake Your Booty",KC and the Sunshine Band,56,186906,FALSE,0.649,0.825,10,-12.243,0,0.0335,0.00606,0.154,0.104,0.961,112.124,disco
+disco.00070.wav,1qiQduM84A0VeH8Y2uAbqi,That's the Way (I Like It),KC and the Sunshine Band,62,185106,FALSE,0.68,0.877,5,-10.241,0,0.0353,0.191,0.000656,0.349,0.922,108.674,disco
+disco.00071.wav,2qVZpGu1v98tvUAutqyAfJ,Get Down Tonight,KC and the Sunshine Band,53,317160,FALSE,0.671,0.776,10,-11.414,1,0.0282,0.137,0.00649,0.394,0.92,112.629,disco
+disco.00072.wav,2TxCwUlqaOH3TIyJqGgR91,Mamma Mia,ABBA,77,213266,FALSE,0.749,0.748,2,-7.011,1,0.0323,0.295,0.000443,0.469,0.827,137.547,disco
+disco.00074.wav,2qVZpGu1v98tvUAutqyAfJ,Get Down Tonight,KC and the Sunshine Band,53,317160,FALSE,0.671,0.776,10,-11.414,1,0.0282,0.137,0.00649,0.394,0.92,112.629,disco
+disco.00075.wav,22kv2NoeaD7qhTgShfZjIv,Macho Man,Village People,49,314800,FALSE,0.745,0.593,5,-12.33,1,0.0439,0.0523,0,0.582,0.888,132.897,disco
+disco.00076.wav,6oFeuJXEyhQEH5MAzbxrC9,Thank God It's Friday (Single Version),Love & Kisses,21,201866,FALSE,0.661,0.667,0,-15.021,0,0.0804,0.00167,2.61E-05,0.345,0.792,126.769,disco
+disco.00077.wav,3ad1MVf3CUFCWW1EyMc9kk,Heaven Must Be Missing An Angel,Tavares,50,394133,FALSE,0.612,0.749,9,-9.209,0,0.0345,0.00716,0,0.393,0.969,116.791,disco
+disco.00078.wav,0YDiwVGerOBAm0K5GCqNl6,I Am What I Am (2014 Club Version),Gloria Gaynor,41,353629,FALSE,0.679,0.807,9,-8.067,0,0.0889,0.00122,0.000606,0.138,0.577,128.315,disco
+disco.00079.wav,6TAPLLhXakOTRIHpxUZjyx,"Love Is Just the Game (John ""Jelly Bean"" Benitez Mix)",Peter Brown,28,419120,FALSE,0.723,0.699,10,-11.576,0,0.0434,0.0146,0.022,0.348,0.901,121.223,disco
+disco.00080.wav,6plBWdwyCc2ejhkTPCch6D,Dazzle You,Dazzle,7,283185,FALSE,0.652,0.803,10,-8.605,0,0.0356,0.108,0.00132,0.189,0.962,97.577,disco
+disco.00082.wav,4aVowfVhlyNUgHYqXbK8Ev,Disco Nights (Rock Freak),G.Q.,40,354906,FALSE,0.798,0.528,5,-12.228,0,0.0531,0.0116,0.00379,0.0446,0.898,122.61,disco
+disco.00083.wav,5gQ3nMRR1eph1wZJpoQweg,Disco Duck (Pt. 1 Vocal),Rick Dees And His Cast Of Idiots,31,198420,FALSE,0.81,0.448,4,-15.137,1,0.0693,0.132,0.000926,0.063,0.968,117.04,disco
+disco.00085.wav,03xLfJFy99mdr7qhmQNVgB,Wordy Rappinghood,Tom Tom Club,34,387173,FALSE,0.85,0.527,4,-14.764,0,0.0784,0.0461,0.481,0.454,0.957,122.032,disco
+disco.00086.wav,6c0G8K6G2LlIfJTsRLJjfs,I Love the Nightlife (Disco 'Round),Alicia Bridges,51,187973,FALSE,0.693,0.708,0,-7.816,1,0.031,0.309,0.00305,0.0857,0.949,125.315,disco
+disco.00087.wav,5niTFUJECbNZ0I2iLpot75,He's My Man,The Supremes,18,297186,FALSE,0.519,0.815,1,-7.475,1,0.0533,0.314,0.00016,0.0712,0.842,108.546,disco
+disco.00089.wav,7bET0DUAs59D6BsbdTqXuw,Disco Inferno,The Trammps,61,218026,FALSE,0.802,0.85,5,-6.342,1,0.0413,0.126,0.00104,0.113,0.923,128.007,disco
+disco.00090.wav,60vgQUQ0UyEJ8dI1vNZPM0,Fire Island,Village People,9,316600,FALSE,0.69,0.751,5,-12.156,1,0.0329,0.00197,0,0.108,0.925,128.635,disco
+disco.00091.wav,4Wr14AISsCuBGdkA6rids4,Fly Robin Fly,Silver Convention,49,230920,FALSE,0.826,0.406,0,-14.153,0,0.0317,0.00719,0.731,0.0725,0.939,100.278,disco
+disco.00092.wav,4v2rkl1mC3zVAz0nXMx9r4,Heart of Glass,Blondie,63,229423,FALSE,0.77,0.654,4,-6.108,1,0.0361,0.0539,0.00047,0.0819,0.685,114.82,disco
+disco.00094.wav,01w9XPwMIXAcyzQ6o9oaNM,Why? (12'' Version) [2008 Remastered Version],Bronski Beat,29,378866,FALSE,0.648,0.756,0,-14.663,0,0.0476,0.153,0.46,0.574,0.604,138.355,disco
+disco.00095.wav,1ibRqifchaAfeNdQGpbRVW,Bad Girls,Donna Summer,61,295106,FALSE,0.857,0.7,2,-14.506,0,0.0358,0.00387,0.0164,0.411,0.973,120.529,disco
+disco.00096.wav,2RvoIv22fdI9Uhife5zdDl,"Shame, Shame, Shame",Shirley & Company,36,245786,FALSE,0.734,0.743,7,-8.085,1,0.161,0.252,0.0362,0.15,0.767,101.609,disco
+disco.00097.wav,2Dd91JY6wOvimfqN71M5a9,Do You Wanna Funk?,Patrick Cowley,37,263026,FALSE,0.803,0.633,6,-5.963,1,0.0359,0.0195,0.00011,0.4,0.625,130.435,disco
+disco.00098.wav,5jkFvD4UJrmdoezzT1FRoP,Rasputin,Boney M.,64,351573,FALSE,0.639,0.893,9,-6.509,1,0.036,0.289,0.00816,0.222,0.966,126.143,disco
+disco.00099.wav,5jkFvD4UJrmdoezzT1FRoP,Rasputin,Boney M.,64,351573,FALSE,0.639,0.893,9,-6.509,1,0.036,0.289,0.00816,0.222,0.966,126.143,disco
+hiphop.00001.wav,3glqlA5qY3bbo8UaUDGPnw,"Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",Wu-Tang Clan,64,338186,TRUE,0.739,0.639,2,-6.959,1,0.358,0.000918,2.74E-05,0.352,0.323,91.121,hiphop
+hiphop.00002.wav,4hOq0WCZgv1I3okksD4bag,Buddy,De La Soul,50,272035,FALSE,0.879,0.703,10,-6.958,0,0.317,0.709,0.00133,0.196,0.661,99.282,hiphop
+hiphop.00003.wav,3alpZ4A3wcqNw3VReg2c2W,Friday,Ice Cube,59,228920,TRUE,0.698,0.703,11,-6.095,1,0.0504,0.0736,2.69E-06,0.305,0.662,186.139,hiphop
+hiphop.00004.wav,6Epbp3MOBM6UnFHyJokEAI,All Good,De La Soul,43,299008,FALSE,0.875,0.598,2,-5.481,1,0.253,0.0127,2.30E-06,0.021,0.793,96.863,hiphop
+hiphop.00005.wav,1auX4gkGe7hbrOH0BXdpV4,Firestarter,The Prodigy,51,279800,FALSE,0.545,0.948,11,-5.098,1,0.0779,0.00335,0.364,0.226,0.355,141.507,hiphop
+hiphop.00006.wav,4NTn0Yo8hTGW5tbBANBzfh,You Can Do It,"Ice Cube, Mack 10 & Ms. Toi",62,259088,TRUE,0.947,0.853,1,-4.489,0,0.164,0.000931,0,0.0502,0.887,99.887,hiphop
+hiphop.00007.wav,2tNmhDlMbwQZLxQtWMt2EU,"Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon & U-God)",Wu-Tang Clan,59,253466,TRUE,0.787,0.72,7,-7.569,1,0.313,0.223,0,0.633,0.521,121.003,hiphop
+hiphop.00008.wav,3vull6iBmoDFACC8TRVabm,Slow and Low,Beastie Boys,44,218066,FALSE,0.665,0.615,4,-9.245,0,0.395,0.0406,0,0.92,0.692,168.76,hiphop
+hiphop.00009.wav,2qq0RYYIuQxXcOxQKN0drC,Shake Your Rump,Beastie Boys,55,198253,FALSE,0.888,0.699,1,-10.425,1,0.164,0.0159,0.000306,0.111,0.697,103.066,hiphop
+hiphop.00010.wav,40IeRufLQe3vruKtqYBM4m,Skills to Pay the Bills,Beastie Boys,33,194186,TRUE,0.719,0.928,1,-9.261,1,0.0526,0.0101,0.665,0.347,0.707,95.955,hiphop
+hiphop.00011.wav,18tgx070tbAM4TKxEwzWaG,Root Down,Beastie Boys,51,212093,TRUE,0.838,0.921,0,-7.588,1,0.0868,0.319,3.27E-06,0.399,0.887,100.003,hiphop
+hiphop.00012.wav,21REQ1bCUWphT2QK3bLWYQ,Sure Shot,Beastie Boys,60,199666,TRUE,0.692,0.799,1,-7.924,1,0.164,0.388,0,0.301,0.549,97.978,hiphop
+hiphop.00013.wav,68dzQnqoBBgydfmd5yJDaT,Body Movin' (Fatboy Slim Remix),Beastie Boys,41,248506,FALSE,0.653,0.964,6,-4.026,1,0.106,0.0323,0,0.148,0.696,101.79,hiphop
+hiphop.00014.wav,5NLuC70kZQv8q34QyQa1DP,Fight for Your Right,Beastie Boys,70,208653,FALSE,0.503,0.858,8,-6.296,1,0.0657,0.00757,0.00234,0.0803,0.419,133.615,hiphop
+hiphop.00015.wav,0UaaJFIosWfcGxeArRxDMV,Bodhisattva Vow,Beastie Boys,34,188333,TRUE,0.711,0.913,0,-9.152,1,0.0781,0.0427,0.00202,0.104,0.423,98.967,hiphop
+hiphop.00016.wav,47VwQ3IrLmlhteJC9ZYzsR,Alive,Beastie Boys,34,228866,FALSE,0.917,0.782,0,-7.243,1,0.356,0.18,0.000927,0.0686,0.652,100.961,hiphop
+hiphop.00017.wav,2qqCS8wH4FNtgH7kVmF8Ub,Jimmy James (Remastered),Beastie Boys,46,194421,FALSE,0.749,0.852,0,-9.983,1,0.0735,0.268,0.0127,0.52,0.677,98,hiphop
+hiphop.00018.wav,6nGUcW4caAW7Wx5oAcSIJZ,Three MC's and One DJ,Beastie Boys,39,170360,TRUE,0.642,0.743,1,-6.784,1,0.444,0.532,0,0.133,0.685,94.3,hiphop
+hiphop.00019.wav,2GOcde6C8b4jH17cYgKzlp,Shadrach,Beastie Boys,41,248128,FALSE,0.887,0.711,11,-11.716,1,0.226,0.0528,0.000709,0.0863,0.803,100.636,hiphop
+hiphop.00020.wav,2tY1gxCKslfXLFpFofYmJQ,Brass Monkey,Beastie Boys,64,157440,FALSE,0.914,0.586,6,-8.435,0,0.33,0.00203,1.58E-06,0.0992,0.655,116.371,hiphop
+hiphop.00021.wav,768OCrh7ftAg2IjQXtv38J,The Negotiation Limerick File,Beastie Boys,34,166186,FALSE,0.704,0.895,1,-5.428,1,0.234,0.0577,0,0.377,0.35,100.939,hiphop
+hiphop.00022.wav,6aaPceG6TnixvAZQ1wBMdp,Get It Together,Beastie Boys,54,245626,TRUE,0.854,0.649,11,-7.997,1,0.326,0.281,0,0.106,0.734,101.02,hiphop
+hiphop.00023.wav,0HiubqhlD4iuegPFy88CNK,Remote Control,Beastie Boys,46,178800,FALSE,0.614,0.961,5,-5.844,0,0.0601,0.331,0.00482,0.345,0.551,93.948,hiphop
+hiphop.00025.wav,5fpizYGbi5IQoEraj6FP0R,Intergalactic,Beastie Boys,68,231493,FALSE,0.734,0.864,2,-6.119,1,0.303,0.022,9.85E-06,0.246,0.47,105.932,hiphop
+hiphop.00027.wav,3SEJLNUEqmMwzZKxMpSSHS,One Two,The Ambassador,15,253213,FALSE,0.736,0.691,11,-8.248,0,0.352,0.0217,0,0.248,0.554,91.008,hiphop
+hiphop.00029.wav,6Wnlq1Pu3I0BajLvxn05Vr,Try Again,Aaliyah,66,284640,FALSE,0.794,0.662,6,-4.913,0,0.249,0.0789,0,0.0937,0.683,93.053,hiphop
+hiphop.00031.wav,635PqgECfFbL0MNLogX7Yv,Most Girls,P!nk,55,298960,FALSE,0.742,0.732,2,-6.046,0,0.0311,0.0424,0.00446,0.101,0.694,97.922,hiphop
+hiphop.00032.wav,4hOq0WCZgv1I3okksD4bag,Buddy,De La Soul,50,272035,FALSE,0.879,0.703,10,-6.958,0,0.317,0.709,0.00133,0.196,0.661,99.282,hiphop
+hiphop.00036.wav,2tY1gxCKslfXLFpFofYmJQ,Brass Monkey,Beastie Boys,64,157440,FALSE,0.914,0.586,6,-8.435,0,0.33,0.00203,1.58E-06,0.0992,0.655,116.371,hiphop
+hiphop.00037.wav,5jZfGxZDayFA1HzYmyOG3a,Bounce With Me (Edited Album Version)[feat. XSCAPE],Bow Wow,38,175893,FALSE,0.852,0.75,8,-5.153,1,0.168,0.434,0,0.265,0.934,72.016,hiphop
+hiphop.00038.wav,4DLVB91nzswc4wD7EchmXs,California Love [Remix],2Pac,54,385880,FALSE,0.635,0.844,5,-4.2,1,0.0741,0.00671,0,0.487,0.649,91.652,hiphop
+hiphop.00039.wav,6ioEEcJzOpLyIO6Dgn1RYS,"Every Ghetto, Every City",Lauryn Hill,49,314706,FALSE,0.613,0.61,5,-7.416,1,0.364,0.339,0,0.0856,0.498,94.957,hiphop
+hiphop.00040.wav,2VjXGuPVVxyhMgER3Uz2Fe,Ex-Factor,Lauryn Hill,71,326533,FALSE,0.593,0.619,3,-9.003,0,0.0976,0.118,0,0.484,0.668,80.02,hiphop
+hiphop.00041.wav,4VludUaLfcvmzd4uJKmYAX,"Dog Sh*t (feat. Ol' Dirty Bastard, RZA & Method Man)",Wu-Tang Clan,15,214866,FALSE,0.715,0.589,2,-6.423,1,0.279,0.235,0,0.839,0.781,92.014,hiphop
+hiphop.00042.wav,3glqlA5qY3bbo8UaUDGPnw,"Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",Wu-Tang Clan,64,338186,TRUE,0.739,0.639,2,-6.959,1,0.358,0.000918,2.74E-05,0.352,0.323,91.121,hiphop
+hiphop.00043.wav,1pdskdCwpfW0qw0swquHhn,Anything Can Happen,Wyclef Jean,31,276466,FALSE,0.719,0.609,9,-10.972,1,0.311,0.0062,2.09E-06,0.186,0.478,90.062,hiphop
+hiphop.00044.wav,6g5ov3aSDUvvDkQKIcmZQI,"Guantanamera (feat. Lauryn Hill, Celia Cruz & Jeni Fujita)",Wyclef Jean,56,270493,FALSE,0.833,0.431,2,-8.991,1,0.178,0.00195,0.000278,0.124,0.385,87.97,hiphop
+hiphop.00045.wav,6ioEEcJzOpLyIO6Dgn1RYS,"Every Ghetto, Every City",Lauryn Hill,49,314706,FALSE,0.613,0.61,5,-7.416,1,0.364,0.339,0,0.0856,0.498,94.957,hiphop
+hiphop.00046.wav,4HfxDJ0uLHTLe0fZrx0MbQ,Check the Rhime,A Tribe Called Quest,65,216693,FALSE,0.881,0.361,11,-14.728,0,0.237,0.0502,0.00458,0.246,0.799,96.43,hiphop
+hiphop.00047.wav,5YTM7OgQDt9EJAYcfHLniJ,Award Tour,A Tribe Called Quest,65,226440,TRUE,0.812,0.6,7,-9.414,1,0.254,0.00308,8.38E-06,0.173,0.555,97.338,hiphop
+hiphop.00048.wav,3Ti0GdlrotgwsAVBBugv0I,Can I Kick It?,A Tribe Called Quest,70,251573,FALSE,0.848,0.666,0,-6.547,1,0.274,0.173,0.000699,0.129,0.744,96.662,hiphop
+hiphop.00049.wav,0301nLjG0ti26rx5ZmfqtP,Scenario,A Tribe Called Quest,59,250133,TRUE,0.795,0.6,2,-14.004,1,0.341,0.112,0.000171,0.111,0.633,101.78,hiphop
+hiphop.00050.wav,0eEXcw3JLVXcRxYrVYMy68,Electric Relaxation,A Tribe Called Quest,68,226133,FALSE,0.866,0.534,11,-9.201,1,0.229,0.184,0.266,0.0929,0.841,98.243,hiphop
+hiphop.00051.wav,7EhEPcPa60LlvGuG9R1DOx,Luck of Lucien,A Tribe Called Quest,53,282520,FALSE,0.888,0.574,9,-6.286,1,0.172,0.138,7.16E-05,0.211,0.696,104.716,hiphop
+hiphop.00052.wav,3DPRoDC4KDStKThf9XLGgB,Talk Much (David Morales Mix),Temper Temper,4,411040,FALSE,0.808,0.498,4,-14.722,0,0.0373,0.0622,0.000331,0.081,0.687,105.062,hiphop
+hiphop.00053.wav,7xTPlmEi7lxm8ivyIbvute,The Right One,Young MC,4,276466,FALSE,0.83,0.671,7,-12.974,1,0.113,0.0816,0.0139,0.0501,0.736,108.098,hiphop
+hiphop.00054.wav,3FDHo1mMOs8vwSaAJF3CAx,The Um Dee Dum Song,Young MC,14,146533,FALSE,0.915,0.747,7,-12.815,1,0.217,0.382,0,0.123,0.692,112.226,hiphop
+hiphop.00055.wav,2icouZbxwqoL63gHhO2vGd,I Wanna Get High,Cypress Hill,58,174600,TRUE,0.734,0.525,3,-14.826,0,0.27,0.0773,0.31,0.0735,0.332,81.936,hiphop
+hiphop.00056.wav,7A78dicsG3o2drpJLWbT6f,I Ain't Goin' Out Like That,Cypress Hill,55,267933,TRUE,0.768,0.533,6,-11.189,1,0.147,0.00252,0.898,0.331,0.437,100.846,hiphop
+hiphop.00057.wav,2jaCU99LSbJeQiFue57ORT,Lick a Shot,Cypress Hill,44,203600,TRUE,0.551,0.685,8,-10.738,1,0.273,0.0634,0.808,0.127,0.728,147.25,hiphop
+hiphop.00058.wav,5HNWXHeqgZII2dC3YwjUaE,3 Lil' Putos,Cypress Hill,42,220200,TRUE,0.714,0.831,3,-11.812,1,0.518,0.017,0.535,0.347,0.578,181.804,hiphop
+hiphop.00059.wav,0cfqYhY6B8PbGF9vaVNUeG,Hits from the Bong,Cypress Hill,67,160866,TRUE,0.803,0.578,1,-13.264,1,0.182,0.0103,0.812,0.199,0.499,92.175,hiphop
+hiphop.00060.wav,5JU11Qh4eT0ZCxuKe08jAw,"What Go Around Come Around, Kid",Cypress Hill,43,222066,TRUE,0.859,0.43,10,-12.272,0,0.173,0.0664,0.748,0.327,0.814,90.419,hiphop
+hiphop.00061.wav,3sE17RqhRgZ0chuYZshVqn,A to the K,Cypress Hill,42,207773,TRUE,0.659,0.629,7,-12.904,1,0.376,0.125,0.00914,0.156,0.713,185.911,hiphop
+hiphop.00062.wav,3YQCClOSBrbKkeAhmGvkoP,Keeping It Moving,A Tribe Called Quest,44,218533,TRUE,0.902,0.431,6,-9.903,0,0.456,0.0858,1.16E-06,0.053,0.833,93.617,hiphop
+hiphop.00063.wav,2MAaiV0bbeq4FpSwPe2rR8,Find a Way,A Tribe Called Quest,63,203066,FALSE,0.773,0.581,8,-8.466,1,0.432,0.0352,0,0.485,0.711,94.093,hiphop
+hiphop.00064.wav,4DcrZLp19qTdBYqc2bgj3V,Sucka Nigga,A Tribe Called Quest,50,245080,TRUE,0.774,0.623,1,-10.372,1,0.324,0.299,0,0.385,0.928,86.233,hiphop
+hiphop.00065.wav,4HfxDJ0uLHTLe0fZrx0MbQ,Check the Rhime,A Tribe Called Quest,65,216693,FALSE,0.881,0.361,11,-14.728,0,0.237,0.0502,0.00458,0.246,0.799,96.43,hiphop
+hiphop.00066.wav,7t83uuT0cZpQ7M6q9ymtv8,Bonita Applebum (includes 'Can I Kick It' Intro),A Tribe Called Quest,47,229840,FALSE,0.845,0.701,8,-5.111,0,0.209,0.0859,0.00232,0.494,0.647,91.851,hiphop
+hiphop.00067.wav,5YTM7OgQDt9EJAYcfHLniJ,Award Tour,A Tribe Called Quest,65,226440,TRUE,0.812,0.6,7,-9.414,1,0.254,0.00308,8.38E-06,0.173,0.555,97.338,hiphop
+hiphop.00068.wav,3Ti0GdlrotgwsAVBBugv0I,Can I Kick It?,A Tribe Called Quest,70,251573,FALSE,0.848,0.666,0,-6.547,1,0.274,0.173,0.000699,0.129,0.744,96.662,hiphop
+hiphop.00069.wav,0301nLjG0ti26rx5ZmfqtP,Scenario,A Tribe Called Quest,59,250133,TRUE,0.795,0.6,2,-14.004,1,0.341,0.112,0.000171,0.111,0.633,101.78,hiphop
+hiphop.00070.wav,6GAemDMWAXa8wZOBkO1gar,Buggin' Out,A Tribe Called Quest,59,217466,FALSE,0.887,0.419,10,-10.961,0,0.353,0.114,0.268,0.129,0.576,96.149,hiphop
+hiphop.00071.wav,7zxMTAuYtI6V6P4O3r0Jfo,If the Papes Come,A Tribe Called Quest,31,254173,FALSE,0.747,0.652,1,-9.648,1,0.059,0.164,0.000641,0.136,0.58,95.691,hiphop
+hiphop.00072.wav,0eEXcw3JLVXcRxYrVYMy68,Electric Relaxation,A Tribe Called Quest,68,226133,FALSE,0.866,0.534,11,-9.201,1,0.229,0.184,0.266,0.0929,0.841,98.243,hiphop
+hiphop.00073.wav,7AgMX97ljLm9BzszyyXEYZ,Jazz (We've Got),A Tribe Called Quest,61,250240,TRUE,0.822,0.479,11,-15.962,1,0.271,0.719,4.42E-05,0.124,0.72,92.461,hiphop
+hiphop.00074.wav,4vsU22ZvoDJxXmXKLNDjsQ,I Left My Wallet In El Segundo (Vampire Mix),A Tribe Called Quest,29,225186,FALSE,0.872,0.69,4,-7.294,1,0.0995,0.0676,0,0.107,0.511,92.677,hiphop
+hiphop.00077.wav,0FpLfrOyHblbDlHUsrPN1N,What's It Gonna Be?! (feat. Janet),Busta Rhymes,50,324400,TRUE,0.797,0.934,1,-4.507,1,0.0926,0.204,0,0.119,0.519,116.438,hiphop
+hiphop.00079.wav,3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,Eminem,87,284200,TRUE,0.949,0.661,5,-4.244,0,0.0572,0.0302,0,0.0454,0.76,104.504,hiphop
+hiphop.00081.wav,68SzT4nku5YIOvrrnTPZ0X,Contract On the World Love Jam (Instrumental),Public Enemy,30,104266,FALSE,0.822,0.36,6,-18.566,1,0.339,0.0449,0.0908,0.265,0.305,102.077,hiphop
+hiphop.00082.wav,3X6M4HfVho2hQxNzUEoOSJ,Brothers Gonna Work It Out,Public Enemy,35,307640,FALSE,0.632,0.748,7,-15.412,1,0.0988,0.00113,8.58E-05,0.0549,0.515,105.316,hiphop
+hiphop.00083.wav,3iTrlBCVU1Cd1VkNDqKWWO,911 Is A Joke,Public Enemy,43,197266,TRUE,0.732,0.788,1,-12.641,0,0.213,0.0118,0,0.137,0.765,103.584,hiphop
+hiphop.00084.wav,1x9Mp0zTYIkivEjw6oOiYW,Incident At 66.6 FM (Instrumental),Public Enemy,25,97760,FALSE,0.849,0.453,6,-20.021,1,0.178,0.0319,6.95E-06,0.374,0.628,113.471,hiphop
+hiphop.00085.wav,2HlKSufhcnPDZAS1S7jLg6,Welcome To The Terrordome,Public Enemy,44,325840,FALSE,0.753,0.779,7,-12.666,1,0.251,0.0933,0,0.236,0.62,110.722,hiphop
+hiphop.00086.wav,39RFivtAkYw9y8zOWrqC7x,Pollywanacraka,Public Enemy,24,232226,FALSE,0.624,0.485,6,-16.432,0,0.464,0.00427,0.000433,0.236,0.636,197.649,hiphop
+hiphop.00087.wav,1vuCDdqdaKc0rOTUjK9XDX,Anti-Nigger Machine,Public Enemy,25,197333,TRUE,0.656,0.599,2,-15.509,1,0.109,0.0159,0.000292,0.217,0.744,101.283,hiphop
+hiphop.00088.wav,0PswhfztcdmfYDqfoGMqc4,Burn Hollywood Burn,Public Enemy,37,167506,TRUE,0.772,0.906,2,-11.221,1,0.188,0.108,0,0.331,0.371,115.917,hiphop
+hiphop.00089.wav,3Ki7LceZVmcQINetqAbTWD,Power To the People,Public Enemy,25,230333,FALSE,0.749,0.686,1,-11.479,1,0.281,0.0198,0,0.112,0.454,126.138,hiphop
+hiphop.00090.wav,46u3ZbLTvEa9T6pZSEAngr,Who Stole the Soul?,Public Enemy,23,229400,FALSE,0.567,0.831,3,-13.603,0,0.147,0.0175,0,0.7,0.281,114.818,hiphop
+hiphop.00091.wav,7nnl7d1EWOPHOlYDYYpB3M,Fear of a Black Planet,Public Enemy,25,225133,FALSE,0.741,0.763,1,-11.989,0,0.209,0.0076,0,0.455,0.494,101.569,hiphop
+hiphop.00092.wav,060hIjL5vg3Zb0Im8zan5I,Revolutionary Generation,Public Enemy,23,343093,FALSE,0.732,0.662,1,-15.276,0,0.185,0.00311,0,0.459,0.502,114.259,hiphop
+hiphop.00094.wav,08l91Hm1QMhcBf6JN3k8HH,Reggie Jax,Public Enemy,21,95906,FALSE,0.805,0.367,6,-16.302,0,0.462,0.0816,0,0.336,0.81,74.336,hiphop
+hiphop.00095.wav,2l95yGU9Z7Pgy8pS6ugyED,Leave This Off Your Fu*Kin Charts (Instrumental),Public Enemy,20,151161,FALSE,0.734,0.924,7,-11.908,1,0.0728,0.00895,0.631,0.374,0.341,111.216,hiphop
+hiphop.00096.wav,6HvvnLdDrPAqxBLpXuodDR,B Side Wins Again,Public Enemy,20,225760,FALSE,0.75,0.797,2,-10.844,1,0.211,0.594,0,0.792,0.452,108.817,hiphop
+hiphop.00097.wav,7tiLzr1mTqyYYXESMVS4jw,War At 33 1/3,Public Enemy,21,127733,FALSE,0.616,0.722,1,-13.211,0,0.193,0.0322,0,0.562,0.637,113.323,hiphop
+hiphop.00098.wav,1yo16b3u0lptm6Cs7lx4AD,Fight The Power,Public Enemy,55,282640,TRUE,0.797,0.582,2,-12.97,1,0.255,0.00484,2.04E-06,0.517,0.415,105.974,hiphop
+jazz.00000.wav,1raq4skj2usLyJeEQXh2Vm,On The Town: Three Dance Episodes: 1. The Great Lover (Allegro pesante) [Live],Leonard Bernstein & Israel Philharmonic Orchestra,0,111426,FALSE,0.587,0.275,0,-16.058,1,0.0548,0.922,0.902,0.103,0.498,123.729,jazz
+jazz.00002.wav,5b7MnS3mYJ51lNRfzteUlb,'Round Midnight,James Carter,20,366560,FALSE,0.36,0.206,3,-15.327,1,0.0414,0.96,0.869,0.147,0.236,90.599,jazz
+jazz.00003.wav,1wQvAZCusSCA2PoIejeHvB,You Never told Me That You Care,James Carter,7,401800,FALSE,0.443,0.247,1,-13.463,1,0.0395,0.933,0.639,0.114,0.301,112.06,jazz
+jazz.00004.wav,35jSBleEswEIppSA7U1U8C,The Intimacy of My Woman's Beautiful Eyes,James Carter,8,527306,FALSE,0.492,0.246,7,-12.885,1,0.0306,0.876,0.229,0.0947,0.265,96.929,jazz
+jazz.00005.wav,4e5aHhtT2iUUFE3a8fxUb4,1944 Stomp,James Carter,8,295960,FALSE,0.601,0.409,8,-10.939,1,0.0397,0.658,0.0529,0.278,0.754,113.71,jazz
+jazz.00006.wav,5NJyh4bMvt0kLHcnVo8Rzo,The Stevedore's Serenade,James Carter,5,545373,FALSE,0.621,0.277,11,-14.414,1,0.0849,0.918,0.85,0.11,0.584,129.725,jazz
+jazz.00007.wav,3mOn2MOYljH7kVca9NyG10,Born to Be Blue,James Carter,6,467600,FALSE,0.426,0.117,8,-15.458,0,0.0419,0.944,0.689,0.0827,0.207,88.369,jazz
+jazz.00008.wav,61BWg8z4xqWiJuCWAexzOI,Deep Throat Blues,James Carter,4,368160,FALSE,0.576,0.41,8,-12.59,1,0.0486,0.64,0.599,0.0944,0.343,112.402,jazz
+jazz.00009.wav,0cp1bUSLwLvROpDkJRPFvW,A Ballad for a Doll,James Carter,0,308373,FALSE,0.413,0.114,6,-23.249,1,0.0416,0.955,0.933,0.0992,0.199,115.228,jazz
+jazz.00010.wav,5Q6qyoYBHOfJdpJGT1wCfN,Eventide,James Carter,0,249160,FALSE,0.327,0.0656,7,-18.049,0,0.044,0.927,0.937,0.109,0.267,89.073,jazz
+jazz.00011.wav,6qlFP2ASGJ57IVDDSxEc69,Lonnie's Lament (Live),Joe Lovano,6,672733,FALSE,0.501,0.324,7,-17.488,0,0.032,0.638,0.000115,0.975,0.656,102.066,jazz
+jazz.00012.wav,40BH4v9mD1JgTMqrrQTtI0,Reflections (Live),Joe Lovano,6,591893,FALSE,0.537,0.174,5,-22.301,0,0.0652,0.782,0.0379,0.701,0.402,112.184,jazz
+jazz.00013.wav,5TDHBVW7YVZqREjqfcHky1,Little Willie Leaps (Live),Joe Lovano,6,563306,FALSE,0.44,0.384,7,-16.923,0,0.0701,0.678,0.00316,0.942,0.59,165.004,jazz
+jazz.00014.wav,2IidUeLatHC0nCF3Ex8hcb,This Is All I Ask (Live),Joe Lovano,2,558266,FALSE,0.502,0.124,0,-19.542,1,0.0448,0.945,0.227,0.696,0.195,135.438,jazz
+jazz.00015.wav,0yupoxvF90ijX94WVQYttS,26-2 (Live),Joe Lovano,5,582533,FALSE,0.507,0.357,7,-17.511,0,0.0952,0.71,0.000568,0.83,0.522,117.029,jazz
+jazz.00016.wav,7iGMgimDG7JoSOsKsGjKOp,Duke Ellington Sound of Love (Live),Joe Lovano,3,376133,FALSE,0.463,0.111,8,-18.456,1,0.0384,0.965,0.218,0.673,0.213,130.286,jazz
+jazz.00017.wav,53CkmIXkc5O59UcmfqJALa,Sounds of Joy (Live),Joe Lovano,2,620026,FALSE,0.527,0.412,5,-17.075,0,0.0865,0.622,0.000853,0.696,0.543,110.227,jazz
+jazz.00018.wav,2u2DSqK8edzYc1DtAYbNJY,Fort Worth (Live),Joe Lovano,5,601893,FALSE,0.357,0.366,7,-18.05,1,0.0597,0.16,0.00139,0.7,0.494,97.557,jazz
+jazz.00019.wav,5Qm90CgbQbuHsGFMifvlmr,Birds of Springtimes Gone By (Live),Joe Lovano,3,403573,FALSE,0.308,0.242,1,-20.843,1,0.0538,0.55,0.204,0.726,0.287,88.751,jazz
+jazz.00020.wav,0PxGQ8AJnEFIOOBpf0E3bH,I Can't Get Started (Live),Joe Lovano,4,512866,FALSE,0.518,0.137,7,-20.496,1,0.255,0.944,0.415,0.708,0.451,108.309,jazz
+jazz.00021.wav,6Gm1dilfKRt8UdANQKXCj4,Uprising (Live),Joe Lovano,2,455266,FALSE,0.384,0.463,6,-15.74,0,0.094,0.109,2.87E-05,0.818,0.646,143.11,jazz
+jazz.00022.wav,4fmWTCFe2ejvvy2HdxSp1S,Sail Away (Live),Joe Lovano,2,652026,FALSE,0.39,0.21,7,-20.366,1,0.0398,0.784,0.0155,0.819,0.309,129.498,jazz
+jazz.00023.wav,74mB65kw6TaR1Is2s7qee2,Blues Not to Lose (Live),Joe Lovano,2,559240,FALSE,0.301,0.319,1,-18.008,1,0.0581,0.375,0.00414,0.749,0.378,81.052,jazz
+jazz.00024.wav,19aQzC9zdzghHVS5e0CsCu,Song and Dance (Live),Joe Lovano,1,507560,FALSE,0.434,0.334,1,-18.554,1,0.0652,0.246,0.00058,0.901,0.556,111.232,jazz
+jazz.00025.wav,4uphponw2Npo5k58IPxAS9,Roused About,Branford Marsalis,1,441760,FALSE,0.591,0.225,8,-22.853,1,0.0688,0.452,0.000727,0.134,0.668,98.735,jazz
+jazz.00026.wav,1vnNMotQuiU53xCDJGAdAU,The Beautyful Ones Are Not Yet Born,Branford Marsalis Trio,1,821800,FALSE,0.324,0.148,7,-21.701,0,0.0446,0.592,0.000578,0.121,0.133,138.23,jazz
+jazz.00027.wav,23lk3yGW8tHCMS37MYRktt,Xavier's Lair,Branford Marsalis Trio,1,534600,FALSE,0.424,0.32,11,-18.987,0,0.0447,0.305,0.415,0.0979,0.51,145.051,jazz
+jazz.00028.wav,5POtfwE8PRuGRykQor5Wlm,Cain & Abel,Branford Marsalis Trio,1,467826,FALSE,0.561,0.274,5,-18.615,1,0.0486,0.713,0.00501,0.069,0.664,102.118,jazz
+jazz.00029.wav,57b8zG7wJeouR2Xrqd7euz,Citizen Tain,Branford Marsalis Trio,1,482893,FALSE,0.504,0.257,11,-21.913,0,0.0452,0.444,0.0601,0.266,0.658,112.454,jazz
+jazz.00030.wav,08ihlKnpIUkG9jLiXoYh4v,Gilligan's Isle,Branford Marsalis Trio,0,645133,FALSE,0.53,0.0567,2,-26.47,1,0.057,0.805,0.329,0.0526,0.162,115.5,jazz
+jazz.00031.wav,2WpP8hOpBVhxy6XKv9RiP4,Dewey Baby,Branford Marsalis Trio,0,547773,FALSE,0.415,0.442,5,-17.835,0,0.0873,0.402,0.00169,0.0693,0.635,84.604,jazz
+jazz.00032.wav,2BYYiLGjC1gJMkvJ0cLip8,Beat's Remark,Branford Marsalis Trio,0,707066,FALSE,0.564,0.063,0,-25.666,1,0.0605,0.776,0.666,0.11,0.282,131.289,jazz
+jazz.00033.wav,2xm9ihELo6xwrRKrBbPql9,Body And Soul,Coleman Hawkins,51,182360,FALSE,0.659,0.113,10,-16.756,0,0.0569,0.976,0.88,0.179,0.738,95.063,jazz
+jazz.00034.wav,6PNStds669wZ9530sQ0tYb,Dinah,Lionel Hampton,9,165773,FALSE,0.82,0.467,8,-9.793,1,0.0378,0.855,0.468,0.056,0.883,98.059,jazz
+jazz.00035.wav,6jViGcoDfDbur0OvYNTJup,April In Paris,Coleman Hawkins,32,187893,FALSE,0.482,0.137,9,-17.276,0,0.0401,0.984,0.951,0.119,0.533,70.106,jazz
+jazz.00036.wav,0hVXLEvV5RQXVAGs9WipND,Sugar Foot Stomp,Fletcher Henderson,25,166493,FALSE,0.783,0.239,10,-12.663,1,0.127,0.99,0.0697,0.0839,0.838,101.876,jazz
+jazz.00038.wav,7qSX7elr0gquCZU8GXqKFd,Under Paris Skies,Coleman Hawkins,21,167120,FALSE,0.394,0.313,5,-11.617,0,0.0354,0.829,0.623,0.162,0.552,148.418,jazz
+jazz.00039.wav,2uYS6XD1wGmA69KaSvaRCe,When Lights Are Low,Lionel Hampton,40,134693,FALSE,0.873,0.402,1,-11.566,1,0.0355,0.889,0.00217,0.0924,0.953,99.155,jazz
+jazz.00041.wav,4OpbVIAvxB3qNzTTxdEonA,My Blue Heaven,Coleman Hawkins,15,168133,FALSE,0.745,0.246,3,-14.826,1,0.056,0.935,0.707,0.165,0.961,95.959,jazz
+jazz.00042.wav,6nfPhbxXB8to2m8yJjqFEF,Say It Isn't So,Coleman Hawkins,14,173706,FALSE,0.589,0.219,10,-11.313,1,0.0525,0.891,0.0806,0.157,0.551,72.99,jazz
+jazz.00043.wav,4U77fz7s5ap1JtVZlDhZlO,I Love Paris,Coleman Hawkins,20,211760,FALSE,0.423,0.405,0,-9.971,1,0.036,0.754,0.0818,0.116,0.748,146.003,jazz
+jazz.00044.wav,5vhQfDOSKYq3Y9UYSahuKz,Sweet Lorraine,"Henry ""Red"" Allen",1,337026,FALSE,0.672,0.186,7,-15.902,0,0.0406,0.82,0.934,0.134,0.424,102.142,jazz
+jazz.00045.wav,5p65EUxtIzcN3E4uRvkLwV,How Strange,Coleman Hawkins,31,183733,FALSE,0.454,0.176,5,-14.844,0,0.049,0.977,0.906,0.118,0.442,73.047,jazz
+jazz.00046.wav,1pUhI34soilCivRWnHeTqp,Spotlite,Coleman Hawkins,12,187666,FALSE,0.736,0.388,5,-12.453,0,0.0443,0.909,0.822,0.108,0.864,106.834,jazz
+jazz.00049.wav,4NHNztFS67GSpnU611l74v,April In Paris,Sarah Vaughan,41,378373,FALSE,0.421,0.0873,5,-16.897,1,0.0397,0.958,7.28E-05,0.234,0.0721,117.069,jazz
+jazz.00051.wav,2xm9ihELo6xwrRKrBbPql9,Body And Soul,Coleman Hawkins,51,182360,FALSE,0.659,0.113,10,-16.756,0,0.0569,0.976,0.88,0.179,0.738,95.063,jazz
+jazz.00052.wav,7bJqNgyN7JAQk9T2qLIrOG,Dear Rudy,Terell Stafford,0,410880,FALSE,0.579,0.378,0,-9.556,1,0.0318,0.505,0.313,0.0821,0.228,110.809,jazz
+jazz.00053.wav,6PNStds669wZ9530sQ0tYb,Dinah,Lionel Hampton,9,165773,FALSE,0.82,0.467,8,-9.793,1,0.0378,0.855,0.468,0.056,0.883,98.059,jazz
+jazz.00055.wav,6jViGcoDfDbur0OvYNTJup,April In Paris,Coleman Hawkins,32,187893,FALSE,0.482,0.137,9,-17.276,0,0.0401,0.984,0.951,0.119,0.533,70.106,jazz
+jazz.00057.wav,2djeKOjjSzW5ZNc2t3cNeO,There Will Never Be Another You,Coleman Hawkins,21,201066,FALSE,0.307,0.363,8,-9.902,1,0.0337,0.849,0.38,0.397,0.227,101.81,jazz
+jazz.00058.wav,0hVXLEvV5RQXVAGs9WipND,Sugar Foot Stomp,Fletcher Henderson,25,166493,FALSE,0.783,0.239,10,-12.663,1,0.127,0.99,0.0697,0.0839,0.838,101.876,jazz
+jazz.00059.wav,7D9aSDaHLsWAduqwHljK7Z,Georgia,Charles Lloyd,16,397093,FALSE,0.541,0.185,0,-16.948,0,0.038,0.946,0.718,0.138,0.26,108.118,jazz
+jazz.00062.wav,7qSX7elr0gquCZU8GXqKFd,Under Paris Skies,Coleman Hawkins,21,167120,FALSE,0.394,0.313,5,-11.617,0,0.0354,0.829,0.623,0.162,0.552,148.418,jazz
+jazz.00064.wav,4pkIwS0KydnyiTP1Muhkmu,"Jeepers, Creepers",Lester Young,13,184906,FALSE,0.58,0.108,0,-14.118,1,0.113,0.967,0.246,0.107,0.701,96.336,jazz
+jazz.00065.wav,2uYS6XD1wGmA69KaSvaRCe,When Lights Are Low,Lionel Hampton,40,134693,FALSE,0.873,0.402,1,-11.566,1,0.0355,0.889,0.00217,0.0924,0.953,99.155,jazz
+jazz.00068.wav,6nfPhbxXB8to2m8yJjqFEF,Say It Isn't So,Coleman Hawkins,14,173706,FALSE,0.589,0.219,10,-11.313,1,0.0525,0.891,0.0806,0.157,0.551,72.99,jazz
+jazz.00069.wav,4U77fz7s5ap1JtVZlDhZlO,I Love Paris,Coleman Hawkins,20,211760,FALSE,0.423,0.405,0,-9.971,1,0.036,0.754,0.0818,0.116,0.748,146.003,jazz
+jazz.00070.wav,5vhQfDOSKYq3Y9UYSahuKz,Sweet Lorraine,"Henry ""Red"" Allen",1,337026,FALSE,0.672,0.186,7,-15.902,0,0.0406,0.82,0.934,0.134,0.424,102.142,jazz
+jazz.00071.wav,5p65EUxtIzcN3E4uRvkLwV,How Strange,Coleman Hawkins,31,183733,FALSE,0.454,0.176,5,-14.844,0,0.049,0.977,0.906,0.118,0.442,73.047,jazz
+jazz.00072.wav,1pUhI34soilCivRWnHeTqp,Spotlite,Coleman Hawkins,12,187666,FALSE,0.736,0.388,5,-12.453,0,0.0443,0.909,0.822,0.108,0.864,106.834,jazz
+jazz.00073.wav,5f4V1rtxYYbGnTbITkkIV7,Scrapple From The Apple,Dexter Gordon,34,442173,FALSE,0.482,0.597,7,-9.069,0,0.0596,0.514,0,0.0609,0.749,120.081,jazz
+jazz.00074.wav,0nWGNAQG3bdcBTxRjEHsW8,Willow Weep For Me,Dexter Gordon,32,528640,FALSE,0.616,0.331,2,-11.954,0,0.0433,0.743,2.26E-06,0.0596,0.595,82.317,jazz
+jazz.00075.wav,1PjMGBJldPIrXOg5AZPNLu,Broadway,Dexter Gordon,21,404680,FALSE,0.472,0.608,5,-8.229,0,0.0516,0.475,0,0.0739,0.829,110.407,jazz
+jazz.00076.wav,3sO8hBPBMIpfWu7skmEKRD,Stairway To The Stars,Dexter Gordon,30,417306,FALSE,0.502,0.288,0,-10.496,1,0.0482,0.933,0.525,0.274,0.387,61.399,jazz
+jazz.00077.wav,5KQ6uddno2Hht84gJDHsPF,A Night In Tunisia,Dexter Gordon,43,495373,FALSE,0.528,0.583,7,-8.776,0,0.0643,0.592,0,0.305,0.671,96.284,jazz
+jazz.00078.wav,3WBOCI8zM5SKfTXq41wM4e,Our Love Is Here To Stay,Dexter Gordon,30,339160,FALSE,0.521,0.471,5,-8.49,1,0.0504,0.587,0,0.301,0.723,165.215,jazz
+jazz.00079.wav,0jV2wU27f04zo8eP1tuaQY,Sister Cheryl,Tony Williams,8,422293,FALSE,0.501,0.614,4,-12.255,1,0.033,0.0308,0.792,0.198,0.718,110.14,jazz
+jazz.00080.wav,3mvJUHMiLdxGJiUJZPhYDb,Life of the Party,Tony Williams,4,368040,FALSE,0.527,0.877,2,-8.022,1,0.0414,0.0561,0.706,0.0816,0.881,102.145,jazz
+jazz.00081.wav,2yj1dE8qFszO6OTdCN19wW,Geo Rose,Tony Williams,29,446320,FALSE,0.646,0.683,0,-12.509,1,0.0294,0.105,0.254,0.155,0.75,113.921,jazz
+jazz.00082.wav,6hm9BJzKVBAJQuyGfB22Bk,Tragic (Push the Button Mix),Mark Reeder,7,270226,FALSE,0.227,0.151,9,-19.626,0,0.039,0.892,0.97,0.07,0.04,200.158,jazz
+jazz.00083.wav,16JQCkiR4tlXIfhQQPuvAv,Red Mask,Tony Williams,5,428800,FALSE,0.406,0.811,2,-10.937,1,0.0488,0.208,0.0312,0.0842,0.634,110.25,jazz
+jazz.00084.wav,0ykUfNAJj1HakfUgQnqS4r,Juicy Fruit,Tony Williams,4,588133,FALSE,0.438,0.497,0,-13.47,0,0.0494,0.0193,0.00182,0.471,0.34,127.447,jazz
+jazz.00085.wav,4tdAzqAmMeOYdvURWPSMko,Crystal Palace,Tony Williams,2,422440,FALSE,0.466,0.639,5,-13.767,0,0.0561,0.0952,0.00145,0.329,0.586,81.584,jazz
+jazz.00086.wav,4NlEA0FHm3WHwhuCE9XxMF,Blackbird,Tony Williams,10,335733,FALSE,0.446,0.662,0,-11.324,1,0.0472,0.139,0.00325,0.134,0.355,107.269,jazz
+jazz.00087.wav,4vLYewWIvqHfKtJDk8c8tq,So What,Miles Davis,60,562640,FALSE,0.532,0.151,0,-17.266,1,0.0376,0.706,0.00136,0.116,0.211,136.759,jazz
+jazz.00088.wav,2x91iJc0UkFcjRMEZ2CoWB,Freddie Freeloader,Miles Davis,52,586400,FALSE,0.639,0.186,8,-15.831,1,0.0347,0.704,0.00104,0.118,0.498,128.375,jazz
+jazz.00089.wav,0aWMVrwxPNYkKmFthzmpRi,Blue In Green,Miles Davis,62,337733,FALSE,0.421,0.0162,2,-25.358,0,0.0388,0.808,0.0024,0.0978,0.154,110.479,jazz
+jazz.00090.wav,5o3DSHw1ORhM3lWxqGRvEf,All Blues,Miles Davis,51,692746,FALSE,0.499,0.149,0,-18.305,1,0.0314,0.771,0.00469,0.115,0.363,139.815,jazz
+jazz.00091.wav,6dRx7OUXfvosnXG3g9lWGi,Flamenco Sketches,Miles Davis,50,566133,FALSE,0.348,0.0219,2,-21.065,0,0.0427,0.899,0.112,0.0906,0.225,178.698,jazz
+jazz.00092.wav,4QrQ1zC1UJW2i3GKbDeNTT,Flamenco Sketches (Alternate Take),Miles Davis,41,571560,FALSE,0.451,0.0275,2,-19.576,0,0.041,0.916,0.0463,0.108,0.242,130.777,jazz
+jazz.00093.wav,25PdW0d2KfSOvgLNlPyovf,Brazilian Affair,Bob Mintzer Big Band,1,304293,FALSE,0.482,0.371,0,-17.063,0,0.0371,0.495,0.669,0.103,0.382,82.738,jazz
+jazz.00094.wav,7n1EpdsnO4pUIvfXKyIygg,Miles Ahead,Joe Henderson,16,271333,FALSE,0.525,0.0883,0,-21.334,1,0.047,0.834,0.071,0.0929,0.379,121.968,jazz
+jazz.00095.wav,7tOg38iC3zvp3X54E1b2RJ,Joshua,Joe Henderson,10,379000,FALSE,0.56,0.277,0,-17.891,1,0.0449,0.426,7.97E-05,0.105,0.389,122.766,jazz
+jazz.00096.wav,0PI1eKRMhlomea8c0CieEs,Pfrancing (No Blues),Joe Henderson,9,498000,FALSE,0.478,0.194,0,-18.076,0,0.0412,0.311,0.0093,0.191,0.313,131.989,jazz
+jazz.00097.wav,6xGjvC8XQGjnLnyAizUldv,Flamenco Sketches,Joe Henderson,8,577000,FALSE,0.459,0.023,2,-25.231,0,0.0381,0.924,0.394,0.106,0.186,112.365,jazz
+jazz.00098.wav,5ZRClytHCXvrkTLBzMBbZC,Milestones,Joe Henderson,10,358000,FALSE,0.53,0.233,5,-18.871,1,0.0412,0.302,0.0187,0.261,0.401,80.002,jazz
+jazz.00099.wav,7aX411vyuUDcfc5EiUCHUI,Teo,Joe Henderson,6,536666,FALSE,0.474,0.129,0,-20.558,0,0.0455,0.496,0.021,0.0933,0.351,132.971,jazz
+metal.00000.wav,31BIfWawTAEnp8KsAasy13,Mindtraveller,Falconer,42,345573,FALSE,0.215,0.946,0,-6.221,1,0.0776,6.38E-06,0.137,0.155,0.443,187.748,metal
+metal.00001.wav,5PRZvQeQvp5uHsP9kkfSWg,Beyond the Black Hole,Gamma Ray,29,360293,FALSE,0.329,0.974,8,-6.903,0,0.151,5.13E-06,0.139,0.0531,0.156,155.096,metal
+metal.00002.wav,5orSFpEyBcj8ogpOqI4yOQ,Flight of Icarus,Iron Maiden,51,230760,FALSE,0.368,0.917,6,-4.829,0,0.0772,0.147,0.000121,0.169,0.343,110.455,metal
+metal.00003.wav,77Iw0LG356gd4CF5tCcGNj,Metal Thrashing Mad,Anthrax,39,162360,FALSE,0.187,0.914,7,-9.373,1,0.228,0.00019,0.426,0.285,0.225,195.604,metal
+metal.00004.wav,4qrAZejtodnkf1CUbs4VKE,Of Chaos and Eternal Night,Dark Tranquillity,12,312328,FALSE,0.223,0.971,7,-6.096,1,0.156,2.87E-06,0.189,0.0742,0.415,138.137,metal
+metal.00005.wav,2V0T2LS0pf2r3EFpOEkZFO,Wasted Years,Iron Maiden,55,309640,FALSE,0.314,0.959,4,-4.657,0,0.0908,0.0263,0.000148,0.161,0.492,154.221,metal
+metal.00006.wav,6naAJpTEmS1zT5zgRfB4Tf,Theatre of Pain (Remastered 2007),Blind Guardian,33,255040,FALSE,0.384,0.93,10,-3.903,0,0.0763,0.00114,0.648,0.0827,0.336,120.099,metal
+metal.00007.wav,2qpXE3wMjZHpkwDPm3Nea7,Die By My Hand,Coroner,23,226226,FALSE,0.204,0.951,11,-7.566,0,0.179,2.80E-05,0.808,0.0561,0.328,154.525,metal
+metal.00008.wav,2dbOYFfS7r7NAzquRvji9A,Balls to the Wall,Accept,59,342600,FALSE,0.544,0.739,9,-7.383,1,0.0517,0.00392,0.000143,0.168,0.328,118.287,metal
+metal.00010.wav,5sd7tS9ikuEctqSB8OD3PB,My Faeryland Forgotten,Dark Tranquillity,12,277130,FALSE,0.184,0.947,6,-6.443,0,0.128,1.64E-05,0.789,0.0991,0.511,149.071,metal
+metal.00012.wav,7D4wvbBWpnSGfPqumTR8m9,"Away, Delight, Away",Dark Tranquillity,11,320830,FALSE,0.155,0.965,9,-5.548,0,0.105,1.16E-06,0.379,0.136,0.321,160.984,metal
+metal.00013.wav,4qrAZejtodnkf1CUbs4VKE,Of Chaos and Eternal Night,Dark Tranquillity,12,312328,FALSE,0.223,0.971,7,-6.096,1,0.156,2.87E-06,0.189,0.0742,0.415,138.137,metal
+metal.00014.wav,2xvARY5Iya7eomXJRZ969A,With the Flaming Shades of Fall,Dark Tranquillity,10,207760,FALSE,0.188,0.939,4,-5.705,0,0.0612,1.28E-06,0.169,0.0663,0.475,156.082,metal
+metal.00015.wav,28PySKvJGGdBwS6AKZ9h5M,Nightfall by the Shore of Time,Dark Tranquillity,18,286241,FALSE,0.19,0.944,6,-6.375,0,0.183,1.95E-05,0.552,0.373,0.32,139.44,metal
+metal.00016.wav,0esBc6VgM4lFk3SOlL3Ys4,Disciple,Slayer,48,215693,TRUE,0.238,0.994,8,-3.578,1,0.25,0.00179,0.00944,0.202,0.0839,95.569,metal
+metal.00017.wav,61dTqhd46yMkSWmC5LAh5F,Angel of Death,Slayer,58,291440,FALSE,0.332,0.994,1,-4.336,1,0.137,0.000119,0.322,0.142,0.0829,106.086,metal
+metal.00018.wav,5Md11uzTcHNXMWOJAz60Zd,Darkness of Christ,Slayer,30,90533,FALSE,0.302,0.957,9,-11.684,1,0.129,0.202,0.859,0.536,0.159,97.078,metal
+metal.00019.wav,13wcFlh4YHlCT0W7FRxWki,Piece By Piece,Slayer,43,122560,FALSE,0.477,0.996,10,-4.358,0,0.0773,0.00022,0.0672,0.271,0.0883,109.882,metal
+metal.00020.wav,3tpZGughvVt9faNl89jzj4,Necrophobic,Slayer,41,100506,FALSE,0.37,0.996,6,-4.793,1,0.146,2.49E-05,0.114,0.0781,0.184,124.159,metal
+metal.00022.wav,7ACxUo21jtTHzy7ZEV56vU,Crazy Train,Ozzy Osbourne,77,293183,FALSE,0.454,0.913,9,-4.008,1,0.107,0.408,0.000271,0.248,0.521,137.688,metal
+metal.00024.wav,3iPTG2VxWqIwBygwqB5NV2,Kinescope,Jacob's Dream,14,214733,FALSE,0.259,0.777,4,-6.553,0,0.0446,4.34E-06,0.0153,0.289,0.231,111.864,metal
+metal.00025.wav,5a2hIQWInPjqkkFiUEgxoX,Peace Sells,Megadeth,64,244160,FALSE,0.322,0.932,4,-4.252,0,0.163,8.57E-05,0.817,0.0969,0.376,138.042,metal
+metal.00026.wav,6yGloCKJZp599WwYPDozvh,Across the River,Anthrax,28,86733,FALSE,0.294,0.948,6,-10.754,0,0.0872,2.16E-05,0.885,0.0607,0.133,134.079,metal
+metal.00027.wav,3cFnb3Rg9a7Gzqxc5QQ9YZ,Got The Time,Anthrax,61,164333,FALSE,0.371,0.973,10,-5.303,0,0.135,0.000641,0.00163,0.0423,0.444,127.721,metal
+metal.00028.wav,6EPRKhUOdiFSQwGBRBbvsZ,Ace of Spades,Motörhead,74,166360,FALSE,0.342,0.91,4,-7.748,1,0.0758,4.02E-05,0.000121,0.0823,0.547,140.452,metal
+metal.00029.wav,2XyU7gwELovG2Nqo9UYBGp,Glamour Boys,Living Colour,40,220133,FALSE,0.511,0.913,0,-4.379,0,0.0323,0.0273,0.00569,0.0864,0.856,121.451,metal
+metal.00030.wav,5emb8RDOZtpXlw6D0eEQbz,Trust,Megadeth,57,311533,FALSE,0.578,0.775,5,-5.388,1,0.0509,0.00365,0.102,0.196,0.306,132.038,metal
+metal.00031.wav,7Ei4LhQ8BeTfjsPY7FINZS,Born to Raise Hell,Motörhead,52,299786,FALSE,0.416,0.957,1,-3.964,1,0.0793,0.00353,0.000328,0.0687,0.762,137.874,metal
+metal.00032.wav,15RpfmFhrE5RRkf4vZ6kZu,Blackout,Scorpions,53,228266,FALSE,0.263,0.84,9,-9.757,1,0.0527,0.00676,0.356,0.7,0.714,89.368,metal
+metal.00034.wav,1Ab3hhOw1TJWDgO10vlxNZ,The Trooper,Iron Maiden,64,252733,FALSE,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,0.669,159.756,metal
+metal.00035.wav,2RJba1by26f8314u8IgMta,Bloodline,Slayer,53,216973,FALSE,0.408,0.97,9,-3.882,1,0.125,6.05E-05,0.171,0.0812,0.223,118.441,metal
+metal.00036.wav,4KvDonKbMKEDIpb4JPCAPw,In a Gadda Da Vida,Slayer,40,196706,FALSE,0.431,0.996,10,-3.221,0,0.129,0.00101,0.00444,0.0581,0.2,140.404,metal
+metal.00037.wav,68VlrCCdgKBSQ533jpTAw8,And the Bands Played On,Saxon,39,167880,FALSE,0.41,0.805,1,-8.374,0,0.075,0.00872,0.00326,0.127,0.77,131.811,metal
+metal.00038.wav,0ep7UTGw3F9VkN9FV52En3,...And Justice for All,Metallica,54,585506,FALSE,0.382,0.793,4,-7.342,0,0.183,7.11E-05,0.147,0.0541,0.424,173.583,metal
+metal.00040.wav,0j7hyKTaetFpKsCgOyGPAI,Stand Up and Shout,Dio,48,198173,FALSE,0.485,0.936,4,-11.738,0,0.0669,0.00313,0.633,0.166,0.337,109.374,metal
+metal.00041.wav,2cZLW5PoX4lpLZAGH5MGHp,Gypsy,Dio,37,221207,FALSE,0.553,0.825,7,-12.207,1,0.0467,0.0045,0.754,0.141,0.505,118.451,metal
+metal.00042.wav,55NekArnnNyOT0ngtn4fpx,Caught In the Middle,Dio,40,257533,FALSE,0.493,0.788,4,-12.808,1,0.0407,0.0167,0.791,0.318,0.762,130.243,metal
+metal.00043.wav,1dlBMzm6CqwQIUQ8PbT3NP,Straight Through the Heart,Dio,43,276373,FALSE,0.484,0.947,11,-5.475,1,0.0467,0.016,0.00142,0.0691,0.571,94.517,metal
+metal.00044.wav,2PpNgmrS9mAyrkRAwn6YPq,Rainbow In the Dark,Dio,63,256933,FALSE,0.512,0.947,9,-5.659,0,0.0401,0.000692,0.114,0.0283,0.612,117.461,metal
+metal.00045.wav,5Lep4j5Uji39k6QCkbg2DT,Shame On the Night,Dio,34,318826,FALSE,0.487,0.65,2,-12.67,1,0.0484,0.225,0.0368,0.244,0.347,121.395,metal
+metal.00046.wav,2qK9CEHfiWKqn9xtielpzV,Hammerless Nail,New Bomb Turks,22,146760,FALSE,0.266,0.968,10,-6.255,0,0.104,0.000243,0,0.138,0.574,111.652,metal
+metal.00047.wav,0wee0wljesryzIhxKnwmXF,Bachelor's High,New Bomb Turks,15,142506,FALSE,0.307,0.964,7,-6.061,1,0.0487,0.000769,0.00583,0.227,0.424,104.259,metal
+metal.00048.wav,6SUCiEr98H4MV8xsQManYJ,Professional Againster,New Bomb Turks,18,166426,FALSE,0.22,0.968,1,-5.182,1,0.0539,0.000478,0.0108,0.114,0.435,109.996,metal
+metal.00050.wav,44fIc4zJWyRvmwCsUWdrWh,Jukebox Lean,New Bomb Turks,29,156200,FALSE,0.361,0.972,2,-4.892,1,0.127,0.0011,0.000626,0.132,0.403,111.82,metal
+metal.00051.wav,5oLtfRKC62e7gaKr2kwH8F,Jeers of a Clown,New Bomb Turks,8,151640,FALSE,0.437,0.949,7,-4.215,1,0.0636,0.00171,5.48E-05,0.305,0.561,109.32,metal
+metal.00052.wav,22pcg3i41MQCJ17fL7qCBy,Look Alive Jive,New Bomb Turks,7,221066,FALSE,0.305,0.968,2,-4.257,1,0.105,0.00163,8.62E-06,0.118,0.603,156.465,metal
+metal.00053.wav,35iCa2yPFs5jGvDAgON4Ty,Staring Down the Gift Horse,New Bomb Turks,9,132266,FALSE,0.264,0.986,2,-5.354,1,0.107,0.00102,2.23E-05,0.0949,0.342,123.387,metal
+metal.00054.wav,2FbBtllPBUpnnxl1n8d9co,Shoot the Offshoot,New Bomb Turks,8,145226,FALSE,0.445,0.958,1,-6,1,0.06,0.000229,0.000132,0.137,0.732,124.73,metal
+metal.00055.wav,0qM1UvimclQ4xW5akfcPva,Drop What You're Doin',New Bomb Turks,6,174200,FALSE,0.218,0.941,9,-4.756,1,0.0677,0.000842,5.89E-05,0.0469,0.596,166.308,metal
+metal.00056.wav,6amdRqlNuXqn6sknWnFm3X,Telephone Numbrrr,New Bomb Turks,6,182906,FALSE,0.311,0.96,4,-4.841,1,0.0768,0.00927,1.58E-06,0.0907,0.535,108.128,metal
+metal.00057.wav,1YXxArgNSOOOMvN9Zg8cJx,Wrest Your Hands,New Bomb Turks,6,369426,FALSE,0.436,0.896,4,-5.672,1,0.0339,0.000197,0.0444,0.0745,0.644,129.013,metal
+metal.00058.wav,6K8gEgGkOyD1wFY3kAcyOy,Tie Your Mother Down,Queen,48,286693,FALSE,0.327,0.886,2,-5.6,1,0.0722,0.094,0.000195,0.35,0.16,134.991,metal
+metal.00059.wav,7tU4wwNkxQRSIIYPyCVecY,Tear It Up,Queen,30,206173,FALSE,0.524,0.668,2,-10.345,1,0.0432,0.112,0,0.0824,0.313,90.151,metal
+metal.00060.wav,54flyrjcdnQdco7300avMJ,We Will Rock You,Queen,69,122066,FALSE,0.693,0.497,2,-7.316,1,0.119,0.679,0,0.258,0.473,81.308,metal
+metal.00061.wav,0j7hyKTaetFpKsCgOyGPAI,Stand Up and Shout,Dio,48,198173,FALSE,0.485,0.936,4,-11.738,0,0.0669,0.00313,0.633,0.166,0.337,109.374,metal
+metal.00062.wav,2cZLW5PoX4lpLZAGH5MGHp,Gypsy,Dio,37,221207,FALSE,0.553,0.825,7,-12.207,1,0.0467,0.0045,0.754,0.141,0.505,118.451,metal
+metal.00063.wav,55NekArnnNyOT0ngtn4fpx,Caught In the Middle,Dio,40,257533,FALSE,0.493,0.788,4,-12.808,1,0.0407,0.0167,0.791,0.318,0.762,130.243,metal
+metal.00064.wav,1dlBMzm6CqwQIUQ8PbT3NP,Straight Through the Heart,Dio,43,276373,FALSE,0.484,0.947,11,-5.475,1,0.0467,0.016,0.00142,0.0691,0.571,94.517,metal
+metal.00065.wav,2PpNgmrS9mAyrkRAwn6YPq,Rainbow In the Dark,Dio,63,256933,FALSE,0.512,0.947,9,-5.659,0,0.0401,0.000692,0.114,0.0283,0.612,117.461,metal
+metal.00066.wav,5Lep4j5Uji39k6QCkbg2DT,Shame On the Night,Dio,34,318826,FALSE,0.487,0.65,2,-12.67,1,0.0484,0.225,0.0368,0.244,0.347,121.395,metal
+metal.00067.wav,7zjzu90Q4mtNNaE9Ol9Zbv,Big Gun,AC/DC,58,259413,FALSE,0.569,0.901,9,-5.197,1,0.0544,0.00555,0.26,0.16,0.839,133.194,metal
+metal.00068.wav,2RaA6kIcvomt77qlIgGhCT,Breaking the Law,Judas Priest,73,153840,FALSE,0.362,0.961,2,-5.664,1,0.0857,0.024,9.35E-06,0.159,0.491,164.019,metal
+metal.00069.wav,1Y373MqadDRtclJNdnUXVc,Paranoid,Black Sabbath,73,168405,FALSE,0.412,0.658,4,-12.051,0,0.0708,4.52E-05,0.000774,0.176,0.454,163.071,metal
+metal.00070.wav,2zYzyRzz6pRmhPzyfMEC8s,Highway to Hell,AC/DC,83,208400,FALSE,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,metal
+metal.00071.wav,0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me,Def Leppard,75,267306,FALSE,0.267,0.953,1,-4.899,0,0.096,0.00211,0,0.283,0.568,84.989,metal
+metal.00073.wav,0vhOJ8a3M2LWnBNrDXJKDl,The Memory Remains,Metallica,55,279240,FALSE,0.432,0.904,10,-3.697,0,0.0432,0.000321,0.00982,0.206,0.6,144.401,metal
+metal.00075.wav,63aVbch5VRXtQnCITdeDTZ,Until It Sleeps,Metallica,56,269573,FALSE,0.562,0.919,8,-4.458,0,0.0293,0.000223,0.113,0.142,0.728,113.357,metal
+metal.00076.wav,5DrNFzZZZVfXaEZCaceKnp,Seek & Destroy (Remastered),Metallica,62,414720,FALSE,0.439,0.963,9,-5.508,1,0.277,0.0364,0.00896,0.0784,0.435,140.805,metal
+metal.00077.wav,6QKplS12OIhLVzbfCOLesv,Hell Patrol,Judas Priest,52,216533,FALSE,0.462,0.984,2,-4.987,1,0.144,0.000109,0.0325,0.0572,0.209,112.672,metal
+metal.00078.wav,26A8IIHFL1Y9GufqR3I65T,Prince Charming,Metallica,35,365226,FALSE,0.551,0.975,3,-3.682,0,0.0469,1.97E-05,0.000811,0.0235,0.461,99.813,metal
+metal.00079.wav,18URo35acNKRTHfEdjTcGn,Photograph,Def Leppard,68,247962,FALSE,0.602,0.877,4,-6.606,1,0.0515,0.000343,0.635,0.0551,0.617,123.679,metal
+metal.00080.wav,0RVeadY2MbHz4Pe4MreLNw,Rocket,Def Leppard,55,396823,FALSE,0.521,0.916,11,-6.822,1,0.0467,0.000249,0.00116,0.948,0.398,81.998,metal
+metal.00081.wav,0rFWuqFgHAfuzE8uSB9TWR,Live And Let Die,Guns N' Roses,71,182733,FALSE,0.262,0.777,11,-8.671,1,0.0632,0.0109,0.113,0.12,0.264,152.5,metal
+metal.00082.wav,0G21yYKMZoHa30cYVi1iA8,Welcome to the Jungle,Guns N' Roses,80,273480,TRUE,0.453,0.987,8,-4.485,1,0.0889,0.0195,0.283,0.268,0.316,123.544,metal
+metal.00083.wav,51YZAJhOwIC5Gg3jMbAmhZ,For Whom the Bell Tolls (Remastered),Metallica,71,309973,FALSE,0.512,0.86,0,-6.145,1,0.0703,0.00631,0.00528,0.0652,0.258,117.909,metal
+metal.00084.wav,5NXTDuDe0BQ8trPWGaE5ih,Shock the Monkey,Coal Chamber,48,222533,FALSE,0.598,0.952,0,-4.473,0,0.109,0.00858,0.000127,0.316,0.568,148.951,metal
+metal.00086.wav,0rmGAIH9LNJewFw7nKzZnc,You Give Love a Bad Name,Bon Jovi,81,222706,FALSE,0.541,0.96,0,-2.947,0,0.0505,0.0663,2.25E-06,0.344,0.812,122.803,metal
+metal.00087.wav,6BMu02ms9MpX99hHgACYRE,So What,Metallica,39,188973,TRUE,0.533,0.983,2,-2.964,1,0.0674,0.00118,3.13E-05,0.378,0.382,94.938,metal
+metal.00088.wav,25ZH79eefRHT8CUo15UFjo,Twist of Cain,Danzig,52,258360,TRUE,0.527,0.664,1,-9.201,0,0.0615,0.00746,0.000611,0.0973,0.357,119.282,metal
+metal.00089.wav,1bGY8t3tsMc6HaXWtYBoas,Apokalips,Danzig,15,287266,FALSE,0.25,0.849,1,-5.453,1,0.0443,0.000192,0.102,0.092,0.5,154.804,metal
+metal.00090.wav,7lwCPihf6s0609Q5uBjXrF,Symptom of the Universe,Black Sabbath,44,389095,FALSE,0.279,0.638,6,-12.569,0,0.0449,0.0469,0.0572,0.141,0.466,178.273,metal
+metal.00091.wav,2bku1YWarHpKlxVC2FB9dH,Sabbath Bloody Sabbath,Black Sabbath,52,346637,FALSE,0.359,0.625,1,-9.643,0,0.0351,0.369,7.70E-05,0.0674,0.524,137.764,metal
+metal.00092.wav,0sxYYT48UPkmrDx8p4Hnrl,Run to the Hills,Iron Maiden,60,233506,FALSE,0.249,0.943,0,-5.188,1,0.0669,0.0286,0.00401,0.162,0.458,173.671,metal
+metal.00093.wav,5dtdDxI45qW6GRr2YyC0mX,Phantom of the Opera,Iron Maiden,44,441466,FALSE,0.319,0.952,4,-5.315,0,0.0723,6.28E-05,0.154,0.918,0.228,109.275,metal
+metal.00094.wav,1Ab3hhOw1TJWDgO10vlxNZ,The Trooper,Iron Maiden,64,252733,FALSE,0.285,0.908,4,-4.601,0,0.0705,0.0318,0.00909,0.311,0.669,159.756,metal
+metal.00095.wav,2rBHnIxbhkMGLpqmsNX91M,Bombtrack,Rage Against the Machine,65,243453,TRUE,0.459,0.926,4,-3.415,1,0.155,0.0239,1.93E-05,0.183,0.569,151.534,metal
+metal.00096.wav,59WN2psjkt1tyaxjspN8fp,Killing In the Name,Rage Against the Machine,79,313573,TRUE,0.466,0.833,7,-4.215,1,0.304,0.0266,0,0.0327,0.661,88.785,metal
+metal.00097.wav,2QiqwOVUctPRVggO9G1Zs5,Wake Up,Rage Against the Machine,63,363853,FALSE,0.411,0.893,7,-3.646,1,0.139,0.00563,0.00967,0.149,0.513,170.407,metal
+metal.00098.wav,67qdozSgFFHL6VGW85KmtD,Fistful of Steel,Rage Against the Machine,49,330546,FALSE,0.529,0.827,11,-6.413,0,0.114,0.0191,0.195,0.0938,0.585,155.529,metal
+metal.00099.wav,48lQegoLqGAzaRLnMwK0mO,Freedom,Rage Against the Machine,55,366333,FALSE,0.503,0.678,7,-5.552,1,0.103,0.000893,0.0134,0.348,0.501,112.277,metal
+pop.00000.wav,1k7PZKGFnbibw27Plj81km,Saturate Me,Mandy Moore,18,241773,FALSE,0.641,0.736,0,-7.682,1,0.0268,0.0422,0.0193,0.0963,0.834,133.002,pop
+pop.00001.wav,1SDaGaHrcH7hDdZwzXHslN,Wasting My Time,Spice Girls,27,254773,FALSE,0.798,0.751,5,-4.569,0,0.0486,0.009,0,0.186,0.809,106.009,pop
+pop.00002.wav,1AhuzbShhpb3m2OFhCGweS,My All (Classic Radio Club Mix),Mariah Carey,29,257346,FALSE,0.782,0.873,7,-9.111,0,0.0542,0.126,0.226,0.105,0.736,126.167,pop
+pop.00003.wav,2lE7oRoKssULAtbWViL385,Hand In My Pocket,Alanis Morissette,67,222013,FALSE,0.657,0.655,0,-8.3,1,0.0248,0.135,0.00303,0.102,0.668,92.259,pop
+pop.00004.wav,735rjks7kQgWCjTQlIHMuH,Head Over Feet,Alanis Morissette,62,267293,FALSE,0.482,0.808,0,-7.176,1,0.065,0.0562,0,0.202,0.438,79.599,pop
+pop.00005.wav,1d6KS9GH06JAd19uiBy9IE,Ironic,Alanis Morissette,71,230000,FALSE,0.408,0.582,11,-8.305,1,0.0508,0.218,0,0.159,0.365,114.926,pop
+pop.00006.wav,3CVDronuSnhguSUguPoseM,Thank U,Alanis Morissette,65,258773,FALSE,0.672,0.616,0,-5.764,1,0.0258,0.379,2.73E-05,0.0887,0.566,92.094,pop
+pop.00007.wav,7c1iI6dwdCpHGYT8DGEfab,Uninvited,Alanis Morissette,58,276200,FALSE,0.38,0.538,2,-5.493,1,0.0313,0.0223,0.00487,0.094,0.193,127.416,pop
+pop.00008.wav,4l7YIni9bAiGwWMqK5wvgV,You Learn,Alanis Morissette,61,239640,FALSE,0.401,0.706,8,-7.554,1,0.0404,0.00415,0,0.0916,0.458,168.669,pop
+pop.00009.wav,3jS7bB0oXVOwGFZn3aE5NV,You Oughta Know,Alanis Morissette,67,249493,TRUE,0.665,0.834,4,-7.737,1,0.0576,0.21,0,0.452,0.411,105.292,pop
+pop.00011.wav,05ax299a2IU4Hg1FVtE8mN,The Prayer,Andrea Bocelli & Céline Dion,35,269335,FALSE,0.188,0.339,9,-10.726,1,0.0366,0.858,0,0.885,0.253,83.9,pop
+pop.00015.wav,1DSJNBNhGZCigg9ll5VeZv,(You Drive Me) Crazy,Britney Spears,65,198066,FALSE,0.748,0.939,0,-4.288,0,0.0341,0.0534,0,0.32,0.96,104.001,pop
+pop.00016.wav,23dIvJu0yfes1JRFut1NMQ,(I Can't Get No) Satisfaction,Britney Spears,41,263453,FALSE,0.905,0.658,11,-4.901,1,0.0377,0.0827,3.48E-05,0.173,0.659,110,pop
+pop.00018.wav,4ivEfveEhUQDbTreKAkueE,Autumn Goodbye (2009 Remaster),Britney Spears,16,221040,FALSE,0.805,0.83,8,-5.889,1,0.0389,0.161,0,0.188,0.664,122.024,pop
+pop.00019.wav,3MjUtNVVq3C8Fn0MP3zhXa,...Baby One More Time,Britney Spears,78,211066,FALSE,0.759,0.699,0,-5.745,0,0.0307,0.202,0.000131,0.443,0.907,92.96,pop
+pop.00021.wav,1DSJNBNhGZCigg9ll5VeZv,Crazy,Britney Spears,65,198066,FALSE,0.748,0.939,0,-4.288,0,0.0341,0.0534,0,0.32,0.96,104.001,pop
+pop.00022.wav,1DSJNBNhGZCigg9ll5VeZv,(You Drive Me) Crazy,Britney Spears,65,198066,FALSE,0.748,0.939,0,-4.288,0,0.0341,0.0534,0,0.32,0.96,104.001,pop
+pop.00024.wav,3lpRz2Zp0mPKKgXfoLNt42,Deep In My Heart,Britney Spears,37,215933,FALSE,0.799,0.783,6,-4.369,0,0.0314,0.0319,7.46E-06,0.078,0.904,117.005,pop
+pop.00025.wav,70XtWbcVZcpaOddJftMcVi,From the Bottom of My Broken Heart,Britney Spears,52,312533,FALSE,0.677,0.665,7,-5.171,1,0.0305,0.56,1.01E-06,0.338,0.706,74.981,pop
+pop.00027.wav,4l1MNtoCiTxBwf6yxD7kFd,Born to Make You Happy,Britney Spears,60,243533,FALSE,0.633,0.922,11,-4.842,0,0.0454,0.116,0.000465,0.071,0.686,84.11,pop
+pop.00028.wav,2I320CTP7hYFTtiFo1H6CD,I Will Be There,Britney Spears,41,233600,FALSE,0.659,0.866,8,-5.789,1,0.0351,0.165,3.65E-05,0.0988,0.765,100.997,pop
+pop.00029.wav,17HyUnJvY9J2l4fFzy9mPW,I Will Still Love You,Britney Spears,37,243826,FALSE,0.658,0.868,1,-3.902,1,0.0362,0.134,0,0.111,0.73,80.004,pop
+pop.00030.wav,2TTYIwTM2iLC1YOyHuhRMt,Lucky,Britney Spears,67,206226,FALSE,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,pop
+pop.00031.wav,2TTYIwTM2iLC1YOyHuhRMt,Lucky,Britney Spears,67,206226,FALSE,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,pop
+pop.00032.wav,6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,78,211160,FALSE,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,pop
+pop.00034.wav,1UI0l2L66HJ9AtoEOlHzv4,Sometimes,Britney Spears,68,245066,FALSE,0.745,0.742,10,-5.693,1,0.0259,0.42,0,0.102,0.806,95.996,pop
+pop.00035.wav,5QhBKPqsnX1uY9fZNaAtZg,Stronger,Britney Spears,66,203000,FALSE,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,pop
+pop.00036.wav,4z4snWdgrJ8hbKFR0Bq2TU,Thinkin' About You,Britney Spears,35,214706,FALSE,0.756,0.7,0,-6.431,1,0.031,0.00993,0,0.0837,0.844,98.023,pop
+pop.00037.wav,1DSJNBNhGZCigg9ll5VeZv,(You Drive Me) Crazy,Britney Spears,65,198066,FALSE,0.748,0.939,0,-4.288,0,0.0341,0.0534,0,0.32,0.96,104.001,pop
+pop.00038.wav,41cQPDvsP9vBCigVqQjnqg,What U See (Is What U Get),Britney Spears,48,216706,FALSE,0.847,0.801,9,-3.838,1,0.0565,0.0876,0.000204,0.766,0.841,93.19,pop
+pop.00039.wav,6Ku1myU5FfKc2zKERF9p9I,Dreamin' of You,Céline Dion,43,307733,FALSE,0.528,0.482,9,-8.872,1,0.03,0.254,0,0.285,0.264,166.073,pop
+pop.00040.wav,1J6CgGxelGF144IW7BXXRB,I Want You to Need Me,Céline Dion,34,273800,FALSE,0.521,0.494,10,-6.219,1,0.0314,0.635,0,0.148,0.145,129.72,pop
+pop.00042.wav,5s4catxeZsaWFnOrvrXZHf,That's the Way It Is,Céline Dion,66,241373,FALSE,0.634,0.886,9,-5.424,1,0.0434,0.154,0,0.118,0.577,93.04,pop
+pop.00043.wav,2goLsvvODILDzeeiT4dAoR,Believe,Cher,76,239026,FALSE,0.652,0.917,6,-6.72,1,0.0548,0.0082,0,0.0509,0.459,132.975,pop
+pop.00044.wav,7A0apkTSTvMbSI7yplcmlh,Come On Over (All I Want Is You),Christina Aguilera,65,203333,FALSE,0.829,0.915,8,-3.205,1,0.106,0.226,1.25E-05,0.246,0.779,118.903,pop
+pop.00045.wav,11mwFrKvLXCbcVGNxffGyP,Genie In a Bottle,Christina Aguilera,72,217573,FALSE,0.633,0.8,1,-6.945,1,0.166,0.209,0.000123,0.137,0.913,175.716,pop
+pop.00046.wav,11mwFrKvLXCbcVGNxffGyP,Genie In a Bottle,Christina Aguilera,72,217573,FALSE,0.633,0.8,1,-6.945,1,0.166,0.209,0.000123,0.137,0.913,175.716,pop
+pop.00047.wav,3HodhgfYp3CM8hoWTZRSNR,Lady Marmalade,Christina Aguilera & Lil' Kim & Mya & P!nk,1,264846,FALSE,0.756,0.809,5,-3.655,1,0.0541,0.0173,3.69E-06,0.66,0.64,109.901,pop
+pop.00049.wav,4B1sb2YVO03sBmyR8bvzEB,Pero Me Acuerdo de Tí,Christina Aguilera,65,265733,FALSE,0.679,0.474,6,-6.323,1,0.0294,0.546,0.00149,0.373,0.197,117.947,pop
+pop.00050.wav,5bGmuxShUba9maPswDnhCs,What a Girl Wants,Christina Aguilera,63,215800,FALSE,0.754,0.819,0,-6.833,1,0.112,0.0684,0,0.345,0.818,142.137,pop
+pop.00051.wav,3HodhgfYp3CM8hoWTZRSNR,Lady Marmalade,Christina Aguilera & Lil' Kim & Mya & P!nk,1,264846,FALSE,0.756,0.809,5,-3.655,1,0.0541,0.0173,3.69E-06,0.66,0.64,109.901,pop
+pop.00052.wav,41nT1Sp6ChR65FbsdLlFHW,Bootylicious,Destiny's Child,65,207906,FALSE,0.84,0.835,1,-4.386,0,0.275,0.00281,1.11E-06,0.152,0.637,103.376,pop
+pop.00053.wav,1BfhaYU5TpZWCn0CuGgh1B,Outro (Amazing Grace...Dedicated to Andretta Tillman),Destiny's Child,26,158426,FALSE,0.364,0.303,5,-6.95,0,0.0408,0.944,0,0.138,0.338,134.18,pop
+pop.00054.wav,29ozby8c3d3hOtm0nIASqJ,Bootylicious (Rockwilder Remix),Destiny's Child,30,251200,FALSE,0.551,0.709,1,-2.761,1,0.209,0.106,0,0.27,0.661,96.877,pop
+pop.00055.wav,72UwiFbVdyoSQjiRjFZWjv,Bug a Boo Mix,dj icee,13,199105,FALSE,0.757,0.848,1,-4.96,1,0.354,0.564,0,0.339,0.892,106.63,pop
+pop.00056.wav,4pmc2AxSEq6g7hPVlJCPyP,"Jumpin', Jumpin'",Destiny's Child,70,230200,FALSE,0.771,0.685,1,-4.639,1,0.0567,0.00543,0.00157,0.0537,0.683,88.997,pop
+pop.00057.wav,41nT1Sp6ChR65FbsdLlFHW,Bootylicious,Destiny's Child,65,207906,FALSE,0.84,0.835,1,-4.386,0,0.275,0.00281,1.11E-06,0.152,0.637,103.376,pop
+pop.00058.wav,69XUpOpjzDKcfdxqZebGiI,"Independent Women, Pt. I",Destiny's Child,66,221133,FALSE,0.73,0.602,6,-3.782,0,0.206,0.362,3.69E-06,0.169,0.927,97.954,pop
+pop.00059.wav,4pmc2AxSEq6g7hPVlJCPyP,"Jumpin', Jumpin'",Destiny's Child,70,230200,FALSE,0.771,0.685,1,-4.639,1,0.0567,0.00543,0.00157,0.0537,0.683,88.997,pop
+pop.00060.wav,29ozby8c3d3hOtm0nIASqJ,Bootylicious (Rockwilder Remix),Destiny's Child,30,251200,FALSE,0.551,0.709,1,-2.761,1,0.209,0.106,0,0.27,0.661,96.877,pop
+pop.00061.wav,5KE8kEKYGzP5uN8Vls4MUg,Apple Pie à la Mode,Destiny's Child,28,178533,FALSE,0.765,0.722,7,-5.84,1,0.283,0.014,0.000133,0.125,0.701,95.931,pop
+pop.00062.wav,2Mpj1Ul5OFPyyP4wB62Rvi,Survivor,Destiny's Child,70,254026,FALSE,0.514,0.911,1,-2.027,0,0.41,0.0559,0,0.775,0.619,161.109,pop
+pop.00063.wav,5fb86ebWWY9tK5TPgZfjjN,Stars,Manne,0,287080,FALSE,0.449,0.664,1,-7.355,0,0.031,0.000137,0.857,0.111,0.245,110.034,pop
+pop.00064.wav,40m1klhc9wIGCLLLfNPOnB,If It Don't Fit (Thunder Dub),Abigail,0,433514,FALSE,0.725,0.932,6,-8.607,0,0.0714,0.0024,0.887,0.0764,0.753,130.034,pop
+pop.00065.wav,6t0c7t14prrgAZ0yLXMlrv,The Beautiful Ones (feat. Dru Hill),Mariah Carey,37,417666,FALSE,0.708,0.615,5,-5.504,0,0.0374,0.4,4.76E-06,0.171,0.62,114.712,pop
+pop.00067.wav,5X8kkUaUlAyAUr9TYqDFTH,All For You,Janet Jackson,63,329933,FALSE,0.753,0.934,2,-3.011,1,0.0736,0.0174,0.065,0.128,0.73,113.525,pop
+pop.00068.wav,43zr9kKkeiQrshvYuvNtfM,Someone to Call My Lover,Janet Jackson,48,272360,FALSE,0.738,0.914,2,-4.203,1,0.0434,0.144,0.00099,0.182,0.935,127.885,pop
+pop.00069.wav,0t414ewhjcIiuPVF3QECz2,If,Janet Jackson,52,271640,FALSE,0.653,0.976,11,-5.173,0,0.0797,0.0374,0.00173,0.561,0.447,105.575,pop
+pop.00070.wav,4FTq81I0X4J6y9X06GcZIN,I Get Lonely,Janet Jackson,56,317560,FALSE,0.774,0.496,7,-8.144,0,0.0498,0.186,0,0.542,0.452,125.137,pop
+pop.00071.wav,5X8kkUaUlAyAUr9TYqDFTH,All For You,Janet Jackson,63,329933,FALSE,0.753,0.934,2,-3.011,1,0.0736,0.0174,0.065,0.128,0.73,113.525,pop
+pop.00072.wav,4r5VaK6H1bq0cTGPMTN97Z,Miss You Much,Janet Jackson,49,252333,FALSE,0.702,0.975,6,-7.968,0,0.0396,0.0305,0.000134,0.165,0.646,115.185,pop
+pop.00073.wav,43zr9kKkeiQrshvYuvNtfM,Someone to Call My Lover,Janet Jackson,48,272360,FALSE,0.738,0.914,2,-4.203,1,0.0434,0.144,0.00099,0.182,0.935,127.885,pop
+pop.00075.wav,3x4yV0hW5Ve3TKhFkXSqFn,If You Had My Love,Jennifer Lopez,62,266000,FALSE,0.68,0.625,11,-7,0,0.0353,0.0645,5.81E-05,0.109,0.814,94.02,pop
+pop.00076.wav,0Grh6sxPOqDOVJyTJV3sVg,Dance With Me,Jennifer Lopez,27,231800,FALSE,0.809,0.818,1,-3.432,0,0.0373,0.0334,0.00264,0.196,0.632,109.821,pop
+pop.00078.wav,7fFCnttacpotkyhTOxKv14,Play,Jennifer Lopez,56,211493,TRUE,0.775,0.729,1,-4.229,0,0.162,0.0303,0.00247,0.0361,0.895,104.719,pop
+pop.00079.wav,373vZ0g1dpWaUcrbh0WKhd,Cloudbusting,Kate Bush,56,310160,FALSE,0.681,0.248,1,-17.465,0,0.0328,0.696,8.88E-06,0.0839,0.812,112.806,pop
+pop.00080.wav,3HodhgfYp3CM8hoWTZRSNR,Lady Marmalade,Christina Aguilera & Lil' Kim & Mya & P!nk,1,264846,FALSE,0.756,0.809,5,-3.655,1,0.0541,0.0173,3.69E-06,0.66,0.64,109.901,pop
+pop.00081.wav,2oTWmqWfCn1XOftUKBrgOU,Leaning on the Everlasting Arm,Ladysmith Black Mambazo,3,293040,FALSE,0.667,0.674,5,-12.846,1,0.0297,0.43,7.67E-05,0.0647,0.779,146.065,pop
+pop.00082.wav,3OLmdNT7ueICGZJh1MOUKe,If You Had My Love (Pablo Flores Remix),Jennifer Lopez,23,234266,FALSE,0.617,0.892,4,-7.927,0,0.033,0.00864,0.254,0.37,0.868,126.989,pop
+pop.00083.wav,143846q5fnmWrMNx2fHa4W,American Pie,Madonna,39,273533,FALSE,0.631,0.734,5,-7.479,0,0.036,0.348,0,0.135,0.591,124.037,pop
+pop.00085.wav,2BcOZ4vOeu2qZowIHrvTYy,Music,Madonna,47,225973,FALSE,0.736,0.802,7,-8.527,1,0.0663,0.00149,0.0876,0.14,0.871,119.854,pop
+pop.00086.wav,7BLKBIoijWCkDyOATEr5vW,Cherish,Madonna,50,229600,FALSE,0.692,0.875,2,-4.528,1,0.0345,0.289,3.27E-05,0.0675,0.9,131.877,pop
+pop.00087.wav,7D7NvMKZdl3o9dT8KBf6c8,Crush,Mandy Moore,40,222906,FALSE,0.623,0.672,7,-7.708,1,0.027,0.0665,3.57E-06,0.0651,0.512,102.004,pop
+pop.00088.wav,2YhE6xeWN0R9RVwEOG9lR1,Candy,Mandy Moore,52,234133,FALSE,0.813,0.836,7,-4.23,1,0.0881,0.178,6.63E-05,0.154,0.677,100.491,pop
+pop.00089.wav,2YhE6xeWN0R9RVwEOG9lR1,Candy,Mandy Moore,52,234133,FALSE,0.813,0.836,7,-4.23,1,0.0881,0.178,6.63E-05,0.154,0.677,100.491,pop
+pop.00090.wav,7D7NvMKZdl3o9dT8KBf6c8,Crush,Mandy Moore,40,222906,FALSE,0.623,0.672,7,-7.708,1,0.027,0.0665,3.57E-06,0.0651,0.512,102.004,pop
+pop.00091.wav,1YU7e36mLN5Ig9mZKpJkgu,Ako niakoga,Lubo Kirov,27,233506,FALSE,0.794,0.694,11,-6.184,1,0.0301,0.0603,0.000296,0.0591,0.806,119.024,pop
+pop.00092.wav,19MsMKqidf4Iufr9gyu996,In My Pocket,Mandy Moore,32,219893,FALSE,0.688,0.945,5,-3.749,0,0.0828,0.0161,0.00466,0.223,0.833,109.022,pop
+pop.00093.wav,1DyszAWH7MjRcPgnuhQCON,I Wanna Be With You (Soul Solution Remix - Radio Edit),Mandy Moore,12,260466,FALSE,0.582,0.901,8,-4.407,1,0.0294,0.0136,0.00121,0.183,0.527,134.033,pop
+pop.00094.wav,4du0TY3NTgvQGlelrBHfDL,I Wanna Be With You,Mandy Moore,55,252600,FALSE,0.515,0.908,8,-4.632,1,0.0368,0.0158,1.88E-05,0.412,0.637,150.031,pop
+pop.00095.wav,31HEjCRLGs9soYGpoVuSaU,Love You for Always,Mandy Moore,17,200000,FALSE,0.719,0.724,0,-5.224,1,0.0289,0.222,3.05E-05,0.113,0.839,105.01,pop
+pop.00096.wav,7HXvFjAt417M2WVlqt5nep,Quit Breaking My Heart,Mandy Moore,16,231826,FALSE,0.634,0.559,0,-5.103,0,0.024,0.055,5.21E-06,0.127,0.13,91.019,pop
+pop.00098.wav,0cELvuwJW1acISUHYB6suj,Emotions,Mariah Carey,61,248093,FALSE,0.74,0.752,9,-7.008,0,0.0359,0.0409,0.00125,0.0233,0.939,114.851,pop
+pop.00099.wav,2aBxt229cbLDOvtL7Xbb9x,Always Be My Baby,Mariah Carey,72,258133,FALSE,0.65,0.531,4,-8.335,1,0.0364,0.457,0,0.249,0.487,78.946,pop
+reggae.00000.wav,6JRLFiX9NJSoRRKxowlBYr,Is This Love,Bob Marley & The Wailers,76,232200,FALSE,0.776,0.559,6,-8.375,0,0.103,0.11,0,0.0671,0.758,122.242,reggae
+reggae.00001.wav,423hwXFgoN8RYmqLoLuVvY,"No Woman, No Cry (Live at The Lyceum, London, 1975)",Bob Marley & The Wailers,66,427800,FALSE,0.655,0.675,1,-9.352,1,0.0599,0.272,0.0236,0.727,0.587,77.589,reggae
+reggae.00002.wav,5O4erNlJ74PIF6kGol1ZrC,Could You Be Loved,Bob Marley & The Wailers,80,237000,FALSE,0.916,0.72,0,-8.548,1,0.1,0.36,0.00016,0.0958,0.76,103.312,reggae
+reggae.00003.wav,75FYqcxt1YEAtqDLrOeIJn,Three Little Birds,Bob Marley & The Wailers,78,180266,FALSE,0.826,0.49,9,-10.477,1,0.0676,0.00916,4.41E-06,0.0415,0.627,74.126,reggae
+reggae.00004.wav,7BfW1eoDh27W69nxsmRicb,Buffalo Soldier,Bob Marley & The Wailers,72,255840,FALSE,0.929,0.463,9,-8.651,1,0.308,0.142,5.26E-06,0.0634,0.757,124.084,reggae
+reggae.00005.wav,2fGZTxueiQkrfQ9uDwChBq,"Get Up, Stand Up",Bob Marley & The Wailers,34,221933,FALSE,0.826,0.546,6,-9.518,0,0.385,0.321,5.13E-05,0.068,0.866,148.244,reggae
+reggae.00006.wav,3sqZDdEO5viqNqMCNem5m5,Stir It Up,Bob Marley & The Wailers,62,332400,FALSE,0.76,0.462,9,-11.003,1,0.103,0.621,0.32,0.0758,0.905,146.655,reggae
+reggae.00007.wav,6SR0dDuXH2vtgBfMLrivKV,One Love / People Get Ready,Bob Marley & The Wailers,72,172933,FALSE,0.67,0.516,10,-9.598,1,0.366,0.0673,0,0.0674,0.939,154.186,reggae
+reggae.00008.wav,7HrXkDaGGJ7U5ZmFfFugdD,I Shot the Sheriff,Bob Marley,40,393480,FALSE,0.727,0.795,6,-5.226,0,0.115,0.533,0.000105,0.71,0.772,139.57,reggae
+reggae.00009.wav,58Zt987fK6gWxtO0MwEzPn,Waiting In Vain,Bob Marley & The Wailers,69,256240,FALSE,0.772,0.46,8,-11.489,1,0.327,0.0279,2.21E-05,0.0633,0.8,78.786,reggae
+reggae.00010.wav,26PwuMotZqcczKLHi4Htz3,Redemption Song,Bob Marley & The Wailers,70,233560,FALSE,0.671,0.256,7,-10.743,1,0.0387,0.608,0,0.0737,0.694,115.871,reggae
+reggae.00011.wav,5Uv1YNz6uBepPLDdoFANKQ,Satisfy My Soul,Bob Marley & The Wailers,65,271000,FALSE,0.779,0.418,7,-9.207,1,0.188,0.00333,0.000138,0.252,0.425,127.942,reggae
+reggae.00012.wav,3UuqC9dKWG0bLu6TrPIe4F,Exodus,Bob Marley & The Wailers,57,460226,FALSE,0.868,0.744,7,-8.565,1,0.0502,0.0301,0.00517,0.172,0.961,132.836,reggae
+reggae.00013.wav,5LyfiK6iXEIBNEtcaGKohl,Jamming,Bob Marley & The Wailers,74,211000,FALSE,0.935,0.479,11,-10.981,0,0.306,0.107,5.25E-05,0.118,0.773,123.644,reggae
+reggae.00014.wav,64xslN8DB3jG1tK2l3H1mA,Natural Mystic,Bob Marley & The Wailers,68,207733,FALSE,0.876,0.282,7,-12.618,1,0.319,0.0503,4.76E-05,0.0741,0.801,130.958,reggae
+reggae.00015.wav,1efuoLEUL1K0D96d63svRO,Easy Skanking,Bob Marley & The Wailers,59,177440,FALSE,0.824,0.522,10,-8.567,1,0.0384,0.0159,3.12E-06,0.105,0.581,126.238,reggae
+reggae.00016.wav,5iRPNyWioH9Km8gi58As4V,Iron Lion Zion,Bob Marley & The Wailers,61,202432,FALSE,0.706,0.591,9,-8.513,1,0.0321,0.0117,0.000514,0.136,0.845,142.233,reggae
+reggae.00017.wav,1zWr2alhnYrRBy1M28d3z7,Crazy Baldhead,Bob Marley & The Wailers,54,191866,FALSE,0.884,0.508,6,-11.64,0,0.272,0.142,9.40E-05,0.115,0.778,126.012,reggae
+reggae.00018.wav,209SbubR5uKaVzj5SeN42w,So Much Trouble In The World,Bob Marley & The Wailers,62,240333,FALSE,0.835,0.552,9,-8.616,0,0.0814,0.237,0.000249,0.0534,0.904,155.714,reggae
+reggae.00019.wav,1TLTUhEUYOyORxufZlCOWj,War,Bob Marley & The Wailers,59,216533,FALSE,0.84,0.393,10,-12.423,0,0.303,0.0531,1.80E-05,0.0512,0.751,145.656,reggae
+reggae.00020.wav,2qmHhaOmlcKDeGfipGhF1j,Africa Unite,Bob Marley & The Wailers,62,175626,FALSE,0.904,0.431,11,-10.14,0,0.116,0.191,0.00179,0.0928,0.751,127.57,reggae
+reggae.00021.wav,5VFllKqmcL8ZwWcH7tDLbr,Trenchtown Rock (Live 1975),Bob Marley,34,263266,FALSE,0.421,0.619,0,-9.703,1,0.0703,0.426,0.0017,0.97,0.805,81.944,reggae
+reggae.00022.wav,7MOQblIWr7tst9eSY364fX,Keep On Moving,Bob Marley & The Wailers,40,385141,FALSE,0.792,0.415,9,-8.979,1,0.117,0.0639,0,0.076,0.699,74.332,reggae
+reggae.00023.wav,2pZJhvpin385eqAFRp3ASJ,Sun Is Shining,Bob Marley,64,298506,FALSE,0.785,0.562,10,-7.784,0,0.0514,0.00531,9.36E-05,0.0456,0.614,129.024,reggae
+reggae.00024.wav,2cYAd7BJIOj4Y0pU5Pyesc,Who the Cap Fit,Bob Marley & The Wailers,61,283066,FALSE,0.788,0.485,7,-11.328,0,0.0777,0.0938,0.000507,0.0833,0.744,138.395,reggae
+reggae.00025.wav,3Ui4BMHapr00Iul1kB7lHC,One Drop,Bob Marley & The Wailers,65,231773,FALSE,0.901,0.478,0,-7.39,1,0.237,0.12,1.05E-05,0.165,0.828,121.244,reggae
+reggae.00026.wav,1ATZfYmZOcm24vl5oQtPdC,"Roots, Rock, Reggae",Bob Marley & The Wailers,66,218400,FALSE,0.855,0.473,11,-9.846,0,0.146,0.0719,2.71E-05,0.0795,0.682,139.175,reggae
+reggae.00027.wav,5JqCmd41S3PZ2AS6GuHqcR,Pimper's Paradise,Bob Marley & The Wailers,65,207773,FALSE,0.939,0.65,9,-8.282,0,0.0615,0.00557,0,0.0429,0.968,134.727,reggae
+reggae.00028.wav,3R7EWmgZC8kixlsssu2zrz,Dub Creation,Burning Spear,11,295000,FALSE,0.701,0.288,8,-18.501,0,0.0834,0.0245,0.847,0.0834,0.864,78.461,reggae
+reggae.00029.wav,41YxQq6WsgzWKf6MoFU3ei,Africa,Burning Spear,42,240266,FALSE,0.804,0.52,4,-10.646,1,0.0563,0.171,0.19,0.16,0.957,78.604,reggae
+reggae.00030.wav,6h8G8hUmtQMTNTpZl2pnc6,Stand,Burning Spear,7,249000,FALSE,0.764,0.479,8,-15.768,0,0.0698,0.0392,0.465,0.0813,0.962,152.126,reggae
+reggae.00031.wav,2UCF7AuLFr5NSW6HMtuXnt,Not Stupid,Burning Spear,20,258333,FALSE,0.755,0.459,7,-14.231,1,0.0379,0.0883,0.00707,0.117,0.845,158.296,reggae
+reggae.00032.wav,3lhrfJGMq5oSuWj6rmm95b,Every Other Nation,Burning Spear,9,289493,FALSE,0.716,0.413,7,-16.616,0,0.0602,0.0522,0.00162,0.0914,0.82,150.96,reggae
+reggae.00033.wav,333fkhXwp4MHluQwB22MPs,Burning Reggae,Burning Spear,11,269000,FALSE,0.768,0.508,8,-15.648,1,0.0589,0.156,9.33E-05,0.0499,0.82,87.672,reggae
+reggae.00034.wav,2Kk4cZYNwbifDvXFN1GUBh,Rasta Business,Burning Spear,14,258933,FALSE,0.728,0.436,5,-16.591,0,0.0465,0.0769,0.45,0.081,0.836,93.989,reggae
+reggae.00035.wav,44V9KBIWzE7BYyOs5Z0GPE,Old Timer,Burning Spear,10,278066,FALSE,0.785,0.475,10,-15.142,0,0.0604,0.245,0.24,0.0512,0.963,81.831,reggae
+reggae.00036.wav,6zBB4JDHrImH1rUcglcSjI,Subject In School,Burning Spear,11,225506,FALSE,0.617,0.357,1,-15.149,0,0.0408,0.119,0.391,0.288,0.756,174.013,reggae
+reggae.00037.wav,0IgZEYhsjZ7DDYXkSP1FVm,Hello Rastaman,Burning Spear,9,286493,FALSE,0.777,0.453,2,-15.954,1,0.068,0.00477,0.0046,0.276,0.874,154.051,reggae
+reggae.00038.wav,4t5noR9d3O4GXT1hnUQxjJ,Legal Hustlers,Burning Spear,13,289706,FALSE,0.694,0.809,4,-7.066,1,0.0796,0.0718,2.78E-05,0.271,0.783,96.806,reggae
+reggae.00040.wav,0gLIYweTxXGB5lGLxsgrWY,Loving Day,Burning Spear,10,248120,FALSE,0.761,0.45,11,-11.739,0,0.052,0.0119,0.0175,0.0823,0.781,93.285,reggae
+reggae.00041.wav,53aXCpKRUASUQ8cIDsJ7VN,Israelites,Desmond Dekker,45,153663,FALSE,0.737,0.533,10,-10.133,1,0.0578,0.258,0.00094,0.077,0.97,74.112,reggae
+reggae.00042.wav,0lBQx17Kc5y5AlLveCbOZM,Dry & Heavy,Burning Spear,24,209333,FALSE,0.761,0.2,7,-19.19,1,0.279,0.00321,0.0155,0.0548,0.642,120.557,reggae
+reggae.00043.wav,61GaN64TkeToXuPQvTFakd,Reggae Hit the Town,The Ethiopians,28,146000,FALSE,0.717,0.455,0,-8.305,1,0.0453,0.256,0.0327,0.149,0.818,77.23,reggae
+reggae.00044.wav,333fkhXwp4MHluQwB22MPs,Burning Reggae,Burning Spear,11,269000,FALSE,0.768,0.508,8,-15.648,1,0.0589,0.156,9.33E-05,0.0499,0.82,87.672,reggae
+reggae.00046.wav,2oFMaWz7YZ2W0RUvpqsriL,Keep On Running,Prince Junior,0,181471,FALSE,0.845,0.321,1,-10.569,0,0.458,0.00785,2.02E-06,0.0885,0.521,169.129,reggae
+reggae.00048.wav,0oeeBEIJZwEgBAXDyjW5ro,Westbound Train (Extended),Dennis Brown,8,369333,FALSE,0.769,0.629,6,-6.746,0,0.1,0.12,0.698,0.051,0.319,87.841,reggae
+reggae.00049.wav,7LOAChK8Lkj8ZdF1LuhNWP,007 (Shanty Town),Desmond Dekker,56,152866,FALSE,0.831,0.65,9,-4.508,1,0.0601,0.155,0.262,0.105,0.826,101.681,reggae
+reggae.00050.wav,1l9GkoexRCjhP4O8qYFmPW,Identity,Burning Spear,38,239840,FALSE,0.811,0.646,11,-8.505,1,0.0731,0.0181,0.3,0.0635,0.782,94.412,reggae
+reggae.00052.wav,31bf9SEOppLU6lQ85d8om6,Ghetto Supastar (That Is What You Are),Pras,67,261133,FALSE,0.818,0.653,1,-8.396,1,0.204,0.0335,5.46E-06,0.22,0.533,99.931,reggae
+reggae.00053.wav,71B67K8lfWxyGIyodTuukM,Stop 'Em Jah,Hugh Mundell,15,351026,FALSE,0.735,0.292,0,-18.088,1,0.13,0.0893,0.431,0.0537,0.581,77.084,reggae
+reggae.00054.wav,75FYqcxt1YEAtqDLrOeIJn,Three Little Birds,Bob Marley & The Wailers,78,180266,FALSE,0.826,0.49,9,-10.477,1,0.0676,0.00916,4.41E-06,0.0415,0.627,74.126,reggae
+reggae.00055.wav,7eC36JtZ0Qo7B98ucIiYto,Sun Is Shining (Extended Club Mix),Bob Marley,46,236280,FALSE,0.682,0.904,0,-7.465,1,0.09,0.00347,0.075,0.104,0.907,130.062,reggae
+reggae.00056.wav,2fGZTxueiQkrfQ9uDwChBq,"Get Up, Stand Up",Bob Marley & The Wailers,34,221933,FALSE,0.826,0.546,6,-9.518,0,0.385,0.321,5.13E-05,0.068,0.866,148.244,reggae
+reggae.00057.wav,7HrXkDaGGJ7U5ZmFfFugdD,I Shot the Sheriff,Bob Marley,40,393480,FALSE,0.727,0.795,6,-5.226,0,0.115,0.533,0.000105,0.71,0.772,139.57,reggae
+reggae.00058.wav,5LyfiK6iXEIBNEtcaGKohl,Jamming,Bob Marley & The Wailers,74,211000,FALSE,0.935,0.479,11,-10.981,0,0.306,0.107,5.25E-05,0.118,0.773,123.644,reggae
+reggae.00059.wav,6SR0dDuXH2vtgBfMLrivKV,One Love / People Get Ready,Bob Marley & The Wailers,72,172933,FALSE,0.67,0.516,10,-9.598,1,0.366,0.0673,0,0.0674,0.939,154.186,reggae
+reggae.00060.wav,26PwuMotZqcczKLHi4Htz3,Redemption Song,Bob Marley & The Wailers,70,233560,FALSE,0.671,0.256,7,-10.743,1,0.0387,0.608,0,0.0737,0.694,115.871,reggae
+reggae.00062.wav,1DPEtCjjv4uduWekTI1D1T,Jah Is My Driver,Burning Spear,26,290026,FALSE,0.715,0.459,6,-12.088,0,0.364,0.0822,0.00587,0.0541,0.599,154.65,reggae
+reggae.00063.wav,30ELPvO4DH57Rq2kgj7a8e,Marcus Garvey,Burning Spear,53,207000,FALSE,0.7,0.473,7,-9.893,0,0.0687,0.129,0.000891,0.0452,0.578,91.558,reggae
+reggae.00064.wav,6suh5r3SF4PRev1MXNivjd,Make It Easy,Dennis Brown,4,188626,FALSE,0.8,0.369,1,-13.57,1,0.0492,0.0117,0.000555,0.0846,0.864,83.403,reggae
+reggae.00065.wav,41U7si1YvNIMknM0taQ4px,Rub a Dub All the Time,Dennis Brown,34,157426,FALSE,0.837,0.746,10,-1.777,0,0.0763,0.0694,0.000517,0.0661,0.951,87.001,reggae
+reggae.00066.wav,6TlEMCPX9LUwGjCTzv2LFR,Sitting and Watching,Dennis Brown,32,255826,FALSE,0.653,0.542,2,-9.541,1,0.0477,0.256,0.74,0.27,0.653,79.732,reggae
+reggae.00067.wav,7Gxg7F3DNc5nuxRgYqXhUh,Some Like It Hot,Dennis Brown,12,179065,FALSE,0.607,0.505,9,-8.646,0,0.0653,0.774,1.87E-05,0.171,0.758,168.691,reggae
+reggae.00068.wav,1geM9S8bvDOr9UrBx7bB48,Wolf & Leopards / Nosey Joe,Dennis Brown & Bongo Herman,10,345626,FALSE,0.719,0.4,11,-6.941,0,0.281,0.0331,0.000996,0.0979,0.66,68.499,reggae
+reggae.00069.wav,53aXCpKRUASUQ8cIDsJ7VN,Israelites,Desmond Dekker,45,153663,FALSE,0.737,0.533,10,-10.133,1,0.0578,0.258,0.00094,0.077,0.97,74.112,reggae
+reggae.00071.wav,7IBIZHonObtZG33pkVZZkg,Big Ship,Freddie McGregor,53,197733,FALSE,0.727,0.413,0,-8.844,1,0.352,0.00565,2.71E-06,0.138,0.814,69.884,reggae
+reggae.00072.wav,6nhsTWJJeYsgloh5DgqLcn,Prophecy,Freddie McGregor,18,221360,FALSE,0.859,0.382,2,-16.516,1,0.382,0.0181,0,0.0641,0.913,83.949,reggae
+reggae.00075.wav,73lYI49LhfsscO33ohrGN0,Legalize It,Peter Tosh,57,279360,FALSE,0.71,0.589,0,-11.933,1,0.167,0.068,4.38E-06,0.176,0.65,144.601,reggae
+reggae.00076.wav,56riBKFYCtJIocChuLTx17,Night Nurse,Simply Red,30,236413,FALSE,0.753,0.57,7,-11.786,1,0.0619,0.0237,0.000205,0.25,0.748,156.685,reggae
+reggae.00077.wav,50z0VLKzVanriPT3GpeITY,Night Nurse,The Dualers,6,245577,FALSE,0.869,0.434,7,-10.251,1,0.269,0.0145,0.000133,0.0513,0.654,74.525,reggae
+reggae.00078.wav,5BjeQESqDskRH26ANbCzY4,Universal Tribulation,Gregory Isaacs,22,227000,FALSE,0.813,0.404,7,-13.272,0,0.212,0.342,0.045,0.0832,0.805,79.164,reggae
+reggae.00079.wav,6iE40PqOXO9PxZPqwyzhhC,Skylarking / A Better Version,Horace Andy,4,392706,FALSE,0.732,0.601,1,-8.373,0,0.153,0.19,0.00246,0.129,0.587,76.985,reggae
+reggae.00080.wav,3QRM0qZB7oMYavveH0iEqx,Here Comes the Hotstepper (Heartical Mix),Ini Kamoze,66,250466,FALSE,0.889,0.454,4,-8.598,0,0.221,0.0141,0.000186,0.203,0.436,100.36,reggae
+reggae.00081.wav,3QRM0qZB7oMYavveH0iEqx,Here Comes the Hotstepper (Heartical Mix),Ini Kamoze,66,250466,FALSE,0.889,0.454,4,-8.598,0,0.221,0.0141,0.000186,0.203,0.436,100.36,reggae
+reggae.00082.wav,3QRM0qZB7oMYavveH0iEqx,Here Comes the Hotstepper (Heartical Mix),Ini Kamoze,66,250466,FALSE,0.889,0.454,4,-8.598,0,0.221,0.0141,0.000186,0.203,0.436,100.36,reggae
+reggae.00083.wav,1XLSqg8J80cfH40IqLKZI9,"Many Rivers To Cross (From ""The Harder They Come"" Soundtrack)",Jimmy Cliff,13,182160,FALSE,0.434,0.172,5,-15.075,1,0.0462,0.617,0.00999,0.065,0.188,136.88,reggae
+reggae.00084.wav,2XIr0KTybGQsC1SFfeaZhI,The Harder They Come,Jimmy Cliff,57,219906,FALSE,0.679,0.575,1,-8.037,1,0.0715,0.634,0,0.165,0.79,102.588,reggae
+reggae.00085.wav,0XmbuWZ2vn1i8bim4Ug6BL,Judge Dread,Prince Buster,36,218400,FALSE,0.795,0.563,0,-7.988,1,0.216,0.342,0.0224,0.186,0.896,87.978,reggae
+reggae.00086.wav,1c5kqACya2fycn40p3ffLt,Splash Out Dub,King Tubby,3,258933,FALSE,0.695,0.627,5,-10.174,1,0.0649,0.0916,0.872,0.512,0.4,125.655,reggae
+reggae.00088.wav,1JyaAeaXVFnVv5ikwWQVQ4,Electric Boogie,Marcia Griffiths,44,242773,FALSE,0.769,0.898,1,-9.347,1,0.0355,0.116,0.000648,0.261,0.968,108.141,reggae
+reggae.00090.wav,53MAqvN9jC9xX1JcowZ8Xn,Ketchy Shuby,Peter Tosh,32,299173,FALSE,0.656,0.641,7,-10.329,1,0.333,0.0177,0,0.0532,0.862,75.23,reggae
+reggae.00091.wav,73lYI49LhfsscO33ohrGN0,Legalize It,Peter Tosh,57,279360,FALSE,0.71,0.589,0,-11.933,1,0.167,0.068,4.38E-06,0.176,0.65,144.601,reggae
+reggae.00092.wav,73lYI49LhfsscO33ohrGN0,Legalize It,Peter Tosh,57,279360,FALSE,0.71,0.589,0,-11.933,1,0.167,0.068,4.38E-06,0.176,0.65,144.601,reggae
+reggae.00093.wav,1oIJoulLdYJzrg0dxpkwfx,(You Gotta Walk) Don't Look Back (Live),Peter Tosh,17,356933,FALSE,0.423,0.881,0,-6.094,1,0.057,0.159,0,0.975,0.855,201.512,reggae
+reggae.00094.wav,6RXoA806Vy7clqPkcKiIjx,Ten Commandments,Prince Buster,27,208893,FALSE,0.731,0.538,8,-11.013,1,0.0538,0.0704,0.648,0.081,0.908,123.789,reggae
+reggae.00095.wav,71pBxayPPUWgs99vFMHaCA,Madness,Prince Buster,39,165168,FALSE,0.856,0.747,0,-6.3,1,0.0701,0.208,7.88E-06,0.111,0.839,123.582,reggae
+reggae.00096.wav,0XmbuWZ2vn1i8bim4Ug6BL,Judge Dread,Prince Buster,36,218400,FALSE,0.795,0.563,0,-7.988,1,0.216,0.342,0.0224,0.186,0.896,87.978,reggae
+reggae.00097.wav,3hTlacaLL9o5OmhxEBNIQi,Here Comes The Bride,Prince Buster,0,165413,FALSE,0.412,0.436,5,-10.181,1,0.0298,0.879,1.60E-06,0.0816,0.504,156.62,reggae
+reggae.00099.wav,4ycLATEz7Jgg1xIWgvnLHm,Al Capone,Prince Buster,33,183640,FALSE,0.693,0.773,10,-9.112,1,0.139,0.0174,0.492,0.308,0.8,116.889,reggae
+rock.00000.wav,1wNI5VMEKnzgUanuz2mev8,Potion,Morphine,18,120426,FALSE,0.497,0.472,7,-7.41,1,0.033,0.0642,1.03E-05,0.207,0.32,121.121,rock
+rock.00001.wav,0IbP6shZbKURnd7qI8RfgD,I Know You (Pt. III),Morphine,18,211506,FALSE,0.502,0.624,4,-7.119,0,0.0309,0.285,0.158,0.201,0.373,150.725,rock
+rock.00002.wav,5owUXEMRZ07nSGtWWQvD3z,Early to Bed,Morphine,22,177466,FALSE,0.859,0.611,7,-7.542,1,0.0486,0.111,0.00248,0.096,0.432,105.56,rock
+rock.00003.wav,2k9q6kZRkrCEUXtwHHTh1R,Wishing Well,Morphine,17,212226,FALSE,0.601,0.55,5,-8.843,1,0.0341,0.34,0.0575,0.0953,0.324,94.351,rock
+rock.00004.wav,6XJdplt0PeXx0AB6O7YUcc,Like Swimming,Morphine,18,240440,FALSE,0.642,0.212,2,-11.548,1,0.0248,0.705,0.522,0.0812,0.448,77.675,rock
+rock.00006.wav,3R8uOZJTPzIVmCh64calG2,French Fries W- Pepper,Morphine,20,173200,FALSE,0.493,0.399,8,-8.928,1,0.0323,0.698,0.00735,0.249,0.458,113.693,rock
+rock.00007.wav,0Yxb9D8hq46ogWGhIKuau5,Empty Box,Morphine,18,234440,FALSE,0.577,0.397,9,-10.676,0,0.0315,0.735,0.0045,0.0996,0.144,89.515,rock
+rock.00008.wav,6gqJ9yc0tr5cNFgqEkXEvo,Eleven O'clock,Morphine,14,199360,FALSE,0.345,0.905,2,-6.263,1,0.0498,0.382,0.964,0.154,0.208,89.463,rock
+rock.00009.wav,3xoy8YQ1C8ahqAQBEWgrGw,Hanging on a Curtain,Morphine,17,228226,FALSE,0.559,0.268,0,-10.817,1,0.0269,0.482,0.266,0.121,0.172,74.782,rock
+rock.00010.wav,3bm0j58LSF6YlQ9ruk4Yl3,Worthy,Ani DiFranco,21,271400,FALSE,0.518,0.653,2,-7.923,1,0.165,0.27,0.303,0.09,0.527,164.656,rock
+rock.00011.wav,0E62P7QrSwkY1aHsx22I9q,Cradle and All,Ani DiFranco,25,257920,FALSE,0.517,0.545,8,-10.176,1,0.1,0.679,0.0132,0.114,0.668,117.798,rock
+rock.00012.wav,6rKyDPuN5pasO5vtqdiyqo,Shy,Ani DiFranco,30,285240,TRUE,0.747,0.592,11,-9.007,0,0.0862,0.254,0.00167,0.213,0.825,113.793,rock
+rock.00013.wav,1nUn5yFnGi9ZxVYv84KtdF,32 Flavors,Ani DiFranco,45,367933,FALSE,0.698,0.485,8,-9.811,1,0.0589,0.252,0.0135,0.126,0.163,91.375,rock
+rock.00014.wav,6A7u3lTjQv91Ig3Bv3pvHL,Asking Too Much,Ani DiFranco,18,175253,FALSE,0.457,0.652,11,-7.406,0,0.206,0.281,9.92E-05,0.711,0.693,83.761,rock
+rock.00015.wav,3sByWI3pyfFkk9CYr9VGXE,Coming Up,Ani DiFranco,16,148213,FALSE,0.598,0.499,0,-14.04,0,0.0758,0.434,8.25E-06,0.0909,0.786,102.979,rock
+rock.00016.wav,6K8gEgGkOyD1wFY3kAcyOy,Tie Your Mother Down,Queen,48,286693,FALSE,0.327,0.886,2,-5.6,1,0.0722,0.094,0.000195,0.35,0.16,134.991,rock
+rock.00017.wav,11IzgLRXV7Cgek3tEgGgjw,Under Pressure,Queen,70,248440,FALSE,0.671,0.711,2,-7.813,1,0.0478,0.422,0,0.104,0.466,113.809,rock
+rock.00018.wav,57JVGBtBLCfHw2muk5416J,Another One Bites The Dust,Queen,72,214653,FALSE,0.933,0.528,5,-6.472,0,0.162,0.112,0.329,0.163,0.756,109.975,rock
+rock.00019.wav,7h2yhVxcZOGyQdOwD4Hu8J,I Want To Break Free,Queen,62,258013,FALSE,0.795,0.433,4,-8.927,1,0.0324,0.0853,0.000284,0.0762,0.6,108.947,rock
+rock.00022.wav,7tU4wwNkxQRSIIYPyCVecY,Tear It Up,Queen,30,206173,FALSE,0.524,0.668,2,-10.345,1,0.0432,0.112,0,0.0824,0.313,90.151,rock
+rock.00023.wav,7tFiyTwD0nx5a1eklYtX2J,Bohemian Rhapsody,Queen,72,354320,FALSE,0.392,0.402,0,-9.961,0,0.0536,0.288,0,0.243,0.228,143.883,rock
+rock.00024.wav,00QAndVDVfNqNWYdWAhEan,Who Wants To Live Forever,Queen,47,295346,FALSE,0.135,0.399,4,-8.67,0,0.0361,0.577,0.00104,0.115,0.0383,87.476,rock
+rock.00025.wav,0tJX8CEhMTVKO4NMUmRXIs,Big Spender,Queen,16,66400,FALSE,0.284,0.988,9,-3.732,0,0.167,0.0711,2.36E-05,0.419,0.0981,155.189,rock
+rock.00026.wav,1HmzAZUvhQLhLo2z3ocpZI,Radio Ga Ga,Queen,60,348226,FALSE,0.744,0.502,5,-7.705,1,0.0359,0.179,0.000172,0.19,0.655,112.345,rock
+rock.00027.wav,5t9KYe0Fhd5cW6UYT4qP8f,Good Vibrations,The Beach Boys,70,219026,FALSE,0.396,0.473,10,-7.67,0,0.0345,0.326,0.000124,0.109,0.385,133.449,rock
+rock.00028.wav,1uBsu3PbD2909UBIfEMLvK,Jumpin' Jack Flash,The Rolling Stones,66,222933,FALSE,0.595,0.885,3,-7.688,1,0.0518,0.0744,0.534,0.0844,0.643,137.243,rock
+rock.00029.wav,7EXgO1bRnEArE58rtrgMWB,Street Fighting Man,The Rolling Stones,57,195146,FALSE,0.583,0.855,0,-7.213,1,0.0333,0.1,0.0177,0.262,0.69,128.178,rock
+rock.00030.wav,1Ud6moTC0KyXMq1Oxfien0,Sympathy For The Devil,The Rolling Stones,73,378146,FALSE,0.702,0.668,9,-9.237,1,0.214,0.518,0,0.0588,0.561,116.063,rock
+rock.00031.wav,3fnPv1LRMxENr63afVhaz1,Honky Tonk Women,The Rolling Stones,67,182706,FALSE,0.56,0.721,7,-6.669,1,0.0629,0.225,0.0339,0.0453,0.966,119.285,rock
+rock.00032.wav,5hhVpGIBlqAU5yJEOmrk5o,All My Love,Led Zeppelin,64,353720,FALSE,0.554,0.791,7,-8.326,1,0.0288,0.113,1.76E-05,0.166,0.697,91.108,rock
+rock.00033.wav,6H3kDe7CGoWYBabAeVWGiD,Gimme Shelter,The Rolling Stones,76,270773,FALSE,0.634,0.63,1,-8.277,0,0.031,0.447,0.039,0.17,0.489,118.628,rock
+rock.00034.wav,72Z17vmmeQKAg8bptWvpVG,Space Oddity,David Bowie,71,318026,FALSE,0.31,0.403,0,-13.664,1,0.0326,0.0726,9.27E-05,0.139,0.466,134.48,rock
+rock.00035.wav,58dX6IXDkEGVYL8rEwUFGv,Midnight Rambler (Live),The Rolling Stones,30,554933,FALSE,0.436,0.631,4,-11.736,1,0.07,0.274,0.323,0.962,0.528,135.26,rock
+rock.00036.wav,16GUMo6u3D2qo9a19AkYct,Movin' Out (Anthony's Song),Billy Joel,67,210760,FALSE,0.664,0.88,2,-5.009,0,0.0326,0.465,1.63E-05,0.0591,0.895,133.898,rock
+rock.00037.wav,61UuPxxYUvacEH6SHIK3sU,Brown Sugar,The Rolling Stones,66,228666,FALSE,0.633,0.934,0,-3.594,1,0.0344,0.219,0.00021,0.0592,0.963,128.606,rock
+rock.00038.wav,4JiEyzf0Md7KEFFGWDDdCr,Knockin' On Heaven's Door,Guns N' Roses,78,336000,FALSE,0.496,0.739,6,-7.193,1,0.0415,0.0211,0.00444,0.106,0.378,132.41,rock
+rock.00039.wav,2e61kmae4HhbuS9hYONQ0A,The Song Remains the Same,Led Zeppelin,53,329093,FALSE,0.255,0.815,7,-8.197,1,0.0545,0.0747,0.471,0.227,0.699,144.549,rock
+rock.00040.wav,7IgBLFklu75pp8Y1vphChS,The Crunge,Led Zeppelin,49,197704,FALSE,0.531,0.798,2,-8.514,1,0.148,0.132,0,0.356,0.852,112.609,rock
+rock.00041.wav,43doj2cumGe9W3p5ucxaoH,Dancing Days,Led Zeppelin,47,223464,FALSE,0.556,0.855,0,-6.901,1,0.0403,0.174,0.00381,0.261,0.721,117.248,rock
+rock.00043.wav,0AqjkVFqa1ujle4Lb1k9wR,The Ocean,Led Zeppelin,60,271397,FALSE,0.401,0.56,9,-8.7,1,0.0612,0.08,0.0121,0.361,0.735,88.256,rock
+rock.00044.wav,5NfzVueIjM2uwu7UWTvZAU,Down By the Seaside,Led Zeppelin,50,315507,FALSE,0.395,0.491,0,-10.813,1,0.029,0.754,0.261,0.132,0.451,97.081,rock
+rock.00045.wav,6M5m8gfTj3rhYEPDzLmdL4,Ten Years Gone,Led Zeppelin,57,394920,FALSE,0.545,0.416,2,-11.979,1,0.0433,0.559,0.00496,0.0369,0.295,76.872,rock
+rock.00046.wav,0lrTkq310F22Eyv7yolL87,Night Flight,Led Zeppelin,42,218253,FALSE,0.511,0.722,2,-9.625,1,0.0308,0.274,0.00808,0.057,0.541,100.292,rock
+rock.00047.wav,5tLacvgGxftjiWhddXuUn5,The Wanton Song,Led Zeppelin,47,248720,FALSE,0.498,0.746,2,-8.958,0,0.0471,0.00414,0.0249,0.108,0.561,110.815,rock
+rock.00048.wav,26yQ7ty7PQBHxqSFGoaORp,Boogie With Stu,Led Zeppelin,43,232730,FALSE,0.632,0.927,4,-10.163,1,0.049,0.627,0.817,0.0571,0.976,132.722,rock
+rock.00049.wav,7dg0177UbFQ2PZZVWwTWzY,Real Life,Simple Minds,34,295386,FALSE,0.306,0.89,1,-5.845,0,0.0679,0.0608,0.141,0.287,0.228,83.871,rock
+rock.00050.wav,00Jk0pSoXt92IT9yYNaFqt,See the Lights,Simple Minds,48,261874,FALSE,0.569,0.559,1,-8.459,1,0.0283,0.0218,0.241,0.215,0.201,125.089,rock
+rock.00051.wav,1KKAzCSZ7tS4KWDqG6uxVA,Let There Be Love,Simple Minds,51,309426,FALSE,0.493,0.881,1,-6.314,1,0.0418,0.0799,0.0787,0.129,0.595,88.07,rock
+rock.00052.wav,1MdBFSDmHecjTlDsRbAeLe,Woman,Simple Minds,22,281160,FALSE,0.697,0.414,1,-11.439,0,0.0542,0.387,0.267,0.188,0.361,97.122,rock
+rock.00053.wav,5mYlt4d2hgYM0OuhfAjvXB,Stand By Love,Simple Minds,30,243613,FALSE,0.484,0.943,5,-5.154,1,0.0444,0.0422,0.288,0.119,0.332,119.669,rock
+rock.00054.wav,0byS4ry17Tgb6UhF6H86H5,African Skies,Simple Minds,18,294080,FALSE,0.394,0.875,9,-8.385,0,0.046,0.521,0.415,0.0448,0.393,130.084,rock
+rock.00055.wav,0byS4ry17Tgb6UhF6H86H5,African Skies,Simple Minds,18,294080,FALSE,0.394,0.875,9,-8.385,0,0.046,0.521,0.415,0.0448,0.393,130.084,rock
+rock.00056.wav,6Njvdy48ddXy5IvBAYQfQi,Ghostrider,Simple Minds,18,201426,FALSE,0.555,0.986,9,-4.313,1,0.047,0.133,0.0403,0.277,0.496,138.248,rock
+rock.00057.wav,5Xhqe9xu6bKRSqLj1mS1SB,If You Love Somebody Set Them Free,Sting,55,256226,FALSE,0.627,0.849,9,-10.61,0,0.0309,0.137,0,0.319,0.817,125.058,rock
+rock.00058.wav,0MBYW7CcBJmsY3HTP05VQg,Russians,Sting,54,238266,FALSE,0.437,0.282,0,-17.567,0,0.035,0.458,0,0.18,0.198,115.517,rock
+rock.00059.wav,7MSnpe4Af3ZKLZgIgME96e,Children's Crusade,Sting,34,301866,FALSE,0.525,0.458,11,-14.96,0,0.0327,0.252,0.000138,0.0787,0.177,116.338,rock
+rock.00060.wav,4dq2d4r7Ljf0pYgvkmfZlL,Artificial Mind,moonyong,0,404831,FALSE,0.344,0.485,0,-15.89,1,0.0552,0.928,0.931,0.39,0.382,91.039,rock
+rock.00061.wav,5NXhCF9wQZGM7c3lUzTQZH,We Work the Black Seam,Sting,46,368466,FALSE,0.625,0.429,7,-9.833,0,0.0282,0.633,0.000638,0.28,0.355,114.341,rock
+rock.00062.wav,6mI3a3KytB3QjyUst4Pprr,Consider Me Gone,Sting,32,260360,FALSE,0.617,0.263,6,-18.666,1,0.0299,0.384,0.000154,0.035,0.666,127.147,rock
+rock.00063.wav,3KF1EXX2zGfVtGeZKiClB0,Moon Over Bourbon Street,Sting,48,240306,FALSE,0.413,0.0563,5,-22.264,0,0.041,0.67,0.000126,0.102,0.183,124.977,rock
+rock.00064.wav,2hSOrxX3I69A8xth8arEq2,Living In the Past,Jethro Tull,52,202893,FALSE,0.686,0.488,5,-11.024,1,0.0582,0.216,1.89E-05,0.121,0.965,151.031,rock
+rock.00065.wav,5UuikgHTxSRFRnC0zXx10i,Aqualung,Jethro Tull,61,396186,FALSE,0.477,0.479,7,-11.887,0,0.0483,0.0649,0.029,0.0906,0.662,122.531,rock
+rock.00066.wav,5UEWQ5Zh27nmKnSb2eJhll,Too Old To Rock 'N' Roll: Too Young To Die!,Jethro Tull,38,334026,FALSE,0.456,0.459,0,-10.72,1,0.0288,0.0153,0,0.139,0.468,77.405,rock
+rock.00067.wav,1IQAsCKoXsEJ7tdI0dxTqT,Bungle In the Jungle,Jethro Tull,46,216213,FALSE,0.621,0.561,11,-10.797,0,0.0308,0.275,0,0.323,0.961,106.142,rock
+rock.00068.wav,3rr2cAqjNCqaB1q48BCH2u,Sweet Dream,Jethro Tull,25,243840,FALSE,0.521,0.726,4,-9.992,0,0.0593,0.0301,0.000338,0.0574,0.726,123.669,rock
+rock.00069.wav,08popY0ZCcoOvyM9IHTdwB,Witches Promise,Jethro Tull,1,231280,FALSE,0.282,0.527,2,-8.42,1,0.0415,0.0885,1.99E-05,0.328,0.854,169.46,rock
+rock.00070.wav,1ql35N6jbGPcMR9tC0t9zp,Life Is a Long Song,Jethro Tull,33,198186,FALSE,0.463,0.642,2,-11.773,1,0.0329,0.244,9.04E-05,0.142,0.924,167.562,rock
+rock.00071.wav,6RkQVjeMWyg9EpMSTQfNCL,Something Got Me Started,Simply Red,0,236226,FALSE,0.758,0.735,7,-7.105,1,0.0364,0.00097,0.062,0.0728,0.677,110.526,rock
+rock.00072.wav,5QJSD5GQOq72OmwLV5IHUV,Stars,Simply Red,47,248599,FALSE,0.716,0.818,7,-7.456,1,0.0256,0.154,0.000806,0.236,0.817,103.668,rock
+rock.00073.wav,4vBhDli1CkhxNJfwoLjbZu,Thrill Me,Simply Red,24,303959,FALSE,0.618,0.921,2,-6.598,0,0.045,0.0696,0.0263,0.176,0.875,93.988,rock
+rock.00074.wav,5tVWBN4aty6NYZje9ahUQC,Your Mirror,Simply Red,23,239639,FALSE,0.768,0.596,7,-8.13,1,0.0332,0.0237,0.000107,0.0375,0.83,112.014,rock
+rock.00075.wav,4CzcbuHWQBSo60NhLIdj7r,She's Got It Bad,Simply Red,10,213333,FALSE,0.779,0.825,9,-6.744,1,0.046,0.0194,0.000291,0.0224,0.887,120.015,rock
+rock.00076.wav,2TPcH3YlcOa6vWxS63VILx,For Your Babies,Simply Red,40,257759,FALSE,0.726,0.486,9,-8.774,1,0.0237,0.212,0.00022,0.077,0.476,95.983,rock
+rock.00077.wav,7b7b78N5EqXu1JG4P6DXFL,Freedom,Simply Red,8,232573,FALSE,0.681,0.879,8,-7.196,0,0.0379,0.00524,0.439,0.0572,0.922,107.157,rock
+rock.00078.wav,48vnzItjqXeSTPLzyiXmlH,Wonderland,Simply Red,25,228359,FALSE,0.745,0.559,0,-9.642,1,0.0234,0.0832,5.97E-06,0.044,0.712,97.996,rock
+rock.00079.wav,0kly0FygSDXVbvbXxsZ31S,High On You,Survivor,51,248200,FALSE,0.659,0.714,7,-9.811,1,0.0321,0.398,1.15E-05,0.174,0.871,125.152,rock
+rock.00080.wav,6rt4FH5qFgXGmyhgKmlJcL,Is This Love,Survivor,45,222560,FALSE,0.679,0.772,3,-8.946,1,0.0328,0.557,0,0.0338,0.749,118.129,rock
+rock.00081.wav,7bjlsOZE5N3zl4WttKgSi5,Poor Man's Son,Survivor,20,215733,FALSE,0.672,0.572,0,-12.617,0,0.0612,0.48,5.89E-05,0.126,0.747,118.393,rock
+rock.00082.wav,2VN7uPrbryJ7nE2MXX3f9a,Burning Heart,Survivor,67,230106,FALSE,0.652,0.609,9,-9.684,0,0.028,0.298,8.79E-06,0.0573,0.646,98.125,rock
+rock.00084.wav,2Br1qzf8rH7LIvAzohfW4A,How Much Love,Survivor,24,237200,FALSE,0.562,0.836,7,-8.73,1,0.0398,0.204,5.67E-06,0.0867,0.74,129.211,rock
+rock.00085.wav,194q6RR0JRyNKZPHiJIvaw,Man Against the World,Survivor,46,215800,FALSE,0.628,0.462,5,-7.035,1,0.0261,0.463,0,0.337,0.253,97.61,rock
+rock.00086.wav,5RsUlxLto4NZbhJpqJbHfN,Jessie's Girl,Rick Springfield,70,194120,FALSE,0.727,0.834,2,-5.851,1,0.0496,0.165,0,0.105,0.816,131.7,rock
+rock.00088.wav,52KvuGmgcgRdrLMXOtda0E,The Stroke,Billy Squier,67,217613,FALSE,0.67,0.591,7,-6.012,1,0.0646,0.62,0,0.373,0.8,91.439,rock
+rock.00089.wav,1SWmFiFSIBoDbQJjNKC7SR,Against the Wind,Bob Seger & The Silver Bullet Band,65,333720,FALSE,0.674,0.771,7,-5.612,1,0.0246,0.28,0.0318,0.133,0.718,109.618,rock
+rock.00090.wav,2F4FNcz68howQWD4zaGJSi,The Lion Sleeps Tonight,The Tokens,61,162093,FALSE,0.321,0.474,5,-9.383,1,0.0348,0.743,0,0.204,0.804,121.199,rock
+rock.00091.wav,3clIHVzJ9J2rvvrFUKLICo,She Bangs the Drums,The Stone Roses,61,232333,FALSE,0.339,0.976,9,-4.782,1,0.0909,0.00649,0.00672,0.123,0.672,144.723,rock
+rock.00092.wav,57inMtXj5ZwnevKzP49bTT,Elephant Stone,The Stone Roses,46,290640,FALSE,0.395,0.985,8,-4.88,1,0.149,0.000306,0.101,0.259,0.336,130.405,rock
+rock.00093.wav,4CWgqHRJjDLd2PCedMz8eY,Waterfall,The Stone Roses,61,278826,FALSE,0.491,0.686,11,-8.22,1,0.0289,0.0236,0.263,0.451,0.437,103.715,rock
+rock.00095.wav,2r0Cx2vW1wn2K3PogcdcPX,Bye Bye Bad Man,The Stone Roses,48,243986,FALSE,0.598,0.743,7,-7.254,1,0.0263,0.0321,0.00766,0.11,0.88,103.076,rock
+rock.00096.wav,3WEDBjYdFN9anBLB87w9b8,(Song for My) Sugar Spun Sister (Remastered),The Stone Roses,48,206786,FALSE,0.346,0.854,9,-5.646,1,0.0391,0.0273,0.0192,0.0987,0.414,120.934,rock
+rock.00097.wav,0bZelokqNQicLQfLU1Ayw8,Made of Stone,The Stone Roses,56,254640,FALSE,0.264,0.966,7,-5.009,1,0.0832,0.094,0.175,0.332,0.427,131.603,rock
+rock.00098.wav,2erQ477GekpdP5l3xp5adl,Shoot You Down,The Stone Roses,49,253453,FALSE,0.527,0.513,0,-10.967,1,0.0304,0.0918,0.164,0.327,0.294,108.934,rock
+rock.00099.wav,433EQGQOsQjWvD5eImXkHf,This Is the One,The Stone Roses,53,299320,FALSE,0.247,0.784,9,-7.452,1,0.0514,0.00133,0.0369,0.558,0.345,126.679,rock
